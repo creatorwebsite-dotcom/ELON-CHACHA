@@ -1,0 +1,1375 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>🔐 Universal Admin Control Panel — SARKARI NAUKAR BANEGA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800;900&family=JetBrains+Mono:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <!-- Real 128kbps MP3 Encoder Library for Voice Vault Sample Downloads (Slots 1 to 5) -->
+  <script src="https://cdn.jsdelivr.net/npm/lamejs@1.2.1/lame.all.js"></script>
+  <style>
+    :root {
+      --sn-primary: #094053;
+      --sn-secondary: #006975;
+      --sn-gold: #f8c016;
+      --sn-ticker-red: #c9182b;
+      --sn-bg: #f1f5f9;
+      --sn-card: #ffffff;
+      --sn-border: #cbd5e1;
+      --sn-text-dark: #051520;
+      --sn-text-muted: #64748b;
+      --sn-success: #10b981;
+      --sn-danger: #ef4444;
+      --sn-warning: #f59e0b;
+      --sn-info: #0284c7;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Plus Jakarta Sans', sans-serif; }
+    body { background: var(--sn-bg); color: var(--sn-text-dark); min-height: 100vh; }
+
+    /* ================= TOP 2-HOUR CRON-JOB.ORG + GITHUB SYNC RADAR BAR ================= */
+    #snAdmin2HrSyncRadarBar {
+      background: linear-gradient(135deg, #041922, #094053);
+      color: #ffffff;
+      border-bottom: 2px solid #f8c016;
+      padding: 9px 16px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 10px;
+      font-size: 0.78rem;
+      position: sticky;
+      top: 0;
+      z-index: 99999;
+    }
+
+    /* ================= LOGIN SCREEN & FORGOT PASSWORD OTP MODAL ================= */
+    .login-wrapper {
+      min-height: calc(100vh - 46px);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: radial-gradient(circle at top right, #006975, #094053, #041922);
+      padding: 20px;
+    }
+    .login-card {
+      background: #ffffff;
+      border-radius: 16px;
+      padding: 32px 28px;
+      width: 100%;
+      max-width: 450px;
+      box-shadow: 0 25px 60px rgba(0, 0, 0, 0.48);
+      border: 2.5px solid var(--sn-gold);
+    }
+    .login-brand { text-align: center; margin-bottom: 20px; }
+    .login-brand h1 { font-size: 1.45rem; font-weight: 900; color: var(--sn-primary); text-transform: uppercase; letter-spacing: 0.3px; }
+    .login-brand p { font-size: 0.78rem; color: var(--sn-text-muted); font-weight: 700; margin-top: 4px; }
+
+    .form-group { margin-bottom: 14px; }
+    .form-group label { display: block; font-size: 0.8rem; font-weight: 800; color: var(--sn-primary); margin-bottom: 5px; }
+    .form-group input, .form-group select, .form-group textarea {
+      width: 100%;
+      padding: 9px 12px;
+      border: 1.5px solid var(--sn-border);
+      border-radius: 8px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      outline: none;
+      background: #fff;
+      transition: border-color 0.2s;
+    }
+    .form-group input:focus, .form-group select:focus, .form-group textarea:focus {
+      border-color: var(--sn-secondary);
+      box-shadow: 0 0 0 3px rgba(0, 105, 117, 0.15);
+    }
+    .form-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 12px; }
+
+    .btn-login {
+      width: 100%;
+      padding: 12px;
+      background: linear-gradient(135deg, var(--sn-primary), var(--sn-secondary));
+      color: var(--sn-gold);
+      font-size: 0.98rem;
+      font-weight: 900;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      box-shadow: 0 4px 14px rgba(9, 64, 83, 0.3);
+    }
+    .btn-login:hover { opacity: 0.96; }
+
+    .login-security-footer {
+      margin-top: 14px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 8px;
+      padding-top: 12px;
+      border-top: 1px dashed #cbd5e1;
+      font-size: 0.76rem;
+    }
+    .forgot-pwd-link {
+      color: #0284c7;
+      font-weight: 800;
+      cursor: pointer;
+      text-decoration: underline;
+      background: none;
+      border: none;
+      font-size: 0.76rem;
+    }
+    .forgot-pwd-drawer {
+      display: none;
+      margin-top: 14px;
+      background: #f8fafc;
+      border: 1.5px solid #38bdf8;
+      border-radius: 10px;
+      padding: 14px;
+    }
+
+    /* ================= ADMIN LAYOUT ================= */
+    #adminApp { display: none; min-height: 100vh; }
+    .sidebar {
+      width: 255px;
+      background: #041922;
+      color: #fff;
+      position: fixed;
+      left: 0; top: 44px; bottom: 0;
+      overflow-y: auto;
+      z-index: 100;
+      display: flex;
+      flex-direction: column;
+      border-right: 2px solid rgba(248, 192, 22, 0.25);
+    }
+    .sidebar-brand {
+      padding: 14px 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+      background: #021118;
+    }
+    .sidebar-brand h2 { font-size: 0.92rem; font-weight: 900; color: var(--sn-gold); text-transform: uppercase; line-height: 1.3; }
+    .sidebar-menu { list-style: none; padding: 10px; flex-grow: 1; }
+    .menu-cat-title {
+      font-size: 0.65rem;
+      text-transform: uppercase;
+      color: #64748b;
+      font-weight: 800;
+      letter-spacing: 1px;
+      padding: 10px 10px 4px;
+    }
+    .sidebar-menu li a {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 9px 12px;
+      color: #cbd5e1;
+      text-decoration: none;
+      font-size: 0.82rem;
+      font-weight: 700;
+      border-radius: 8px;
+      transition: all 0.2s;
+      margin-bottom: 2px;
+    }
+    .sidebar-menu li a i { width: 18px; text-align: center; }
+    .sidebar-menu li a:hover, .sidebar-menu li a.active {
+      background: linear-gradient(90deg, var(--sn-secondary), var(--sn-primary));
+      color: var(--sn-gold);
+    }
+    .sidebar-footer { padding: 12px; border-top: 1px solid rgba(255, 255, 255, 0.08); background: #021118; }
+    .btn-logout {
+      width: 100%;
+      padding: 9px;
+      background: rgba(239, 68, 68, 0.15);
+      border: 1.5px solid var(--sn-danger);
+      color: #fca5a5;
+      font-weight: 800;
+      border-radius: 8px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+    }
+    .btn-logout:hover { background: var(--sn-danger); color: #fff; }
+
+    .main-wrapper { margin-left: 255px; min-height: calc(100vh - 44px); display: flex; flex-direction: column; }
+    .top-nav {
+      min-height: 58px;
+      background: #ffffff;
+      border-bottom: 1.5px solid var(--sn-border);
+      padding: 8px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 10px;
+      position: sticky;
+      top: 44px;
+      z-index: 90;
+    }
+    .top-nav-title { font-size: 1.02rem; font-weight: 900; color: var(--sn-primary); }
+
+    .btn-unseen-alert {
+      background: linear-gradient(135deg, #dc2626, #991b1b);
+      color: #ffffff;
+      border: 2px solid #fef08a;
+      padding: 5px 12px;
+      border-radius: 20px;
+      font-size: 0.75rem;
+      font-weight: 900;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      box-shadow: 0 3px 10px rgba(220, 38, 38, 0.35);
+      animation: pulseAlertBtn 1.5s infinite alternate;
+    }
+    @keyframes pulseAlertBtn {
+      from { transform: scale(1); }
+      to { transform: scale(1.03); box-shadow: 0 0 14px rgba(220, 38, 38, 0.65); }
+    }
+    .unseen-count-pill {
+      background: #fef08a;
+      color: #991b1b;
+      padding: 1px 7px;
+      border-radius: 12px;
+      font-size: 0.74rem;
+      font-weight: 900;
+    }
+
+    .action-explain-strip {
+      background: #0f172a;
+      color: #fef08a;
+      padding: 7px 20px;
+      font-size: 0.77rem;
+      font-weight: 800;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      border-bottom: 1.5px solid #f8c016;
+    }
+
+    .content-body { padding: 20px; flex-grow: 1; }
+
+    /* OPERATIONAL STRIP & 8-BUTTON PHOTO COMMAND CENTER */
+    .sn-op-status-strip {
+      background: linear-gradient(90deg, #042f2e, #0f5132);
+      border: 2px solid #f8c016;
+      border-radius: 12px;
+      padding: 12px 18px;
+      color: #ffffff;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 14px;
+    }
+    .agentic-command-bar {
+      background: linear-gradient(135deg, #041922, #094053);
+      border: 2px solid var(--sn-gold);
+      border-radius: 12px;
+      padding: 15px 18px;
+      margin-bottom: 18px;
+      color: #fff;
+      box-shadow: 0 8px 20px rgba(9, 64, 83, 0.2);
+    }
+    .agentic-command-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+    .agentic-command-head h3 { font-size: 0.95rem; font-weight: 900; color: var(--sn-gold); display: flex; align-items: center; gap: 8px; }
+    .sites-pill-strip { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; }
+    .site-pill-tag {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(248, 192, 22, 0.45);
+      color: #fef08a;
+      padding: 4px 10px;
+      border-radius: 20px;
+      font-size: 0.71rem;
+      font-weight: 800;
+    }
+    .sn-photo-cmd-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 10px;
+      margin-top: 10px;
+    }
+    .sn-photo-trig-btn {
+      padding: 11px 10px;
+      border-radius: 10px;
+      border: 2px solid #ffffff !important;
+      color: #ffffff !important;
+      font-weight: 900 !important;
+      font-size: 0.8rem !important;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 7px;
+      text-align: center;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+      transition: transform 0.15s ease;
+    }
+    .sn-photo-trig-btn:hover { transform: translateY(-2px); }
+    .bg-trig-orange { background: linear-gradient(135deg, #ea580c, #d97706) !important; }
+    .bg-trig-green  { background: linear-gradient(135deg, #16a34a, #15803d) !important; }
+    .bg-trig-red    { background: #dc2626 !important; color: #ffffff !important; }
+    .bg-trig-blue   { background: linear-gradient(135deg, #2563eb, #1d4ed8) !important; }
+    .bg-trig-teal   { background: linear-gradient(135deg, #0d9488, #0f766e) !important; }
+    .bg-trig-purple { background: linear-gradient(135deg, #7c3aed, #5b21b6) !important; }
+
+    .agentic-btn-row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 10px; }
+    .btn-agentic {
+      padding: 8px 13px;
+      border-radius: 8px;
+      border: none;
+      font-weight: 900;
+      font-size: 0.78rem;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: transform 0.15s ease;
+    }
+    .btn-agentic:hover { transform: translateY(-1px); }
+    .btn-direct-pub { background: #10b981; color: #ffffff; }
+    .btn-review-fetch { background: #0284c7; color: #ffffff; }
+    .btn-bulk-del { background: #ef4444; color: #ffffff; }
+    .btn-cat-del { background: #b91c1c; color: #ffffff; }
+    .btn-pub-selected { background: #059669; color: #ffffff; }
+
+    .btn-main {
+      padding: 9px 15px;
+      border-radius: 8px;
+      background: var(--sn-primary);
+      color: var(--sn-gold);
+      border: 1px solid var(--sn-gold);
+      font-weight: 800;
+      font-size: 0.8rem;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+    }
+
+    /* STATS, PANELS, TABLES & FORMS */
+    .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin-bottom: 18px; }
+    .stat-card { background: #fff; border-radius: 10px; padding: 14px; border: 1.5px solid var(--sn-border); display: flex; align-items: center; justify-content: space-between; }
+    .stat-info p { font-size: 0.7rem; font-weight: 800; color: var(--sn-text-muted); text-transform: uppercase; }
+    .stat-info h3 { font-size: 1.4rem; font-weight: 900; color: var(--sn-primary); margin-top: 3px; }
+    .stat-icon { width: 38px; height: 38px; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 1.1rem; }
+
+    .view-panel { display: none; }
+    .view-panel.active { display: block; }
+    .panel-card { background: #fff; border: 1.5px solid var(--sn-border); border-radius: 12px; overflow: hidden; margin-bottom: 18px; }
+    .panel-card-head { background: #f8fafc; padding: 12px 18px; border-bottom: 1.5px solid var(--sn-border); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; }
+    .panel-card-head h3 { font-size: 0.94rem; font-weight: 900; color: var(--sn-primary); display: flex; align-items: center; gap: 8px; }
+    .panel-card-body { padding: 18px; }
+
+    .bulk-filter-toolbar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; justify-content: space-between; background: #f1f5f9; padding: 10px 14px; border-bottom: 1.5px solid var(--sn-border); }
+    .cat-filter-select { padding: 6px 10px; border: 1.5px solid var(--sn-primary); border-radius: 6px; font-size: 0.78rem; font-weight: 800; color: var(--sn-primary); background: #fff; outline: none; cursor: pointer; }
+    .row-check-input { width: 16px; height: 16px; accent-color: var(--sn-primary); cursor: pointer; }
+
+    .toggle-section-card { border: 1.5px solid var(--sn-border); border-radius: 10px; padding: 14px; margin-bottom: 14px; background: #ffffff; }
+    .toggle-section-card.active-sec { border-color: var(--sn-secondary); background: #f8fafc; }
+    .toggle-header { display: flex; align-items: center; justify-content: space-between; cursor: pointer; user-select: none; flex-wrap: wrap; gap: 8px; }
+    .toggle-title { font-size: 0.88rem; font-weight: 900; color: var(--sn-primary); display: flex; align-items: center; gap: 8px; }
+    .custom-check { width: 18px; height: 18px; accent-color: var(--sn-secondary); cursor: pointer; }
+    .toggle-content { margin-top: 12px; padding-top: 12px; border-top: 1px dashed var(--sn-border); display: none; }
+    .toggle-section-card.active-sec .toggle-content { display: block; }
+
+    .snf-row-card { background: #ffffff; border: 1.5px solid #94a3b8; border-radius: 8px; padding: 10px; margin-top: 8px; }
+    .snf-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 8px; margin-bottom: 8px; align-items: center; }
+
+    .table-container { overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; }
+    table th, table td { border: 1px solid var(--sn-border); padding: 9px 12px; font-size: 0.8rem; text-align: left; }
+    table th { background: #f8fafc; font-weight: 800; color: var(--sn-primary); }
+    .badge { padding: 2px 7px; border-radius: 4px; font-size: 0.68rem; font-weight: 800; text-transform: uppercase; display: inline-block; }
+    .badge-primary { background: #e0f2fe; color: #0369a1; }
+    .badge-red { background: #fee2e2; color: #b91c1c; }
+    .badge-green { background: #dcfce7; color: #15803d; }
+    .badge-yellow { background: #fef3c7; color: #b45309; }
+    .btn-row-del { background: #fee2e2; color: #dc2626; border: none; padding: 5px 9px; border-radius: 4px; cursor: pointer; font-weight: 800; font-size: 0.74rem; }
+
+    .trending-card-builder-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; }
+    .trending-card-item-box { background: #ffffff; border: 2px solid var(--sn-primary); border-radius: 10px; padding: 14px; }
+    .trending-card-item-box h5 { font-size: 0.85rem; font-weight: 900; color: var(--sn-primary); margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; }
+    .snf-six-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 14px; margin-top: 12px; }
+    .snf-cat-card { background: #ffffff; border: 2px solid #094053; border-radius: 10px; overflow: hidden; display: flex; flex-direction: column; }
+    .snf-cat-head { background: linear-gradient(90deg, #094053, #006975); color: #f8c016; padding: 9px 14px; font-weight: 900; font-size: 0.86rem; display: flex; justify-content: space-between; align-items: center; }
+    .snf-cat-list { list-style: none; padding: 10px 12px; max-height: 210px; overflow-y: auto; border-bottom: 1px solid #cbd5e1; font-size: 0.78rem; }
+    .snf-cat-list li { padding: 6px 0; border-bottom: 1px dashed #cbd5e1; display: flex; justify-content: space-between; align-items: flex-start; gap: 6px; }
+
+    .bot-chat-window { background: #0f172a; color: #f8fafc; border-radius: 10px; padding: 14px; height: 290px; overflow-y: auto; font-size: 0.82rem; border: 1.5px solid #334155; margin-bottom: 12px; display: flex; flex-direction: column; gap: 10px; }
+    .bot-msg { background: rgba(2, 132, 199, 0.2); border-left: 4px solid #38bdf8; padding: 9px 12px; border-radius: 6px; line-height: 1.45; }
+    .user-msg { background: rgba(16, 185, 129, 0.2); border-right: 4px solid #10b981; padding: 9px 12px; border-radius: 6px; align-self: flex-end; }
+    .mic-pulse-active { background: #dc2626 !important; color: #fff !important; animation: micPulse 1s infinite alternate; }
+    @keyframes micPulse { from { box-shadow: 0 0 0 0 rgba(220,38,38,0.7); } to { box-shadow: 0 0 0 10px rgba(220,38,38,0); } }
+
+    /* UNIVERSAL HINGLISH LOGIC & EFFECT CONFIRMATION MODAL */
+    #snMasterConfirmOverlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(2, 17, 24, 0.84);
+      backdrop-filter: blur(5px);
+      z-index: 2147483647;
+      align-items: center;
+      justify-content: center;
+      padding: 16px;
+    }
+    .sn-mc-card {
+      background: #ffffff;
+      width: 100%;
+      max-width: 520px;
+      border-radius: 14px;
+      border: 3px solid #f8c016;
+      overflow: hidden;
+      box-shadow: 0 25px 60px rgba(0,0,0,0.6);
+    }
+    .sn-mc-head {
+      background: linear-gradient(135deg, #041922, #094053);
+      color: #f8c016;
+      padding: 14px 18px;
+      font-weight: 900;
+      font-size: 0.96rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .sn-mc-body {
+      padding: 18px;
+      font-size: 0.84rem;
+      color: #0f172a;
+      font-weight: 700;
+      line-height: 1.65;
+      max-height: 70vh;
+      overflow-y: auto;
+    }
+    .sn-mc-foot {
+      padding: 12px 18px;
+      background: #f8fafc;
+      border-top: 1.5px solid #cbd5e1;
+      display: flex;
+      justify-content: flex-end;
+      gap: 10px;
+    }
+
+    #adminToast {
+      position: fixed;
+      bottom: 22px;
+      right: 22px;
+      padding: 12px 18px;
+      border-radius: 8px;
+      font-size: 0.84rem;
+      font-weight: 800;
+      color: #fff;
+      display: none;
+      z-index: 99999;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+      max-width: 420px;
+    }
+    .toast-success { background: #059669; }
+    .toast-error { background: #dc2626; }
+    .toast-info { background: #0284c7; }
+
+    @media (max-width: 850px) {
+      .sn-photo-cmd-grid { grid-template-columns: repeat(2, 1fr); }
+      .sidebar { width: 68px; }
+      .sidebar-brand h2, .sidebar-menu li a span, .menu-cat-title, .sidebar-footer span { display: none; }
+      .main-wrapper { margin-left: 68px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ================= 0. TOP 2-HOUR CRON-JOB.ORG + GITHUB SYNC RADAR BAR ================= -->
+  <div id="snAdmin2HrSyncRadarBar">
+    <div>
+      <span style="background:#10b981; color:#fff; font-weight:900; padding:2px 8px; border-radius:10px; font-size:0.66rem;">2-HOUR CRON-JOB.ORG + GITHUB SYNC CONNECTED</span>
+      <span id="snAdmLastSyncText" style="margin-left:8px; color:#fef08a; font-weight:800;">Checking last 2-hour GitHub sync...</span>
+    </div>
+    <div style="display:flex; gap:8px; align-items:center;">
+      <button type="button" id="btnAdmTriggerInstantScrape" data-no-confirm="true" onclick="window.triggerInstantGitHubRepositoryDispatch()" style="background:linear-gradient(135deg,#f8c016,#f59e0b); color:#041922; border:1.5px solid #fff; padding:6px 13px; border-radius:6px; font-size:0.74rem; font-weight:900; cursor:pointer;">
+        🚀 Run Scraper &amp; Hindu Sync Now
+      </button>
+    </div>
+  </div>
+
+  <!-- ================= 1. LOGIN SCREEN (PASSWORD LOCKED + SMART FORGOT PASSWORD OTP GUARD) ================= -->
+  <div class="login-wrapper" id="loginScreen">
+    <div class="login-card">
+      <div class="login-brand">
+        <h1>Sarkari Naukar Banega</h1>
+        <p>Universal Admin Control Center • Protected Vault</p>
+      </div>
+      <form onsubmit="handleAdminLogin(event)" autocomplete="off">
+        <div class="form-group">
+          <label><i class="fas fa-envelope"></i> Admin Email / Login ID</label>
+          <input type="email" id="loginEmail" required placeholder="Enter Admin Email ID" value="admin@sarkarinaukar.com">
+        </div>
+        <div class="form-group">
+          <label><i class="fas fa-lock"></i> Admin Master Password</label>
+          <div style="position:relative;">
+            <input type="password" id="loginPassword" required placeholder="Enter Master Password" style="padding-right:38px;">
+            <button type="button" data-no-confirm="true" onclick="const p=document.getElementById('loginPassword'); p.type=p.type==='password'?'text':'password';" style="position:absolute; right:8px; top:50%; transform:translateY(-50%); background:none; border:none; color:#64748b; cursor:pointer; font-size:0.85rem;">
+              <i class="fas fa-eye"></i>
+            </button>
+          </div>
+        </div>
+        <button type="submit" class="btn-login" data-no-confirm="true" data-explain="Admin credentials verify karke सुरक्षित dashboard kholta hai (5 galat attempts par 15-min lock lagta hai).">
+          <i class="fas fa-shield-halved"></i> Unlock Admin Control Center
+        </button>
+      </form>
+
+      <div class="login-security-footer">
+        <span style="color:#059669; font-weight:800;"><i class="fas fa-lock"></i> AES-256 &amp; Brute-Force Shield</span>
+        <button type="button" class="forgot-pwd-link" data-no-confirm="true" onclick="toggleForgotPasswordDrawer()">
+          <i class="fas fa-key"></i> Forgot Password?
+        </button>
+      </div>
+
+      <!-- SMART FORGOT PASSWORD OTP / RESET LINK DRAWER -->
+      <!-- Blocks OTP on default email (admin@sarkarinaukar.com); sends real OTP only when personal email is updated! -->
+      <div class="forgot-pwd-drawer" id="forgotPasswordDrawer">
+        <div style="font-size:0.8rem; font-weight:900; color:#094053; margin-bottom:6px;">
+          🔐 Password Recovery (Verified Personal Email Only)
+        </div>
+        <div id="forgotStep1Box">
+          <p style="font-size:0.73rem; color:#475569; margin-bottom:8px; line-height:1.45;">
+            Apna updated personal Admin Email ID enter karein. (Suraksha niyam: Default ID par koi OTP ya link nahi bheja jata).
+          </p>
+          <div class="form-group" style="margin-bottom:8px;">
+            <input type="email" id="forgotEmailInput" placeholder="Enter your updated personal email">
+          </div>
+          <button type="button" class="btn-agentic" data-no-confirm="true" style="background:#0284c7; color:#fff; width:100%; justify-content:center;" onclick="handleSendForgotPasswordOtp()">
+            📨 Send 6-Digit Reset OTP to My Email
+          </button>
+        </div>
+
+        <div id="forgotStep2Box" style="display:none; margin-top:10px; padding-top:10px; border-top:1px dashed #94a3b8;">
+          <div class="form-group" style="margin-bottom:8px;">
+            <label style="font-size:0.74rem;">Enter 6-Digit OTP Sent to Your Email</label>
+            <input type="text" id="forgotOtpCodeInput" maxlength="6" placeholder="6-Digit OTP">
+          </div>
+          <div class="form-group" style="margin-bottom:8px;">
+            <label style="font-size:0.74rem;">Set New Master Password</label>
+            <input type="password" id="forgotNewPasswordInput" minlength="6" placeholder="Enter New Strong Password">
+          </div>
+          <button type="button" class="btn-agentic" data-no-confirm="true" style="background:#10b981; color:#fff; width:100%; justify-content:center;" onclick="handleVerifyOtpAndResetPassword()">
+            ✅ Verify OTP &amp; Save New Password
+          </button>
+        </div>
+
+        <div id="forgotStatusMsg" style="margin-top:8px; font-size:0.74rem; font-weight:800; line-height:1.45;"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ================= 2. MAIN ADMIN APPLICATION & LEFT SIDEBAR ================= -->
+  <div id="adminApp">
+    <aside class="sidebar">
+      <div class="sidebar-brand">
+        <h2>Sarkari Naukar Banega</h2>
+      </div>
+      <ul class="sidebar-menu" id="mainSidebarMenu">
+        <div class="menu-cat-title">Main Portal</div>
+        <li><a href="#dashboard" class="menu-link active" onclick="switchTab('dashboard', this)" data-explain="Dashboard kholta hai jahan live stats, review queue aur 8-button control engine hai."><i class="fas fa-chart-pie"></i> <span>Dashboard</span></a></li>
+        <li><a href="#posts" class="menu-link" onclick="switchTab('posts', this)" data-explain="Sabhi Live aur Review posts ko Source, Category, Date aur State ke hisab se filter aur manage karta hai."><i class="fas fa-list-check"></i> <span>All Live Posts</span></a></li>
+        <li><a href="#createPost" class="menu-link" onclick="switchTab('createPost', this)" data-explain="Naya post banane ya existing post ke boxes aur word-to-word plain text description ko edit karne ka form kholta hai."><i class="fas fa-plus-circle"></i> <span>Add / Edit Post</span></a></li>
+        <li><a href="#socialLinks" class="menu-link" onclick="switchTab('socialLinks', this)" data-explain="WhatsApp, Telegram, Instagram aur Facebook group links set karta hai jo har live post ke social media box mein attach hote hain."><i class="fas fa-share-nodes"></i> <span>Social Media Links</span></a></li>
+
+        <div class="menu-cat-title">Hourly Guardian Bot</div>
+        <li><a href="#botChat" class="menu-link" onclick="switchTab('botChat', this)" data-explain="1-Hour Auto Deep Analysis Bot (Mic Listening + Voice Speaking + Update A/B/C + 1-Click Undo) kholta hai."><i class="fas fa-robot"></i> <span>Bot Assistant (Mic/Voice)</span></a></li>
+
+        <div class="menu-cat-title">Ads &amp; Marketing</div>
+        <li><a href="#adsManager" class="menu-link" onclick="switchTab('adsManager', this)" data-explain="AdSense, Sponsor Banners, 8-Preset Omni Ad Studio, Voice Vault Samples 1-5 aur MP3 Downloader kholta hai."><i class="fas fa-rectangle-ad"></i> <span>Ads &amp; Sponsors</span></a></li>
+        <li><a href="#tickerStrip" class="menu-link" onclick="switchTab('tickerStrip', this)" data-explain="Website ke top red Breaking News Marquee Ticker ko control karta hai."><i class="fas fa-bullhorn"></i> <span>Breaking Ticker</span></a></li>
+
+        <div class="menu-cat-title">Portal Controls</div>
+        <li><a href="#trendingEditor" class="menu-link" onclick="switchTab('trendingEditor', this)" data-explain="Website ke 6 Trending Boxes aur 6 Main Category Boxes ko manage karta hai."><i class="fas fa-fire"></i> <span>6 Trending &amp; 6 Boxes</span></a></li>
+        <li><a href="#categories" class="menu-link" onclick="switchTab('categories', this)" data-explain="6 Categories ke post counts dikhata hai aur category-wise bulk delete ya naya box add karta hai."><i class="fas fa-folder-tree"></i> <span>Categories &amp; Boxes</span></a></li>
+
+        <div class="menu-cat-title">System &amp; Security</div>
+        <li><a href="#backup" class="menu-link" onclick="switchTab('backup', this)" data-explain="GitHub repository (ELON CHACHA) mein jobs_database.json aur admin_boxes.json ko 1-Click mein Live Push, Pull ya Oldest 2 Days Prune karta hai."><i class="fas fa-cloud-arrow-up"></i> <span>GitHub Sync &amp; Storage</span></a></li>
+        <li><a href="#trafficStats" class="menu-link" onclick="switchTab('trafficStats', this)" data-explain="Real database ke adhar par Source-wise aur State-wise distribution dikhata hai (Zero Dummy Data)."><i class="fas fa-chart-line"></i> <span>Real Analytics</span></a></li>
+        <li><a href="#notifications" class="menu-link" onclick="switchTab('notifications', this)" data-explain="Scraper sync, security alerts aur audio chime logs dikhata hai."><i class="fas fa-bell"></i> <span>Alert Logs</span></a></li>
+        <li><a href="#settings" class="menu-link" onclick="switchTab('settings', this)" data-explain="Current Password verify karke Admin Login Email ID, New Password aur Forgot-Password OTP Email Relay ko update karta hai."><i class="fas fa-user-shield"></i> <span>Security &amp; Settings</span></a></li>
+        <li><a href="#databaseView" class="menu-link" onclick="switchTab('databaseView', this)" data-explain="Raw JSON database ko direct edit aur sync karne ka editor kholta hai."><i class="fas fa-code"></i> <span>Raw JSON Editor</span></a></li>
+
+        <div class="menu-cat-title">Custom Sidebar Controls</div>
+        <div id="customSidebarLinksHolder"></div>
+        <li>
+          <a href="javascript:void(0)" onclick="createNewSidebarCustomButton()" data-explain="Left Sidebar aur Website ke liye naya Custom Button aur uska inner box banata hai." style="background:rgba(248,192,22,0.16); border:1.5px dashed #f8c016; color:#f8c016; margin-top:6px;">
+            <i class="fas fa-plus-circle"></i> <span>+ Add Custom Button</span>
+          </a>
+        </li>
+      </ul>
+      <div class="sidebar-footer">
+        <button class="btn-logout" onclick="handleAdminLogout()" data-explain="Admin session ko सुरक्षित tarike se बंद karke login screen par le jata hai."><i class="fas fa-sign-out-alt"></i> <span>Logout</span></button>
+      </div>
+    </aside>
+<!-- ================= PART 1 ENDS HERE — PASTE PART 2 DIRECTLY BELOW THIS LINE ================= -->
+    <!-- ================= PART 2 OF 6: PASTE DIRECTLY BELOW PART 1 ================= -->
+    <div class="main-wrapper">
+      <header class="top-nav">
+        <div class="top-nav-title" id="pageTitleText">Dashboard • SARKARI NAUKAR BANEGA</div>
+        <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
+          <!-- UNSEEN AUTO-PUBLISHED POSTS ALERT BUTTON WITH DECREMENTING COUNT -->
+          <button type="button" id="btnUnseenAutoAlert" class="btn-unseen-alert" data-no-confirm="true" onclick="toggleUnseenAutoDrawer()" data-explain="Jo posts scraper se automatically fetch hoke publish hue hain par aapne abhi tak nahi dekhe hain, unki list kholta hai. Ek-ek post check karne par yeh count -1 kam hota jayega.">
+            <i class="fas fa-bell"></i> New Auto-Published Alert: <span class="unseen-count-pill" id="unseenAutoCountBadge">0</span>
+          </button>
+
+          <span id="hourlyBotBadge" onclick="switchTab('botChat', document.querySelector('a[href=\'#botChat\']'))" style="cursor:pointer; background:#dcfce7; color:#166534; border:1px solid #86efac; padding:5px 10px; border-radius:20px; font-size:0.74rem; font-weight:900;">
+            🤖 Guardian Bot Scan: <span id="botScanCountdown">60:00</span>
+          </span>
+
+          <a href="index.html" target="_blank" data-explain="Main live website (SARKARI NAUKAR BANEGA - index.html) ko naye tab mein kholta hai." style="background:var(--sn-primary); color:var(--sn-gold); padding:6px 12px; border-radius:6px; text-decoration:none; font-weight:800; font-size:0.8rem;">
+            <i class="fas fa-external-link-alt"></i> Open Live Website
+          </a>
+        </div>
+      </header>
+
+      <!-- TOUCH / CLICK ACTION EXPLAIN BAR -->
+      <div class="action-explain-strip" id="actionExplainStrip">
+        <span><i class="fas fa-circle-info"></i> <strong id="actionExplainText">Kisi bhi button par click karein — Hinglish Confirm/Cancel Pop-up mein uska poora internal algorithm aur Website/GitHub par asar dikhega.</strong></span>
+        <span style="font-family:'JetBrains Mono',monospace; font-size:0.74rem;" id="adminLiveClock">--:--:--</span>
+      </div>
+
+      <main class="content-body" id="mainContentBody">
+
+        <!-- ============================================================== -->
+        <!-- UNSEEN AUTO-PUBLISHED POSTS INSPECTOR DRAWER (COUNT DECREMENTS) -->
+        <!-- ============================================================== -->
+        <div id="unseenAutoAlertDrawer" class="panel-card" style="display:none; border:2.5px solid #dc2626; background:#fff5f5;">
+          <div class="panel-card-head" style="background:linear-gradient(90deg,#991b1b,#dc2626); color:#fff;">
+            <h3 style="color:#fef08a;"><i class="fas fa-bell-concierge"></i> Unseen Automatically Published Posts (Check 1-by-1 to Reduce Alert Count)</h3>
+            <div style="display:flex; gap:8px; flex-wrap:wrap;">
+              <button type="button" class="btn-agentic" style="background:#10b981; color:#fff;" onclick="markAllUnseenPostsAsChecked()" data-explain="Sabhi unseen auto-published posts ko 'Seen/Checked' mark karke alert count ko 0 par set karta hai.">
+                ✔ Mark All Checked (0)
+              </button>
+              <button type="button" class="btn-agentic" data-no-confirm="true" style="background:#0f172a; color:#fff;" onclick="document.getElementById('unseenAutoAlertDrawer').style.display='none'">
+                ✕ Close Drawer
+              </button>
+            </div>
+          </div>
+          <div class="panel-card-body table-container">
+            <table>
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Auto-Published Post Title</th>
+                  <th>Category</th>
+                  <th>Source</th>
+                  <th>Release / Last Date</th>
+                  <th>Check Action (Reduces Count by -1)</th>
+                </tr>
+              </thead>
+              <tbody id="unseenAutoTableBody"></tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- OPERATIONAL STATUS STRIP -->
+        <div class="sn-op-status-strip">
+          <div>
+            <div style="font-weight:900; color:#f8c016; font-size:0.95rem;">🛡️ SARKARI NAUKAR BANEGA — Admin Control Status: Operational (GitHub Sync: ELON CHACHA)</div>
+            <div style="font-size:0.76rem; color:#cbd5e1;">2-Hour IST Auto-Sync, Broadsheet Isolation Firewall, Auto Today-Last-Date Tagging &amp; Google JobPosting SEO Schema active.</div>
+          </div>
+          <div style="display:flex; gap:8px; flex-wrap:wrap;">
+            <button type="button" onclick="window.rebuildAndPushGoogleSeoSchemaFromAdmin()" data-explain="Sabhi live published posts ke liye Google Top Search Widget (JobPosting JSON-LD Schema) banata hai taaki SARKARI NAUKAR BANEGA Google search mein top par dikhe." style="background:#10b981; color:#ffffff; border:1.5px solid #fef08a; padding:9px 14px; border-radius:8px; font-weight:900; font-size:0.78rem; cursor:pointer;">
+              🚀 Rebuild Google Top SEO Schema
+            </button>
+            <button type="button" onclick="window.runHourlyBotDeepAudit(true)" data-explain="Website, Admin Panel, Official Links, Broadsheet Isolation Firewall aur Anti-Hacking Security Shield ka turant live diagnostic scan karta hai." style="background:#f8c016; color:#041922; border:none; padding:9px 16px; border-radius:8px; font-weight:900; font-size:0.82rem; cursor:pointer;">
+              🩺 Run Diagnostic
+            </button>
+          </div>
+        </div>
+
+        <!-- ============================================================== -->
+        <!-- 8-BUTTON PHOTO COMMAND CENTER + STORAGE GUARD (OPTION A & B)   -->
+        <!-- ============================================================== -->
+        <div class="agentic-command-bar">
+          <div class="agentic-command-head">
+            <h3>🤖 Master Control Engine (2 Main Portals &amp; Mirrors • Broadsheet Firewall Locked)</h3>
+            <span id="scraperLiveStatusBadge" style="font-size:0.75rem; background:rgba(16,185,129,0.2); border:1px solid #10b981; color:#a7f3d0; padding:4px 10px; border-radius:20px; font-weight:800;">
+              🟢 Ready | Zero Dummy Data
+            </span>
+          </div>
+
+          <div class="sites-pill-strip">
+            <span class="site-pill-tag">🌐 1A. SarkariResultMain (www.sarkariresult.com)</span>
+            <span class="site-pill-tag">🌐 1B. SarkariResultMirror (sarkariresult.com.cm)</span>
+            <span class="site-pill-tag">🌐 2A. FreeJobAlertMain (freejobalert.com/government-jobs)</span>
+            <span class="site-pill-tag">🌐 2B. FreeJobAlertMirror (www.freejobalert.com)</span>
+          </div>
+
+          <!-- EXACT 8-BUTTON PHOTO GRID -->
+          <div class="sn-photo-cmd-grid">
+            <button type="button" class="sn-photo-trig-btn bg-trig-orange" data-custom-trig="1" onclick="window.trigPhotoAction('web15')">
+              <i class="fas fa-calendar-check"></i> last 15 days website post
+            </button>
+            <button type="button" class="sn-photo-trig-btn bg-trig-orange" data-custom-trig="1" onclick="window.trigPhotoAction('web24')">
+              <i class="fas fa-bolt"></i> last 24 hrs website post
+            </button>
+            <button type="button" class="sn-photo-trig-btn bg-trig-green" data-custom-trig="1" onclick="window.trigPhotoAction('alljson')">
+              <i class="fas fa-database"></i> All datajson post
+            </button>
+            <button type="button" class="sn-photo-trig-btn bg-trig-green" data-custom-trig="1" onclick="window.trigPhotoAction('json24')">
+              <i class="fas fa-clock-rotate-left"></i> last 24 hrs post in datajson
+            </button>
+            <button type="button" class="sn-photo-trig-btn bg-trig-red" data-custom-trig="1" onclick="window.trigPhotoAction('empty_datajson')">
+              <i class="fas fa-trash-arrow-up"></i> empty datajson
+            </button>
+            <button type="button" class="sn-photo-trig-btn bg-trig-red" data-custom-trig="1" onclick="window.trigPhotoAction('empty_thehindujson')">
+              <i class="fas fa-trash-can"></i> empty thehindujson
+            </button>
+            <button type="button" class="sn-photo-trig-btn bg-trig-blue" data-custom-trig="1" onclick="window.trigPhotoAction('hindu24')">
+              <i class="fas fa-newspaper"></i> the hindi time last 24 hrs
+            </button>
+            <button type="button" class="sn-photo-trig-btn bg-trig-teal" data-custom-trig="1" onclick="window.trigPhotoAction('hindujson')">
+              <i class="fas fa-file-code"></i> The hindutimejson
+            </button>
+          </div>
+
+          <!-- EXTRA ACTION ROW: REVIEW QUEUE FETCH, OPTION B OLDEST 2 DAYS PRUNE, CLOUD SCRAPER -->
+          <div class="agentic-btn-row">
+            <button type="button" class="btn-agentic btn-review-fetch" onclick="syncFrom2WebsitesAndMirrors('review_queue', 1)" data-explain="Pichle 24 ghante ke naye recruitment posts fetch karke Review Queue mein rakhta hai taaki aap verify/edit karke publish kar sakein.">
+              <i class="fas fa-clock"></i> Fetch 24h to Review Queue
+            </button>
+            <button type="button" class="btn-agentic" style="background:#7c3aed; color:#fff;" onclick="syncFrom2WebsitesAndMirrors('review_queue', 15)" data-explain="Pichle 15 dinon ke saare real recruitment posts jobs_database.json aur mirrors se nikal kar Review Queue mein lata hai.">
+              <i class="fas fa-calendar-days"></i> Fetch 15 Days to Review Queue
+            </button>
+            <button type="button" class="btn-agentic" style="background:#e11d48; color:#fff; border:1.5px solid #fef08a;" onclick="pruneOldestTwoDaysAdmin()" data-explain="Option B Storage Guard Algorithm: jobs_database.json mein sabse purane 2 dinon (Oldest 2 Calendar Days) ke posts ko calculate karke permanently delete karta hai taaki GitHub storage kabhi full na ho.">
+              <i class="fas fa-broom"></i> 🗑️ Option B: Delete Oldest 2 Days Data
+            </button>
+            <button type="button" class="btn-agentic" style="background:#f59e0b; color:#041922;" onclick="triggerGitHubAction()" data-explain="GitHub Actions (scraper.yml) ko ELON CHACHA repository par run karne ka signal bhejta hai taaki multi_agent_scraper.py aur the_hindu_bot.py naya data scrape karein.">
+              <i class="fab fa-github"></i> Trigger Cloud GitHub Scraper
+            </button>
+            <button type="button" class="btn-agentic" style="background:#7f1d1d; color:#fff;" onclick="permanentlyDeleteAllPosts()" data-explain="Admin Panel aur Website ki sabhi 6 categories se saare posts ko permanently delete (reset) karta hai.">
+              <i class="fas fa-trash-can"></i> Delete All Posts
+            </button>
+          </div>
+
+          <!-- LIVE VS SCRAPED QUICK BAR & SELECTED CHECKBOX COUNTER -->
+          <div id="snLiveVsScrapedQuickBar" style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; margin-top:12px; padding-top:12px; border-top:1.5px dashed rgba(248,192,22,0.4);">
+            <div style="display:flex; gap:8px; flex-wrap:wrap;">
+              <button type="button" class="btn-agentic" data-no-confirm="true" style="background:#10b981; color:#fff; border:1.5px solid #fff;" onclick="window.openDedicatedPostsView('published')">
+                🟢 View Live Published Posts (<span id="btnCntLivePosts">0</span>)
+              </button>
+              <button type="button" class="btn-agentic" data-no-confirm="true" style="background:#f59e0b; color:#041922; border:1.5px solid #fff;" onclick="window.openDedicatedPostsView('review')">
+                ⏳ View Scraped Pending Review Posts (<span id="btnCntScrapedReview">0</span>)
+              </button>
+            </div>
+            <div id="snGlobalSelectedCounterBadge" style="background:#dc2626; color:#ffffff; padding:6px 14px; border-radius:20px; font-size:0.8rem; font-weight:900; border:1.5px solid #fef08a;">
+              ☑️ Selected Posts: <span id="snSelectedCountNum">0</span>
+            </div>
+          </div>
+
+          <div id="triggerStatus" style="margin-top:10px; font-size:0.8rem; color:#fde047; font-weight:800;"></div>
+        </div>
+
+        <!-- ================= DASHBOARD TAB ================= -->
+        <section id="view-dashboard" class="view-panel active">
+          <div class="stats-grid">
+            <div class="stat-card">
+              <div class="stat-info"><p>Live Published</p><h3 id="statTotal">0</h3></div>
+              <div class="stat-icon" style="background:#e0f2fe; color:#0369a1;">📝</div>
+            </div>
+            <div class="stat-card">
+              <div class="stat-info"><p>Latest Jobs</p><h3 id="statJobs">0</h3></div>
+              <div class="stat-icon" style="background:#fef3c7; color:#b45309;">💼</div>
+            </div>
+            <div class="stat-card">
+              <div class="stat-info"><p>Results</p><h3 id="statResults">0</h3></div>
+              <div class="stat-icon" style="background:#dcfce7; color:#15803d;">🏆</div>
+            </div>
+            <div class="stat-card">
+              <div class="stat-info"><p>Admit Cards</p><h3 id="statAdmit">0</h3></div>
+              <div class="stat-icon" style="background:#fce7f3; color:#be185d;">🪪</div>
+            </div>
+            <div class="stat-card">
+              <div class="stat-info"><p>Review Queue</p><h3 id="statReviewCount">0</h3></div>
+              <div class="stat-icon" style="background:#ffedd5; color:#c2410c;">⏳</div>
+            </div>
+          </div>
+
+          <!-- REVIEW & PUBLISH QUEUE -->
+          <div class="panel-card">
+            <div class="panel-card-head" style="background:#fffbeb;">
+              <h3 style="color:#b45309;"><i class="fas fa-hourglass-half"></i> Review &amp; Publish Queue (Verify Before Live)</h3>
+              <div style="display:flex; gap:8px; flex-wrap:wrap;">
+                <select id="reviewCategoryFilter" class="cat-filter-select" onchange="refreshUI()" data-explain="Review Queue ke posts ko category ke hisab se filter karta hai.">
+                  <option value="all">📂 All Categories (Review)</option>
+                  <option value="latest_jobs">🔥 Latest Jobs</option>
+                  <option value="results">🏆 Result</option>
+                  <option value="admit_cards">🪪 Admit Card</option>
+                  <option value="answer_keys">🔑 Answer Key</option>
+                  <option value="syllabus">📚 Syllabus</option>
+                  <option value="admissions">🎓 Admission</option>
+                </select>
+                <button type="button" class="btn-agentic btn-pub-selected" onclick="publishSelectedReviewPosts()" data-explain="Review Queue mein tick kiye gaye sabhi posts ko ek sath Website par LIVE publish karta hai.">
+                  <i class="fas fa-check-double"></i> Publish Selected
+                </button>
+                <button type="button" class="btn-agentic btn-bulk-del" onclick="deleteSelectedPosts('review')" data-explain="Review Queue mein tick kiye gaye posts ko permanently delete karta hai.">
+                  <i class="fas fa-trash"></i> Delete Selected
+                </button>
+              </div>
+            </div>
+            <div class="panel-card-body table-container">
+              <table>
+                <thead>
+                  <tr>
+                    <th style="width:40px; text-align:center;"><input type="checkbox" id="selectAllReviewChk" class="row-check-input" onchange="toggleSelectAllRows('review', this.checked)"></th>
+                    <th>Post Title &amp; Auto Date Tag</th>
+                    <th>Source</th>
+                    <th>Category</th>
+                    <th>State</th>
+                    <th>Release / Last Date</th>
+                    <th>Actions</th>
+                  </tr>
+                </thead>
+                <tbody id="reviewQueueTableBody"></tbody>
+              </table>
+            </div>
+          </div>
+
+          <!-- DASHBOARD LIVE POSTS TABLE -->
+          <div class="panel-card">
+            <div class="panel-card-head">
+              <h3><i class="fas fa-tower-broadcast"></i> Live Published Posts on Website (SARKARI NAUKAR BANEGA)</h3>
+              <div style="display:flex; gap:8px; flex-wrap:wrap;">
+                <select id="dashCategoryFilter" class="cat-filter-select" onchange="syncCategorySelectors(this.value)" data-explain="Live posts ko 6 categories ke hisab se filter karta hai.">
+                  <option value="all">📂 All 6 Categories</option>
+                  <option value="latest_jobs">🔥 Latest Jobs</option>
+                  <option value="results">🏆 Result</option>
+                  <option value="admit_cards">🪪 Admit Card</option>
+                  <option value="answer_keys">🔑 Answer Key</option>
+                  <option value="syllabus">📚 Syllabus</option>
+                  <option value="admissions">🎓 Admission</option>
+                </select>
+                <button type="button" class="btn-agentic btn-bulk-del" onclick="deleteSelectedPosts('dash')" data-explain="Tick kiye gaye Live posts ko website se delete karta hai.">
+                  <i class="fas fa-trash"></i> Delete Selected
+                </button>
+                <button type="button" class="btn-agentic btn-cat-del" onclick="deleteEntireCategoryLivePosts('dashCategoryFilter')" data-explain="Chuni gayi category ke saare live posts ek sath delete karta hai.">
+                  <i class="fas fa-folder-minus"></i> Clear Category
+                </button>
+                <button class="btn-main" onclick="switchTab('createPost', document.querySelector('a[href=\'#createPost\']'))" data-explain="Naya post manually banane ke liye Post Creator kholta hai.">➕ Add New Post</button>
+              </div>
+            </div>
+            <div class="panel-card-body table-container">
+              <table>
+                <thead>
+                  <tr>
+                    <th style="width:40px; text-align:center;"><input type="checkbox" id="selectAllDashChk" class="row-check-input" onchange="toggleSelectAllRows('dash', this.checked)"></th>
+                    <th>Title &amp; Dynamic Date Tag</th>
+                    <th>Category</th>
+                    <th>Source</th>
+                    <th>State</th>
+                    <th>Date / Last Date</th>
+                    <th>Actions</th>
+                  </tr>
+                </thead>
+                <tbody id="dashTableBody"></tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+
+        <!-- ================= ALL POSTS TAB (5-WAY FILTERS) ================= -->
+        <section id="view-posts" class="view-panel">
+          <div class="panel-card">
+            <div class="panel-card-head">
+              <h3><i class="fas fa-filter"></i> Manage All Posts (Filter by Category, Source, State, Date &amp; Status)</h3>
+              <button class="btn-main" onclick="switchTab('createPost', document.querySelector('a[href=\'#createPost\']'))" data-explain="Manual post add karne ka form kholta hai.">➕ Create Post</button>
+            </div>
+            <div class="bulk-filter-toolbar">
+              <div style="display:flex; flex-wrap:wrap; gap:8px; align-items:center;">
+                <select id="allPostsCategoryFilter" class="cat-filter-select" onchange="renderAllPosts()" data-explain="Category ke hisab se posts dikhata hai.">
+                  <option value="all">📂 All Categories</option>
+                  <option value="latest_jobs">🔥 Latest Jobs</option>
+                  <option value="results">🏆 Result</option>
+                  <option value="admit_cards">🪪 Admit Card</option>
+                  <option value="answer_keys">🔑 Answer Key</option>
+                  <option value="syllabus">📚 Syllabus</option>
+                  <option value="admissions">🎓 Admission</option>
+                </select>
+
+                <select id="allPostsSourceFilter" class="cat-filter-select" onchange="renderAllPosts()" data-explain="Kis website ya mirror se post aaya hai uske hisab se filter karta hai.">
+                  <option value="all">🌐 All Sources (2 Sites &amp; Mirrors)</option>
+                  <option value="SarkariResultMain">SarkariResultMain</option>
+                  <option value="SarkariResultMirror">SarkariResultMirror</option>
+                  <option value="FreeJobAlertMain">FreeJobAlertMain</option>
+                  <option value="FreeJobAlertMirror">FreeJobAlertMirror</option>
+                  <option value="Admin Panel">Admin Panel (Manual)</option>
+                </select>
+
+                <select id="allPostsStateFilter" class="cat-filter-select" onchange="renderAllPosts()" data-explain="State ke hisab se posts छांटता hai.">
+                  <option value="all">🗺️ All States</option>
+                  <option value="up">Uttar Pradesh (UP)</option>
+                  <option value="bihar">Bihar</option>
+                  <option value="maharashtra">Maharashtra</option>
+                  <option value="delhi">Delhi</option>
+                  <option value="mp">Madhya Pradesh (MP)</option>
+                  <option value="rajasthan">Rajasthan</option>
+                  <option value="haryana">Haryana</option>
+                  <option value="wb">West Bengal (WB)</option>
+                </select>
+
+                <select id="allPostsDateFilter" class="cat-filter-select" onchange="renderAllPosts()" data-explain="Release date ke hisab se posts filter karta hai.">
+                  <option value="all">📅 All Dates</option>
+                  <option value="1">Today / Last 24 Hrs</option>
+                  <option value="3">Last 3 Days</option>
+                  <option value="7">Last 7 Days</option>
+                  <option value="15">Last 15 Days</option>
+                </select>
+
+                <select id="allPostsStatusFilter" class="cat-filter-select" onchange="renderAllPosts()" data-explain="Live Published ya Pending Review status filter karta hai.">
+                  <option value="all">📋 All Status</option>
+                  <option value="published">🟢 Live Published</option>
+                  <option value="review">⏳ Pending Review</option>
+                </select>
+              </div>
+
+              <div style="display:flex; flex-wrap:wrap; gap:8px;">
+                <button type="button" class="btn-agentic btn-pub-selected" onclick="publishSelectedFromAllTab()" data-explain="Selected posts ko live publish karta hai.">
+                  <i class="fas fa-check-circle"></i> Publish Selected
+                </button>
+                <button type="button" class="btn-agentic btn-bulk-del" onclick="deleteSelectedPosts('allPosts')" data-explain="Selected posts ko delete karta hai.">
+                  <i class="fas fa-trash"></i> Delete Selected
+                </button>
+              </div>
+            </div>
+            <div class="panel-card-body table-container">
+              <table>
+                <thead>
+                  <tr>
+                    <th style="width:40px; text-align:center;"><input type="checkbox" id="selectAllPostsTabChk" class="row-check-input" onchange="toggleSelectAllRows('allPosts', this.checked)"></th>
+                    <th>Title &amp; Auto Date Tag</th>
+                    <th>Category</th>
+                    <th>Source</th>
+                    <th>State</th>
+                    <th>Release / Last Date</th>
+                    <th>Status</th>
+                    <th>Actions</th>
+                  </tr>
+                </thead>
+                <tbody id="allPostsBody"></tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+<!-- ================= PART 2 ENDS HERE — PASTE PART 3 DIRECTLY BELOW THIS LINE ================= -->
+        <!-- ================= PART 3 OF 6: PASTE DIRECTLY BELOW PART 2 ================= -->
+        <!-- ================= SOCIAL MEDIA LINKS MANAGER TAB ================= -->
+        <section id="view-socialLinks" class="view-panel">
+          <div class="panel-card" style="max-width:780px; margin:0 auto;">
+            <div class="panel-card-head" style="background:#041922; color:#fff;">
+              <h3 style="color:#f8c016;"><i class="fas fa-share-nodes"></i> Social Media Links Manager (WhatsApp, Telegram, IG, FB)</h3>
+              <div style="display:flex; gap:8px; flex-wrap:wrap;">
+                <button type="button" class="btn-agentic" style="background:#10b981; color:#fff;" onclick="saveSocialMediaLinksMaster()" data-explain="In social media links ko save karta hai. Jab tak blank hain, website par social boxes hidden rahenge; links dalte hi sabhi live posts par auto-attach ho jayenge.">
+                  💾 Save &amp; Attach to All Live Posts
+                </button>
+                <button type="button" class="btn-agentic" style="background:#ef4444; color:#fff;" onclick="clearSocialMediaLinksMaster()" data-explain="Sabhi social media links ko khali (blank) karke website ke sabhi posts se social boxes ko hide karta hai.">
+                  🗑️ Clear All (Hide on Website)
+                </button>
+              </div>
+            </div>
+            <div class="panel-card-body">
+              <p style="font-size:0.8rem; color:#475569; margin-bottom:14px; line-height:1.55;">
+                Jab tak aap in boxes ko khali (blank) rakhenge, <strong>SARKARI NAUKAR BANEGA</strong> website ke post modal mein koi social media box nahi dikhega. Jaise hi aap yahan apne official groups ke invite links dalenge, yeh sabhi live published posts aur <code>admin_boxes.json</code> mein automatic attach ho jayenge.
+              </p>
+              <div class="form-group">
+                <label><i class="fab fa-whatsapp" style="color:#22c55e;"></i> WhatsApp Join Group / Channel Link URL</label>
+                <input type="url" id="socWhatsAppInp" placeholder="https://whatsapp.com/channel/...">
+              </div>
+              <div class="form-group">
+                <label><i class="fab fa-telegram" style="color:#0284c7;"></i> Telegram Channel / Group Link URL</label>
+                <input type="url" id="socTelegramInp" placeholder="https://t.me/sarkarinaukarbanega">
+              </div>
+              <div class="form-group">
+                <label><i class="fab fa-instagram" style="color:#ec4899;"></i> Instagram Official Page Link URL</label>
+                <input type="url" id="socInstagramInp" placeholder="https://instagram.com/...">
+              </div>
+              <div class="form-group">
+                <label><i class="fab fa-facebook" style="color:#2563eb;"></i> Facebook Page / Group Link URL</label>
+                <input type="url" id="socFacebookInp" placeholder="https://facebook.com/...">
+              </div>
+              <div style="margin-top:14px;">
+                <button type="button" class="btn-main" style="background:#10b981; color:#fff; border:none; width:100%; padding:12px; justify-content:center;" onclick="saveSocialMediaLinksMaster()" data-explain="Social media links ko save karke localStorage bridge aur GitHub admin_boxes.json ke liye ready karta hai.">
+                  🚀 Update Social Media Links Across SARKARI NAUKAR BANEGA Portal
+                </button>
+              </div>
+              <div id="socSaveStatusMsg" style="margin-top:8px; font-size:0.8rem; font-weight:800; text-align:center; color:#059669;"></div>
+            </div>
+          </div>
+        </section>
+
+        <!-- ================= CREATE / EDIT POST TAB (WORD-TO-WORD PLAIN TEXT + AUTO DATE TAGS + UNIQUE QUOTE) ================= -->
+        <section id="view-createPost" class="view-panel">
+          <div class="panel-card" style="max-width:980px; margin:0 auto;">
+            <div class="panel-card-head">
+              <h3 id="formModeTitle">➕ Universal Post Creator &amp; Editor (Word-to-Word Plain Text + Auto Intent Quote)</h3>
+              <div style="display:flex; gap:8px; flex-wrap:wrap;">
+                <button type="button" data-no-confirm="true" onclick="triggerGenerateUniqueQuoteInForm()" style="padding:6px 12px; background:#094053; color:#f8c016; border:1px solid #f8c016; border-radius:6px; cursor:pointer; font-weight:800; font-size:0.76rem;">
+                  ⚡ Auto-Generate Unique Quote
+                </button>
+                <button type="button" onclick="resetMasterForm()" data-explain="Form ke sabhi boxes ko khali karke naye post ke liye reset karta hai." style="padding:6px 14px; background:#e2e8f0; border:none; border-radius:6px; cursor:pointer; font-weight:800; font-size:0.76rem;">
+                  🔄 Reset Form
+                </button>
+              </div>
+            </div>
+            <div class="panel-card-body">
+              <form id="universalPostForm" onsubmit="handleSaveUniversalPost(event)">
+                <input type="hidden" id="editPostId" value="">
+
+                <div class="form-row">
+                  <div class="form-group" style="grid-column: span 2;">
+                    <label>Post Title (Official Name of Recruitment / Exam / Result) *</label>
+                    <input type="text" id="postTitle" placeholder="e.g. SSC CGL 2026 Online Form – 17,727 Vacancies" required oninput="autoDetectTodayAndExtendedDateInForm()">
+                  </div>
+                  <div class="form-group">
+                    <label>Source Website / Portal</label>
+                    <select id="postSource">
+                      <option value="Admin Panel">Admin Panel (Manual)</option>
+                      <option value="SarkariResultMain">SarkariResultMain</option>
+                      <option value="SarkariResultMirror">SarkariResultMirror</option>
+                      <option value="FreeJobAlertMain">FreeJobAlertMain</option>
+                      <option value="FreeJobAlertMirror">FreeJobAlertMirror</option>
+                    </select>
+                  </div>
+                </div>
+
+                <div class="form-group">
+                  <label>Short View Post Overview / Summary (Word-to-Word Plain Text) *</label>
+                  <textarea id="postOverview" rows="2" placeholder="Short description jo post open hone par sabse pehle Quick View mein dikhega..."></textarea>
+                </div>
+
+                <div class="form-row">
+                  <div class="form-group">
+                    <label>Target Category (6 Main Boxes) *</label>
+                    <select id="postCategory" required onchange="triggerGenerateUniqueQuoteInForm()">
+                      <option value="latest_jobs">🔥 Latest Jobs</option>
+                      <option value="results">🏆 Result</option>
+                      <option value="admit_cards">🪪 Admit Card</option>
+                      <option value="answer_keys">🔑 Answer Key</option>
+                      <option value="syllabus">📚 Syllabus</option>
+                      <option value="admissions">🎓 Admission</option>
+                    </select>
+                  </div>
+                  <div class="form-group">
+                    <label>Exam Field / Career Domain (Option A + B) *</label>
+                    <select id="postExamField" onchange="triggerGenerateUniqueQuoteInForm()">
+                      <option value="SSC">🏛️ SSC (CGL / CHSL / MTS / CPO)</option>
+                      <option value="Banking">🏦 Banking (SBI / IBPS / RBI / LIC)</option>
+                      <option value="Railway">🚆 Railway (RRB NTPC / Group D / ALP)</option>
+                      <option value="Police_Defence">⚔️ Police &amp; Defence (Army / Constable / SI)</option>
+                      <option value="Technical_PSU">⚙️ Technical / PSU / Engineering / ITI</option>
+                      <option value="Teaching">📚 Teaching (CTET / TET / PRT / TGT / PGT)</option>
+                      <option value="State_PSC_Civil">🇮🇳 State PSC / UPSC / Civil Services</option>
+                    </select>
+                  </div>
+                  <div class="form-group">
+                    <label>Job Sector (Govt / Semi-Govt)</label>
+                    <select id="postSector">
+                      <option value="govt_only">🏛️ Pure Government Job</option>
+                      <option value="non_semi_govt">🏢 Semi-Govt / PSU / Bank</option>
+                    </select>
+                  </div>
+                  <div class="form-group">
+                    <label>State / Scope *</label>
+                    <select id="postState">
+                      <option value="all">All India (Central)</option>
+                      <option value="maharashtra">Maharashtra</option>
+                      <option value="up">Uttar Pradesh (UP)</option>
+                      <option value="bihar">Bihar</option>
+                      <option value="delhi">Delhi</option>
+                      <option value="mp">Madhya Pradesh (MP)</option>
+                      <option value="rajasthan">Rajasthan</option>
+                      <option value="haryana">Haryana</option>
+                      <option value="wb">West Bengal (WB)</option>
+                      <option value="karnataka">Karnataka</option>
+                      <option value="gujarat">Gujarat</option>
+                      <option value="tamil_nadu">Tamil Nadu</option>
+                      <option value="jharkhand">Jharkhand</option>
+                      <option value="chhattisgarh">Chhattisgarh</option>
+                      <option value="uttarakhand">Uttarakhand</option>
+                      <option value="odisha">Odisha</option>
+                      <option value="punjab">Punjab</option>
+                      <option value="assam">Assam</option>
+                      <option value="goa">Goa</option>
+                      <option value="others">Others (Other State)</option>
+                    </select>
+                  </div>
+                </div>
+
+                <div class="form-row">
+                  <div class="form-group">
+                    <label>Department / Recruitment Board</label>
+                    <input type="text" id="postDept" placeholder="e.g. Staff Selection Commission (SSC)" oninput="triggerGenerateUniqueQuoteInForm()">
+                  </div>
+                  <div class="form-group" style="grid-column: span 2;">
+                    <label style="display:flex; justify-content:space-between; align-items:center;">
+                      <span>🌟 Unique Intent Motivational Quote (Option A + Option B — Never Repeats Across Posts)</span>
+                      <button type="button" data-no-confirm="true" onclick="triggerGenerateUniqueQuoteInForm(true)" style="background:none; border:none; color:#0284c7; font-weight:900; font-size:0.73rem; cursor:pointer; text-decoration:underline;">🔄 Generate Another Angle</button>
+                    </label>
+                    <input type="text" id="postUniqueQuote" placeholder="Auto-generated unique quote based on Post Title, Category Intent & Exam Field...">
+                  </div>
+                </div>
+
+                <!-- AUTOMATIC & MANUAL TAG CHECKBOXES -->
+                <div style="display:flex; gap:16px; flex-wrap:wrap; align-items:center; justify-content:space-between; background:#fffbeb; border:1.5px solid #f59e0b; padding:10px 14px; border-radius:8px; margin-bottom:14px;">
+                  <div style="display:flex; gap:16px; flex-wrap:wrap;">
+                    <label style="font-size:0.8rem; font-weight:800; color:#b45309; cursor:pointer; display:flex; align-items:center; gap:6px;">
+                      <input type="checkbox" id="postIsExtended" class="custom-check"> 🔥 Mark as "Last Date Extended" Tag
+                    </label>
+                    <label style="font-size:0.8rem; font-weight:800; color:#dc2626; cursor:pointer; display:flex; align-items:center; gap:6px;">
+                      <input type="checkbox" id="postIsTodayLast" class="custom-check"> ⏳ Mark as "Today Last Date" Tag
+                    </label>
+                    <label style="font-size:0.8rem; font-weight:800; color:#059669; cursor:pointer; display:flex; align-items:center; gap:6px;">
+                      <input type="checkbox" id="postVerifiedTag" class="custom-check" checked> ✅ Show "Verified Notice" Tag
+                    </label>
+                  </div>
+                  <span id="formAutoDateDetectBadge" style="font-size:0.72rem; font-weight:900; color:#0369a1; background:#e0f2fe; padding:3px 9px; border-radius:12px;">
+                    🤖 Auto Date-Tag Detector Active
+                  </span>
+                </div>
+
+                <!-- 1. IMPORTANT DATES -->
+                <div class="toggle-section-card active-sec" id="block-dates">
+                  <div class="toggle-header" onclick="toggleCardSec('block-dates')">
+                    <span class="toggle-title"><i class="fas fa-calendar-alt"></i> 1. Important Dates (Release, Notification, Apply, Last Date, Extended Date, Exam)</span>
+                    <label onclick="event.stopPropagation();"><input type="checkbox" id="check-dates" class="custom-check" checked onchange="syncCardState('block-dates', this.checked)"> Publish Box</label>
+                  </div>
+                  <div class="toggle-content">
+                    <div class="form-row">
+                      <div class="form-group"><label>Post Release / Update Date</label><input type="text" id="d_release" placeholder="e.g. 12 Nov 2026"></div>
+                      <div class="form-group"><label>Official Notification Date</label><input type="text" id="d_notif" placeholder="e.g. 11 Nov 2026"></div>
+                      <div class="form-group"><label>Apply Start Date</label><input type="text" id="d_start" placeholder="e.g. 12 Nov 2026"></div>
+                      <div class="form-group"><label>Last Date to Apply (Auto-Triggers Today Tag)</label><input type="text" id="d_end" placeholder="e.g. 12 Nov 2026 or 30 Nov 2026" oninput="autoDetectTodayAndExtendedDateInForm()"></div>
+                      <div class="form-group"><label>Extended Last Date (Optional)</label><input type="text" id="d_extended" placeholder="e.g. 15 Dec 2026 (Auto-Triggers Extended Tag)" oninput="autoDetectTodayAndExtendedDateInForm()"></div>
+                      <div class="form-group"><label>Exam / Admit Card / Result Date</label><input type="text" id="d_exam" placeholder="e.g. January 2027"></div>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- 2. APPLICATION FEE -->
+                <div class="toggle-section-card active-sec" id="block-fee">
+                  <div class="toggle-header" onclick="toggleCardSec('block-fee')">
+                    <span class="toggle-title"><i class="fas fa-indian-rupee-sign"></i> 2. Application Fee (Category / Caste Wise)</span>
+                    <label onclick="event.stopPropagation();"><input type="checkbox" id="check-fee" class="custom-check" checked onchange="syncCardState('block-fee', this.checked)"> Publish Box</label>
+                  </div>
+                  <div class="toggle-content">
+                    <div class="form-row">
+                      <div class="form-group"><label>General / OBC / EWS Fee</label><input type="text" id="f_gen" placeholder="e.g. ₹100/-"></div>
+                      <div class="form-group"><label>SC / ST / PH / Female Fee</label><input type="text" id="f_sc" placeholder="e.g. ₹0/- (Nil)"></div>
+                      <div class="form-group"><label>Payment Mode</label><input type="text" id="f_mode" placeholder="e.g. Online UPI / NetBanking / Debit Card"></div>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- 3. AGE LIMIT -->
+                <div class="toggle-section-card active-sec" id="block-age">
+                  <div class="toggle-header" onclick="toggleCardSec('block-age')">
+                    <span class="toggle-title"><i class="fas fa-cake-candles"></i> 3. Age Limit &amp; Relaxation</span>
+                    <label onclick="event.stopPropagation();"><input type="checkbox" id="check-age" class="custom-check" checked onchange="syncCardState('block-age', this.checked)"> Publish Box</label>
+                  </div>
+                  <div class="toggle-content">
+                    <div class="form-row">
+                      <div class="form-group"><label>Minimum Age</label><input type="text" id="age_min" placeholder="e.g. 18 Years"></div>
+                      <div class="form-group"><label>Maximum Age</label><input type="text" id="age_max" placeholder="e.g. 30 Years"></div>
+                      <div class="form-group"><label>Age Relaxation Rule</label><input type="text" id="age_relax" placeholder="e.g. OBC: 3 Yrs, SC/ST: 5 Yrs"></div>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- 4. VACANCY & QUALIFICATION -->
+                <div class="toggle-section-card active-sec" id="block-vacancy">
+                  <div class="toggle-header" onclick="toggleCardSec('block-vacancy')">
+                    <span class="toggle-title"><i class="fas fa-table-cells"></i> 4. Vacancy Details &amp; Post-Wise Qualification Summary</span>
+                    <label onclick="event.stopPropagation();"><input type="checkbox" id="check-vacancy" class="custom-check" checked onchange="syncCardState('block-vacancy', this.checked)"> Publish Box</label>
+                  </div>
+                  <div class="toggle-content">
+                    <div class="form-row">
+                      <div class="form-group"><label>Total Vacancy</label><input type="text" id="v_total_pill" placeholder="e.g. 17,727 Posts" oninput="triggerGenerateUniqueQuoteInForm()"></div>
+                      <div class="form-group"><label>Educational Qualification / Eligibility</label><input type="text" id="v_eligibility" placeholder="e.g. 10th / 12th / ITI / Bachelor Degree"></div>
+                    </div>
+                    <div id="dynamicPostQualRowsHolder" style="margin-top:8px;"></div>
+                    <button type="button" class="btn-main" data-no-confirm="true" style="margin-top:6px; font-size:0.74rem; background:#0284c7; color:#fff; border:none;" onclick="addDynamicPostQualRowInForm()">
+                      + Add Post-Wise Qualification Row
+                    </button>
+                  </div>
+                </div>
+
+                <!-- 5. SELECTION PROCESS & STRATEGY -->
+                <div class="toggle-section-card active-sec" id="block-selection">
+                  <div class="toggle-header" onclick="toggleCardSec('block-selection')">
+                    <span class="toggle-title"><i class="fas fa-clipboard-check"></i> 5. Selection Process &amp; Exam Strategy</span>
+                    <label onclick="event.stopPropagation();"><input type="checkbox" id="check-selection" class="custom-check" checked onchange="syncCardState('block-selection', this.checked)"> Publish Box</label>
+                  </div>
+                  <div class="toggle-content">
+                    <div class="form-group"><label>Selection Process (Comma separated stages)</label><input type="text" id="sel_process" placeholder="e.g. Tier-1 CBT, Tier-2 CBT, Skill Test & Document Verification"></div>
+                  </div>
+                </div>
+
+                <!-- 6. OFFICIAL ACTION LINKS -->
+                <div class="toggle-section-card active-sec" id="block-links">
+                  <div class="toggle-header" onclick="toggleCardSec('block-links')">
+                    <span class="toggle-title"><i class="fas fa-link"></i> 6. Official Direct Links &amp; PDFs (Zero Aggregator Redirect)</span>
+                    <label onclick="event.stopPropagation();"><input type="checkbox" id="check-links" class="custom-check" checked onchange="syncCardState('block-links', this.checked)"> Publish Box</label>
+                  </div>
+                  <div class="toggle-content">
+                    <div class="form-row">
+                      <div class="form-group"><label>Apply Online Direct URL</label><input type="url" id="link_apply" placeholder="https://ssc.gov.in"></div>
+                      <div class="form-group"><label>Official Notification PDF URL</label><input type="url" id="link_notif" placeholder="https://.../notice.pdf"></div>
+                      <div class="form-group"><label>Admit Card Direct URL</label><input type="url" id="link_admit" placeholder="https://..."></div>
+                      <div class="form-group"><label>Answer Key Direct URL</label><input type="url" id="link_anskey" placeholder="https://..."></div>
+                      <div class="form-group"><label>Result / Merit List URL</label><input type="url" id="link_result" placeholder="https://..."></div>
+                      <div class="form-group"><label>Syllabus PDF URL</label><input type="url" id="link_syllabus" placeholder="https://..."></div>
+                      <div class="form-group"><label>Official Board Website URL</label><input type="url" id="link_official" placeholder="https://..."></div>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- 7. WORD-TO-WORD PLAIN TEXT EDITOR (NO HTML CODE REQUIRED) -->
+                <div class="toggle-section-card active-sec" id="block-rawdesc">
+                  <div class="toggle-header" onclick="toggleCardSec('block-rawdesc')">
+                    <span class="toggle-title"><i class="fas fa-file-lines"></i> 7. Word-to-Word Plain Text Description (Exact Live View)</span>
+                    <span class="badge badge-green">Word-to-Word Sync</span>
+                  </div>
+                  <div class="toggle-content">
+                    <p style="font-size:0.76rem; color:#475569; margin-bottom:6px;">
+                      Yahan jo bhi text aap plain format mein likhenge ya update karenge, wahi exact word-to-word text live website (<strong>SARKARI NAUKAR BANEGA</strong>) par post ke andar dikhega—bina kisi complex HTML code ke:
+                    </p>
+                    <textarea id="postRawFullDescription" rows="8" placeholder="Type plain text details here..."></textarea>
+                  </div>
+                </div>
+
+                <div style="margin-top:16px; display:flex; gap:10px; flex-wrap:wrap;">
+                  <button type="submit" class="btn-main" style="padding:12px 24px; font-size:0.95rem; background:#10b981; color:#fff; border:none; flex:1; justify-content:center;">
+                    <i class="fas fa-cloud-arrow-up"></i> <span id="saveBtnText">Save &amp; Publish Live to SARKARI NAUKAR BANEGA</span>
+                  </button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </section>
+
+        <!-- ================= HOURLY GUARDIAN BOT ASSISTANT (MIC + VOICE + AUTO-FIX A/B/C/D) ================= -->
+        <section id="view-botChat" class="view-panel">
+          <div class="panel-card" style="max-width:900px; margin:0 auto;">
+            <div class="panel-card-head" style="background:#041922; color:#fff;">
+              <h3 style="color:#f8c016;"><i class="fas fa-robot"></i> Advance Guardian Bot Assistant (1-Hr Auto Audit + Mic Listening &amp; Speaking)</h3>
+              <div style="display:flex; gap:8px; flex-wrap:wrap;">
+                <button type="button" class="btn-agentic" style="background:#10b981; color:#fff;" onclick="runHourlyBotDeepAudit(true)" data-explain="Website, Admin Panel, Official Links, Broadsheet Isolation Firewall aur Security Shield ka abhi turant Deep Scan karta hai aur Hindi/Hinglish aawaz mein report deta hai.">
+                  <i class="fas fa-shield-virus"></i> Run Deep Scan Now
+                </button>
+                <button type="button" id="btnBotMicToggle" class="btn-agentic" data-no-confirm="true" style="background:#ea580c; color:#fff;" onclick="toggleBotVoiceMic()" data-explain="Mic on karta hai — aap bol kar Bot ko command de sakte hain (jaise 'Scan website', 'Fetch posts', 'Prune old data', 'Rebuild SEO').">
+                  <i class="fas fa-microphone"></i> <span id="lblBotMic">Speak Command (Mic)</span>
+                </button>
+                <button type="button" class="btn-agentic" data-no-confirm="true" style="background:#0284c7; color:#fff;" onclick="toggleBotVoiceMute()" data-explain="Bot ki speaking voice (bolne ki aawaz) ko On ya Mute karta hai.">
+                  <i class="fas fa-volume-high"></i> <span id="lblBotVoiceMute">Voice: ON</span>
+                </button>
+              </div>
+            </div>
+            <div class="panel-card-body">
+              <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(180px, 1fr)); gap:10px; margin-bottom:12px;">
+                <div style="background:#f0fdf4; border:1.5px solid #86efac; padding:10px; border-radius:8px; font-size:0.78rem;">
+                  <strong>⏱️ Next Auto Audit:</strong> <span id="botPanelTimer" style="color:#15803d; font-weight:900;">60m 00s</span>
+                </div>
+                <div style="background:#eff6ff; border:1.5px solid #93c5fd; padding:10px; border-radius:8px; font-size:0.78rem;">
+                  <strong>🛡️ Security Status:</strong> <span id="botSecStatus" style="color:#1e40af; font-weight:900;">0 Attacks / Safe</span>
+                </div>
+                <div style="background:#fefce8; border:1.5px solid #fde047; padding:10px; border-radius:8px; font-size:0.78rem;">
+                  <strong>🔗 Redirect &amp; Firewall:</strong> <span id="botLinkStatus" style="color:#854d0e; font-weight:900;">100% Clean</span>
+                </div>
+              </div>
+
+              <div class="bot-chat-window" id="botChatWindow"></div>
+
+              <div style="display:flex; gap:8px;">
+                <input type="text" id="botCommandInput" placeholder="Ask Bot or type command (e.g. 'scan website', 'fetch 24h', 'publish review', 'prune old', 'rebuild seo')..." style="flex:1; padding:10px 14px; border:1.5px solid #94a3b8; border-radius:8px; font-weight:700;" onkeydown="if(event.key==='Enter') executeBotCommand()">
+                <button type="button" class="btn-main" data-no-confirm="true" onclick="executeBotCommand()" data-explain="Aapka likha hua command Bot Engine ko bhejta hai aur trigger tool run karta hai.">
+                  <i class="fas fa-paper-plane"></i> Send / Trigger
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <!-- SUPER BOT 2-COLUMN RECOMMENDED UPDATES (A, B, C, D) & GEO FORENSICS GRID -->
+          <div style="max-width:900px; margin:16px auto 0; display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:14px;">
+            <div class="panel-card" style="margin:0;">
+              <div class="panel-card-head" style="background:#041922; color:#fff;">
+                <h3 style="color:#f8c016; font-size:0.86rem;">⚡ Recommended Updates &amp; Auto-Fix Triggers (A, B, C, D)</h3>
+                <button type="button" class="btn-agentic" style="background:#10b981; color:#fff; padding:5px 10px; font-size:0.72rem;" data-explain="Charon Auto-Fix Updates (Word-to-Word Plain Text Sync, Aggregator Redirect Strip, Pending Review Publish, aur Broadsheet Firewall + Google JobPosting Schema) ko ek sath database aur website par lagu karta hai." onclick="window.applyBotAutoUpdate('ALL')">✔ Haan, Apply All</button>
+              </div>
+              <div class="panel-card-body" style="font-size:0.78rem; display:flex; flex-direction:column; gap:10px;">
+                <div style="border:1px solid #cbd5e1; border-radius:8px; padding:9px; display:flex; justify-content:space-between; align-items:center; gap:8px;">
+                  <div><strong>• Update A: Sync Word-to-Word Short &amp; Full Descriptions</strong><br><small style="color:#64748b;">Sabhi posts mein clean Short View, Unique Quotes aur Today-Last-Date tags sync karein.</small></div>
+                  <button type="button" class="btn-agentic" style="background:#10b981; color:#fff; padding:5px 10px; font-size:0.72rem;" data-explain="Sabhi live posts ke Short aur Full Descriptions, Unique Quotes aur Date Tags ko normalize karke index.html se sync karta hai." onclick="window.applyBotAutoUpdate('A')">✔ Apply A</button>
+                </div>
+                <div style="border:1px solid #cbd5e1; border-radius:8px; padding:9px; display:flex; justify-content:space-between; align-items:center; gap:8px;">
+                  <div><strong>• Update B: Strip External Aggregator Redirects</strong><br><small style="color:#64748b;">Third-party aggregator HTML links hata kar direct official board links lock karein.</small></div>
+                  <button type="button" class="btn-agentic" style="background:#10b981; color:#fff; padding:5px 10px; font-size:0.72rem;" data-explain="Database ke sabhi posts ko scan karke kisi bhi external aggregator redirect link ko official board portal se replace karta hai." onclick="window.applyBotAutoUpdate('B')">✔ Apply B</button>
+                </div>
+                <div style="border:1px solid #cbd5e1; border-radius:8px; padding:9px; display:flex; justify-content:space-between; align-items:center; gap:8px;">
+                  <div><strong>• Update C: Publish Verified Pending Queue Posts Live</strong><br><small style="color:#64748b;">Review Queue ke verified posts ko seedhe Website Index par live karein.</small></div>
+                  <button type="button" class="btn-agentic" style="background:#10b981; color:#fff; padding:5px 10px; font-size:0.72rem;" data-explain="Review Queue mein rakhe sabhi pending posts ka status 'published' karke unhe turant index.html ki 6 categories mein live dikhata hai." onclick="window.applyBotAutoUpdate('C')">✔ Apply C</button>
+                </div>
+                <div style="border:1px solid #cbd5e1; border-radius:8px; padding:9px; display:flex; justify-content:space-between; align-items:center; gap:8px; background:#f0fdf4;">
+                  <div><strong>• Update D: Enforce Broadsheet Firewall &amp; Google SEO Schema</strong><br><small style="color:#15803d;">6 Categories se koi bhi leaked news hata kar Google JobPosting Schema update karein.</small></div>
+                  <button type="button" class="btn-agentic" style="background:#0284c7; color:#fff; padding:5px 10px; font-size:0.72rem;" data-explain="6 Job Categories se The Hindu Broadsheet ya general news ka koi bhi leaked item filter karta hai aur Google Top Search JobPosting Schema rebuild karta hai." onclick="window.applyBotAutoUpdate('D')">✔ Apply D</button>
+                </div>
+              </div>
+            </div>
+
+            <div style="display:flex; flex-direction:column; gap:14px;">
+              <div class="panel-card" style="margin:0;">
+                <div class="panel-card-head" style="background:#0f172a; color:#fff;">
+                  <h3 style="color:#38bdf8; font-size:0.85rem;">🕒 Applied Updates History (Real 1-Click Undo)</h3>
+                </div>
+                <div class="panel-card-body" id="botUndoHistoryBox" style="font-size:0.76rem; color:#64748b; text-align:center;">
+                  Abhi tak koi automated update apply nahi kiya gaya hai.
+                </div>
+              </div>
+
+              <div class="panel-card" style="margin:0; border-color:#ef4444;">
+                <div class="panel-card-head" style="background:#991b1b; color:#fff;">
+                  <h3 style="color:#fef08a; font-size:0.85rem;">🛡️ Anti-Hacking Intruder Geo &amp; Tool Forensics</h3>
+                  <button type="button" class="btn-agentic" style="background:#10b981; color:#fff; padding:4px 9px; font-size:0.7rem;" data-explain="Security Radar aur Geo-Forensic Engine ki live jaanch karta hai." onclick="window.runHourlyBotDeepAudit(true)">Test Probe</button>
+                </div>
+                <div class="panel-card-body" style="font-size:0.76rem; line-height:1.6;">
+                  <div style="background:#f8fafc; border:1px solid #cbd5e1; padding:8px; border-radius:6px; margin-bottom:8px;">
+                    <strong>📡 Active Admin/Visitor Geo Radar:</strong><br>
+                    • <strong>Location:</strong> Maharashtra, India (IN)<br>
+                    • <strong>Session Shield:</strong> AES-256 Auth, Brute-Force &amp; XSS Sanitizer Active<br>
+                    • <strong>Public Brand:</strong> <code>SARKARI NAUKAR BANEGA</code> (GitHub Sync: <code>ELON CHACHA</code>)
+                  </div>
+                  <div style="color:#15803d; font-weight:900; text-align:center;">
+                    🟢 Zero Intrusion Attempts Detected. Website Index &amp; Admin Panel surakshit hain.
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+<!-- ================= PART 3 ENDS HERE — PASTE PART 4 DIRECTLY BELOW THIS LINE ================= -->
+        
