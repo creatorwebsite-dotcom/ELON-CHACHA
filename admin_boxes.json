@@ -1,18 +1,18 @@
 {
   "portal_brand": "SARKARI NAUKAR BANEGA",
-  "updated_at": "13 Nov 2026, 09:37:59 AM IST",
-  "last_2hr_sync_ist": "13 Nov 2026, 09:37:59 AM IST",
-  "last_2hr_sync_iso": "2026-11-13T09:37:45+05:30",
+  "updated_at": "13 Nov 2026, 10:57:53 AM IST",
+  "last_2hr_sync_ist": "13 Nov 2026, 10:57:53 AM IST",
+  "last_2hr_sync_iso": "2026-11-13T10:57:41+05:30",
   "window_days": 15,
-  "pruned_posts_last_run": 10,
-  "unseen_auto_published_count": 182,
+  "pruned_posts_last_run": 11,
+  "unseen_auto_published_count": 225,
   "category_counts": {
-    "latest_jobs": 56,
-    "results": 36,
-    "admit_cards": 38,
-    "answer_keys": 32,
+    "latest_jobs": 73,
+    "results": 39,
+    "admit_cards": 49,
+    "answer_keys": 42,
     "syllabus": 11,
-    "admissions": 9
+    "admissions": 11
   },
   "trending_top_6": [
     {
@@ -61,12 +61,12 @@
       "active": true
     },
     {
-      "id": "13aad29a465e",
-      "title": "KSP Constable Result 2026",
-      "sub": "Result",
-      "url": "https://ksp-recruitment.in/",
-      "details": "The result update covers 3,991 Civil Police Constable vacancies, including 3,395 Residual Parent Cadre (RPC) posts and 596 Kalyana Karnataka (KK) posts. Candidates who appeared in the recruitment selection process can check their names, application numbers and selection status in the relevant district-wise PDF.",
-      "rushScore": 118,
+      "id": "3c8b7825e280",
+      "title": "TELANGANA STATE LEVEL POLICE RECRUITMENT BOARD | 13 November 2026",
+      "sub": "Today Last Date",
+      "url": "https://licindia.in",
+      "details": "Official notification for TELANGANA STATE LEVEL POLICE RECRUITMENT BOARD | 13 November 2026. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 122,
       "active": true
     }
   ],
@@ -85,5 +85,5 @@
     "facebook": ""
   },
   "new_custom_boxes": [],
-  "last_trigger_source": "repository_dispatch"
+  "last_trigger_source": "schedule"
 }
