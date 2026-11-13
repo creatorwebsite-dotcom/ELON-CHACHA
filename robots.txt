@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /jobs_database.json
+Allow: /google_jobs_schema.json
+Allow: /sitemap.xml
+Disallow: /admin.html
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+Sitemap: https://sarkarinaukarbanega.com/sitemap.xml
