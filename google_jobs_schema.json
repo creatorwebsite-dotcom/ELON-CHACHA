@@ -62,6 +62,67 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "ESIC MCH Bihta Various Posts Recruitment 2026 (59 Vacancy)",
+      "description": "<p>Employees' State Insurance Corporation - ESIC Medical College &amp; Hospital, Bihta, Patna (ESIC MCH Bihta), Bihar, has invited applications for 59 posts in 3 roles under Advt No. 15 of 2026. The posts include Professor, Associate Professor, Assistant Professor. Applications go by email to [email protected] and must be sent by 18 November 2026.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "53f2ee5d6954"
+      },
+      "datePosted": "2026-11-13",
+      "validThrough": "2026-11-18T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "ESIC MCH Bihta Various Posts",
+        "sameAs": "https://www.mcpatna.esic.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 59
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Gud News For Students VACANCY INCREASE RRB ALP 2026 #vacancyannouncement #increaserevenue #vacancyannouncement😁😁",
+      "description": "<p>Official notification for Gud News For Students VACANCY INCREASE RRB ALP 2026 #vacancyannouncement #increaserevenue #vacancyannouncement😁😁. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "4772353a8158"
+      },
+      "datePosted": "2026-11-13",
+      "validThrough": "2026-12-13T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Gud Recruitment Board",
+        "sameAs": "https://indianrailways.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "CSB IAS ACADEMY FACULTY RECRUITMENT #csbiasacademy #balalathamadam #upsc",
       "description": "<p>Official notification for CSB IAS ACADEMY FACULTY RECRUITMENT #csbiasacademy #balalathamadam #upsc. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -107,6 +168,36 @@
         "@type": "Organization",
         "name": "AP Recruitment Board",
         "sameAs": "https://opportunities.rbi.org.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "EXIM Bank IT Officer Notification 2026 Out | Vacancy, Eligibility, Salary, Syllabus & Exam Pattern",
+      "description": "<p>Official notification for EXIM Bank IT Officer Notification 2026 Out | Vacancy, Eligibility, Salary, Syllabus &amp; Exam Pattern. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "86989f7e1f0d"
+      },
+      "datePosted": "2026-11-13",
+      "validThrough": "2026-12-13T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "EXIM Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
       },
       "jobLocation": {
         "@type": "Place",
@@ -2226,96 +2317,6 @@
         "@type": "Organization",
         "name": "RRB Recruitment Board",
         "sameAs": "https://indianrailways.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Police Reform Must Begin Before Recruitment: Why India Needs A Specialised Degree In Police Administration",
-      "description": "<p>Official notification for Police Reform Must Begin Before Recruitment: Why India Needs A Specialised Degree In Police Administration. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "8bc9cc9d4ce2"
-      },
-      "datePosted": "2026-11-10",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Police Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "GCC Seeks 40-Year Upper Age Limit for Jammu Kashmir Bank Recruitment, Appeals to LG",
-      "description": "<p>Official notification for GCC Seeks 40-Year Upper Age Limit for Jammu Kashmir Bank Recruitment, Appeals to LG. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "2a1646cad670"
-      },
-      "datePosted": "2026-11-10",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "GCC Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Central Reserve Police Force Recruitment of Sub-Inspector (LDCE)Exam.-2026 in CAPFs: Advertisement thereof",
-      "description": "<p>Official notification for Central Reserve Police Force Recruitment of Sub-Inspector (LDCE)Exam.-2026 in CAPFs: Advertisement thereof. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "504e2420343a"
-      },
-      "datePosted": "2026-11-10",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Central Recruitment Board",
-        "sameAs": "https://licindia.in"
       },
       "jobLocation": {
         "@type": "Place",
