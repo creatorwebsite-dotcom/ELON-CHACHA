@@ -1,0 +1,89 @@
+{
+  "portal_brand": "SARKARI NAUKAR BANEGA",
+  "updated_at": "13 Nov 2026, 08:45:17 AM IST",
+  "last_2hr_sync_ist": "13 Nov 2026, 08:45:17 AM IST",
+  "last_2hr_sync_iso": "2026-11-13T08:45:05+05:30",
+  "window_days": 15,
+  "pruned_posts_last_run": 0,
+  "unseen_auto_published_count": 114,
+  "category_counts": {
+    "latest_jobs": 28,
+    "results": 23,
+    "admit_cards": 28,
+    "answer_keys": 17,
+    "syllabus": 10,
+    "admissions": 8
+  },
+  "trending_top_6": [
+    {
+      "id": "3aa07d62f68f",
+      "title": "RRB NTPC 10+2 UG Online Form 2026 (1688 Posts)",
+      "sub": "Today Last Date",
+      "url": "http://sarkariresult.com.cm/wp-content/uploads/2026/10/RRB-NTPC-UG-2026-RRB-Zone-Wise-Vacancy-Details.pdf",
+      "details": "Application Fee For General / OBC / EWS : ₹ 500/- For SC / ST / EBC : ₹ 250/- For All Category female : ₹ 250/- Fee Refund : General / OBC : Rs. 400/- will be refunded and Other candidates : Rs. 250/- will be refunded to the bank account after appearing in Stage I Exam. Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
+      "rushScore": 130,
+      "active": true
+    },
+    {
+      "id": "de04fe4bc529",
+      "title": "SSC GD PET PST Admit Card 2026 Out",
+      "sub": "Admit Card",
+      "url": "https://ssccr.gov.in/admit-card/696529dfde07fd2f63e510d9",
+      "details": "The Staff Selection Commission (SSC) has released the SSC GD PET PST Admit Card 2026 on 12 November 2026. Candidates who qualified in the Computer-Based Examination can download their admit cards for the Physical Efficiency Test (PET) and Physical Standard Test (PST) from the official website. Candidates must log in using their registration number/roll number and date of birth or password to access the call letter.",
+      "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "91abdf16502f",
+      "title": "RRB Group D Result 2026: Zone-wise PET shortlist released for 22,195 vacancies, check cut-off marks",
+      "sub": "Result",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB Group D Result 2026: Zone-wise PET shortlist released for 22,195 vacancies, check cut-off marks. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "4362c7b5edf8",
+      "title": "MPSC 16,797 Group C Online Form 2026",
+      "sub": "Latest Jobs",
+      "url": "https://mpsconline.gov.in/",
+      "details": "The Maharashtra Public Service Commission (MPSC) has issued important updates regarding the MPSC Group C Recruitment 2026 , covering a total of 16,717 vacancies across various departments of the Maharashtra Government. The recruitment includes posts such as Clerk-Typist, Tax Assistant, Technical Assistant, Assistant Motor Vehicle Inspector, Industry Inspector and several other Group C positions.",
+      "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "a3926a039f4a",
+      "title": "RRB ALP CBT 1 Answer Key 2026",
+      "sub": "Closing Soon",
+      "url": "https://rrb.digialm.com/EForms/configuredHtml/33244/102956/cOPXnjiLXCY5nEw5Vt/login.html",
+      "details": "The Railway Recruitment Boards will allow candidates to challenge the provisional answer key if they find errors in the questions, options or answers. The objection window opens on 12 November 2026 at 7:00 PM and closes on 19 November 2026 at 11:59 PM.",
+      "rushScore": 123,
+      "active": true
+    },
+    {
+      "id": "e876eb670c28",
+      "title": "MP Police Constable Admit Card 2026 Soon",
+      "sub": "Admit Card",
+      "url": "https://esb.mp.gov.in/",
+      "details": "Q5. What details are required to download the MP Police Constable Admit Card? Candidates should keep their application number, date of birth and other identity-verification information requested by the official portal ready.",
+      "rushScore": 118,
+      "active": true
+    }
+  ],
+  "standard_boxes": [
+    "Latest Jobs",
+    "Result",
+    "Admit Card",
+    "Answer Key",
+    "Syllabus",
+    "Admission"
+  ],
+  "social_links": {
+    "whatsapp": "",
+    "telegram": "",
+    "instagram": "",
+    "facebook": ""
+  },
+  "new_custom_boxes": [],
+  "last_trigger_source": "workflow_dispatch"
+}
