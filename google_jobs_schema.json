@@ -788,6 +788,37 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "AIIMS Bhubaneswar Various Posts Online Form 2026 (82 Vacancy)",
+      "description": "<p>All India Institute of Medical Sciences, Bhubaneswar (AIIMS Bhubaneswar), Odisha, has invited applications for 82 posts in 4 roles under Advt No. RECT-11012/4/2026-RECU SEC. The posts include Professor, Additional Professor, Associate Professor, Assistant Professor. Applications are accepted online until 13 December 2026.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "a5f523db2010"
+      },
+      "datePosted": "2026-11-13",
+      "validThrough": "2026-12-13T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "AIIMS Bhubaneswar Various Posts",
+        "sameAs": "https://aiimsbhubaneswar.nic.in/"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Odisha",
+          "addressRegion": "Odisha",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 82
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "GPSC Various Posts Online Form 2026 (48 Vacancy)",
       "description": "<p>The official notification does not specify the application fee amount.</p>",
       "identifier": {
@@ -1143,6 +1174,36 @@
           "@type": "PostalAddress",
           "addressLocality": "All India / Central",
           "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "UP Police Constable Vacancy 2026-27 | नई भर्ती कब आएगी? पद कम होंगे? | UP Police New Vacancy Update",
+      "description": "<p>Official notification for UP Police Constable Vacancy 2026-27 | नई भर्ती कब आएगी? पद कम होंगे? | UP Police New Vacancy Update. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "76eec88725b9"
+      },
+      "datePosted": "2026-11-12",
+      "validThrough": "2026-12-13T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "UP Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Uttar Pradesh",
+          "addressRegion": "Uttar Pradesh",
           "addressCountry": "IN"
         }
       },
@@ -2257,66 +2318,6 @@
         "@type": "Organization",
         "name": "ISRO SAC Apprentice",
         "sameAs": "https://www.sac.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "UP POLICE NEW VACANCY 2026 | UP POLICE CONSTABLE VACANCY 2026 | चर्चा अपने सवाल पूछे",
-      "description": "<p>Official notification for UP POLICE NEW VACANCY 2026 | UP POLICE CONSTABLE VACANCY 2026 | चर्चा अपने सवाल पूछे. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "a3a3655ee927"
-      },
-      "datePosted": "2026-11-10",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "UP Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Uttar Pradesh",
-          "addressRegion": "Uttar Pradesh",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "RRB ALP Vacancy Increased 2026: Posts Raised from 11,127 to 14,627, Check Revised Vacancy Details",
-      "description": "<p>Official notification for RRB ALP Vacancy Increased 2026: Posts Raised from 11,127 to 14,627, Check Revised Vacancy Details. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "8debd344c933"
-      },
-      "datePosted": "2026-11-10",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "RRB Recruitment Board",
-        "sameAs": "https://indianrailways.gov.in"
       },
       "jobLocation": {
         "@type": "Place",
