@@ -243,6 +243,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "EXIM Bank Legal Officer Recruitment 2026 | Full Details & Syllabus",
+      "description": "<p>Official notification for EXIM Bank Legal Officer Recruitment 2026 | Full Details &amp; Syllabus. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "f34465ec5e6e"
+      },
+      "datePosted": "2026-11-13",
+      "validThrough": "2026-12-13T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "EXIM Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Tag: RRB Station Master Vacancy 2026",
       "description": "<p>Official notification for Tag: RRB Station Master Vacancy 2026. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -1107,6 +1137,36 @@
         "@type": "Organization",
         "name": "Litigant Recruitment Board",
         "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "RRB Station Master Vacancy 2026 | Station Master CBAT क्या है?, Final Merit कैसे बनेगी? | Details",
+      "description": "<p>Official notification for RRB Station Master Vacancy 2026 | Station Master CBAT क्या है?, Final Merit कैसे बनेगी? | Details. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "9173d9c820ac"
+      },
+      "datePosted": "2026-11-12",
+      "validThrough": "2026-12-13T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "RRB Recruitment Board",
+        "sameAs": "https://indianrailways.gov.in"
       },
       "jobLocation": {
         "@type": "Place",
@@ -2257,67 +2317,6 @@
         "@type": "Organization",
         "name": "AIP Recruitment Board",
         "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "RRC NR Act Apprentice Online Form 2026 (4651 Vacancy)",
-      "description": "<p>RRC NR Quick Summary 2026 · 4,651 Posts COMPANY NAME Railway Recruitment Cell, Northern Railway POST NAME Act Apprentice QUALIFICATION ITI, 12TH, 10TH VACANCY 4,651 Posts AGE LIMIT 15 - 24 Years START DATE 11-11-2026 LAST DATE 11-12-2026</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "01fa7795f22f"
-      },
-      "datePosted": "2026-11-11",
-      "validThrough": "2026-12-11T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "RRC NR Act Apprentice",
-        "sameAs": "https://rrcnr.org/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 4651
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "ISRO SAC Apprentice Online Form 2026",
-      "description": "<p>ISRO SAC Quick Summary 2026 COMPANY NAME Space Applications Centre, Indian Space Research Organisation, Department of Space POST NAME Graduate Apprentice, Technician Apprentice and More QUALIFICATION B.Tech/B.E, Diploma, ITI, 10TH AGE LIMIT 18 - 35 Years SALARY ₹10,560 - ₹12,300 /month START DATE 11-11-2026 LAST DATE 02-12-2026</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "eafa92db8e96"
-      },
-      "datePosted": "2026-11-11",
-      "validThrough": "2026-12-02T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "ISRO SAC Apprentice",
-        "sameAs": "https://www.sac.gov.in"
       },
       "jobLocation": {
         "@type": "Place",
