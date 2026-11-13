@@ -62,6 +62,66 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Tag: RRB Station Master Vacancy 2026",
+      "description": "<p>Official notification for Tag: RRB Station Master Vacancy 2026. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "5c9e0beb5b3c"
+      },
+      "datePosted": "2026-11-13",
+      "validThrough": "2026-12-13T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Tag: Recruitment Board",
+        "sameAs": "https://indianrailways.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Exim Bank Recruitment 2026 Notification Out, Apply Online For 120 MT and Manager Vacancies",
+      "description": "<p>Official notification for Exim Bank Recruitment 2026 Notification Out, Apply Online For 120 MT and Manager Vacancies. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "775776e21284"
+      },
+      "datePosted": "2026-11-13",
+      "validThrough": "2026-12-13T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Exim Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Exim Bank Recruitment 2026: Apply Online for 120 Management Trainee & Manager Posts",
       "description": "<p>Official notification for Exim Bank Recruitment 2026: Apply Online for 120 Management Trainee &amp; Manager Posts. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -319,6 +379,36 @@
         "@type": "Organization",
         "name": "127 Inf Bn TA Eco Garhwal Rifles",
         "sameAs": "https://territorialarmy.in/"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "RAILWAY RECRUITMENT BOARDS Notice on Application Status CEN No. 05/2026 Recruitment for various posts of Paramedical Category",
+      "description": "<p>Official notification for RAILWAY RECRUITMENT BOARDS Notice on Application Status CEN No. 05/2026 Recruitment for various posts of Paramedical Category. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "4f3e53660683"
+      },
+      "datePosted": "2026-11-13",
+      "validThrough": "2026-12-13T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "RAILWAY Recruitment Board",
+        "sameAs": "https://indianrailways.gov.in"
       },
       "jobLocation": {
         "@type": "Place",
@@ -1577,6 +1667,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Civil Excise Officer Driver Part II (By Transfer Recruitment) in Kerala Excise and Prohibition Department",
+      "description": "<p>Official notification for Civil Excise Officer Driver Part II (By Transfer Recruitment) in Kerala Excise and Prohibition Department. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "4fdd6881d8e6"
+      },
+      "datePosted": "2026-11-11",
+      "validThrough": "2026-12-13T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Civil Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "MP Police SI Answer Key 2026 Released; Objection Window Open Till November 13",
       "description": "<p>Official notification for MP Police SI Answer Key 2026 Released; Objection Window Open Till November 13. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2209,128 +2329,6 @@
         }
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "UPSSSC Junior Engineer JE (Electrical) Online Form 2026",
-      "description": "<p>Application Fee General, OBC, EWS : ₹ 25/- SC, ST : ₹ 25/- PH Candidates : ₹ 25/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "57c396eda191"
-      },
-      "datePosted": "2026-11-06",
-      "validThrough": "2026-11-27T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "UPSSSC Junior Engineer JE (Electrical)",
-        "sameAs": "http://upsssc.gov.in/Default.aspx"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Uttar Pradesh",
-          "addressRegion": "Uttar Pradesh",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "UP Anganwadi Bharti Online Form 2026 (Updated)",
-      "description": "<p>UP Anganwadi Bharti Online Form 2026 (Updated) UP Anganwadi Bharti Examination 2025 : Short Details .cm Important Dates Notification Date : November 2025 Application Start : November 2025 Last Date for Apply: District Wise Form Complete Last Date : District Wise Application Fee There is no application fee for any candidate.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "f138f9819d36"
-      },
-      "datePosted": "2026-11-06",
-      "validThrough": "2026-10-27T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "UP Anganwadi Bharti",
-        "sameAs": "http://upanganwadibharti.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "IOCL Apprentice Online Form 2026 (500 Vacancy)",
-      "description": "<p>The official notification does not specify the amount of the stipend or the application fee, and it does not give the number of seats trade by trade.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "4ee56b35b62c"
-      },
-      "datePosted": "2026-11-06",
-      "validThrough": "2026-12-05T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "IOCL Apprentice",
-        "sameAs": "https://iocl.com"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 500
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "SDSC SHAR Apprentice Online Form 2026 (400 Vacancy)",
-      "description": "<p>According to the official apprenticeship notification dated 06 November 2026, candidates must complete their online registration and application within the prescribed period. Applicants should complete the required apprenticeship portal registration before submitting their applications through UMANG.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "e7892ee5c0cb"
-      },
-      "datePosted": "2026-11-06",
-      "validThrough": "2026-11-26T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "SDSC SHAR Apprentice",
-        "sameAs": "https://www.shar.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 400
     }
   ]
 }
