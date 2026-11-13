@@ -1273,6 +1273,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "EXIM BANK 2026 🚨 Recruitment Out ! . . #bank #banking #pw #vacancy #exam",
+      "description": "<p>Official notification for EXIM BANK 2026 🚨 Recruitment Out ! . . #bank #banking #pw #vacancy #exam. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "df10d79600aa"
+      },
+      "datePosted": "2026-11-12",
+      "validThrough": "2026-12-14T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "EXIM Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "RECRUITMENT NOTIFICATION – 2026",
       "description": "<p>Official notification for RECRUITMENT NOTIFICATION – 2026. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2295,36 +2325,6 @@
           "@type": "PostalAddress",
           "addressLocality": "All India / Central",
           "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "MP Police SI Answer Key 2026 Released; Objection Window Open Till November 13",
-      "description": "<p>Official notification for MP Police SI Answer Key 2026 Released; Objection Window Open Till November 13. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "7acdef78a82a"
-      },
-      "datePosted": "2026-11-11",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "MP Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Madhya Pradesh",
-          "addressRegion": "Madhya Pradesh",
           "addressCountry": "IN"
         }
       },
