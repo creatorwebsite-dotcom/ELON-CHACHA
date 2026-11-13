@@ -367,6 +367,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Overseer / Draftsman (Mechanical) GRIII / Tracer (Direct Recruitment)",
+      "description": "<p>Official notification for Overseer / Draftsman (Mechanical) GRIII / Tracer (Direct Recruitment). Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "096567e09320"
+      },
+      "datePosted": "2026-11-12",
+      "validThrough": "2026-12-13T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Overseer Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "MP Police Constable recruitment 2026: 8वीं पास वाली नौकरी के लिए मारामारी!, चौंकाने वाला सच? MP News",
       "description": "<p>Official notification for MP Police Constable recruitment 2026: 8वीं पास वाली नौकरी के लिए मारामारी!, चौंकाने वाला सच? MP News. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -1578,6 +1608,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "UP POLICE NEW VACANCY 2026 | UP POLICE CONSTABLE VACANCY 2026 | चर्चा अपने सवाल पूछे",
+      "description": "<p>Official notification for UP POLICE NEW VACANCY 2026 | UP POLICE CONSTABLE VACANCY 2026 | चर्चा अपने सवाल पूछे. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "a3a3655ee927"
+      },
+      "datePosted": "2026-11-10",
+      "validThrough": "2026-12-13T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "UP Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Uttar Pradesh",
+          "addressRegion": "Uttar Pradesh",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "RRB ALP Vacancy Increased 2026: Posts Raised from 11,127 to 14,627, Check Revised Vacancy Details",
       "description": "<p>Official notification for RRB ALP Vacancy Increased 2026: Posts Raised from 11,127 to 14,627, Check Revised Vacancy Details. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -1682,6 +1742,36 @@
       "hiringOrganization": {
         "@type": "Organization",
         "name": "Central Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Queensland Police launch Recruitment Week of Action",
+      "description": "<p>Official notification for Queensland Police launch Recruitment Week of Action. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "c5342ba6e1bc"
+      },
+      "datePosted": "2026-11-10",
+      "validThrough": "2026-12-13T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Queensland Recruitment Board",
         "sameAs": "https://licindia.in"
       },
       "jobLocation": {
@@ -1878,6 +1968,37 @@
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
       "totalJobOpenings": 2861
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "J&K Bank Recruitment 2026-27, 1397 Vacancies (Clerk & PO), Notification PDF",
+      "description": "<p>Official notification for J&amp;K Bank Recruitment 2026-27, 1397 Vacancies (Clerk &amp; PO), Notification PDF. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "5a52981ba58e"
+      },
+      "datePosted": "2026-11-06",
+      "validThrough": "2026-12-13T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "J&K Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 1397
     },
     {
       "@context": "https://schema.org/",
@@ -2212,129 +2333,6 @@
         }
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "JRHMS 306 Specialist Medical Officer Online Form 2026",
-      "description": "<p>Update 28 Oct 2026: National Health Mission (NHM), Jharkhand has extended the last date for submitting online applications for Specialist Medical Officer recruitment under Advertisement Nos. NHM/03/2026 (SMO BID)-2750(MD) and HMEW/2026 (SMO Bid)-2755(MD) from 31 October 2026 to 15 November 2026 . All other terms and conditions of both advertisements remain unchanged. Extension Notice PDF</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "9c5b9727a98d"
-      },
-      "datePosted": "2026-10-31",
-      "validThrough": "2026-11-30T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "JRHMS 306 Specialist Medical Officer",
-        "sameAs": "https://www.jrhms.jharkhand.gov.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 306
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "NTA NIFTEE Online Form 2027",
-      "description": "<p>Application Fee For Gen / OBC / EWS (Single Programme) : ₹ 2000/- For Gen / OBC / EWS (For Two Programme) : ₹ 3000/- For SC / ST / PH (Single Programme) : ₹ 500/- For SC / ST / PH (For Two Programme) : ₹ 750/- For Late Fee : ₹ 5000/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "3f33a2f832fa"
-      },
-      "datePosted": "2026-10-31",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "NTA NIFTEE",
-        "sameAs": "https://exams.nta.nic.in/niftee/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "BPSC 71st Mains Result 2026 Out",
-      "description": "<p>Event Date Mains Online Application Start 03/12/2025 Mains Online Application Last Date 24/12/2025 Mains Admit Card 17/04/2026 Mains Exam 25/04/2026 to 30/04/2026 Mains Result 06/11/2026</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "3b1435af0c33"
-      },
-      "datePosted": "2026-11-13",
-      "validThrough": "2025-12-24T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "BPSC 71st Mains",
-        "sameAs": "https://bpsc.bihar.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Bihar",
-          "addressRegion": "Bihar",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 1298
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "DRDO CEPTAM 11 Tier 2 Result 2026",
-      "description": "<p>Candidates can check the result on the official CEPTAM status page using their application details. Technician-A candidates move on to the Trade Test, and STA-B candidates will be called for document verification once their result is out.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "11a6c9eb75bc"
-      },
-      "datePosted": "2026-11-13",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "DRDO CEPTAM 11 Tier 2",
-        "sameAs": "https://drdo.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 764
     }
   ]
 }
