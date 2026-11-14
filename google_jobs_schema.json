@@ -93,6 +93,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "ADVERTISEMENT NO. 13/2026 UNION PUBLIC SERVICE COMMISSION INVITES ONLINE RECRUITMENT APPLICATIONS FOR RECRUITMENT BY SELECTION T",
+      "description": "<p>Official notification for ADVERTISEMENT NO. 13/2026 UNION PUBLIC SERVICE COMMISSION INVITES ONLINE RECRUITMENT APPLICATIONS FOR RECRUITMENT BY SELECTION T. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "9a88e294c059"
+      },
+      "datePosted": "2026-11-14",
+      "validThrough": "2026-12-14T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "ADVERTISEMENT Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "AIIMS Recruitment 2026 Notification Out: Apply For Faculty Posts",
       "description": "<p>Official notification for AIIMS Recruitment 2026 Notification Out: Apply For Faculty Posts. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -893,6 +923,36 @@
         "@type": "Organization",
         "name": "127 Inf Bn TA Eco Garhwal Rifles",
         "sameAs": "https://territorialarmy.in/"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "J&K Bank recruitment: Altaf Bukhari seeks 5-year age relaxation",
+      "description": "<p>Official notification for J&amp;K Bank recruitment: Altaf Bukhari seeks 5-year age relaxation. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "b98bbb69ba34"
+      },
+      "datePosted": "2026-11-13",
+      "validThrough": "2026-12-14T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "J&K Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
       },
       "jobLocation": {
         "@type": "Place",
@@ -2258,66 +2318,6 @@
       "hiringOrganization": {
         "@type": "Organization",
         "name": "EXIM Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Recruitment of 321 Administrative Officers (Generalists & Specialists) (Scale I)",
-      "description": "<p>Official notification for Recruitment of 321 Administrative Officers (Generalists &amp; Specialists) (Scale I). Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "a34c175c221f"
-      },
-      "datePosted": "2026-11-11",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Recruitment Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "RECRUITMENT OF 545 LOCAL BANK OFFICERS (LBOs) IN SCALE I",
-      "description": "<p>Official notification for RECRUITMENT OF 545 LOCAL BANK OFFICERS (LBOs) IN SCALE I. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "0b4a307175da"
-      },
-      "datePosted": "2026-11-11",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "RECRUITMENT Recruitment Board",
         "sameAs": "https://ssc.gov.in"
       },
       "jobLocation": {
