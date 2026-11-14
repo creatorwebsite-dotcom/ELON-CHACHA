@@ -1,20 +1,29 @@
 {
   "portal_brand": "SARKARI NAUKAR BANEGA",
-  "updated_at": "14 Nov 2026, 09:35:15 AM IST",
-  "last_2hr_sync_ist": "14 Nov 2026, 09:35:15 AM IST",
-  "last_2hr_sync_iso": "2026-11-14T09:35:02+05:30",
+  "updated_at": "14 Nov 2026, 11:35:40 AM IST",
+  "last_2hr_sync_ist": "14 Nov 2026, 11:35:40 AM IST",
+  "last_2hr_sync_iso": "2026-11-14T11:35:26+05:30",
   "window_days": 15,
   "pruned_posts_last_run": 4,
-  "unseen_auto_published_count": 449,
+  "unseen_auto_published_count": 462,
   "category_counts": {
-    "latest_jobs": 114,
-    "results": 79,
-    "admit_cards": 109,
+    "latest_jobs": 117,
+    "results": 83,
+    "admit_cards": 112,
     "answer_keys": 92,
     "syllabus": 28,
-    "admissions": 27
+    "admissions": 30
   },
   "trending_top_6": [
+    {
+      "id": "3a99fe53e116",
+      "title": "RRB 1,688 NTPC UG Online Form 2026",
+      "sub": "Today Last Date",
+      "url": "https://www.rrbapply.gov.in/assets/forms/corrigendum1_07_2026_NTPC_UG.pdf",
+      "details": "Total Vacancies 1,688 Posts Ticket Clerk, Accounts Clerk, Junior Clerk, Trains Clerk Qualification 12th Pass Age Limit 18–30 Years Application Opens 15 Oct 2026 Last Date 15 Nov 2026, 11:59 PM Initial Salary ₹19,900–21,700 Application Fee ₹500 / ₹250 Selection Process CBT 1, CBT 2, Typing Test (if applicable), DV, Medical Apply Mode Online Only",
+      "rushScore": 147,
+      "active": true
+    },
     {
       "id": "3aa07d62f68f",
       "title": "RRB NTPC 10+2 UG Online Form 2026 (1688 Posts)",
@@ -22,6 +31,15 @@
       "url": "http://sarkariresult.com.cm/wp-content/uploads/2026/10/RRB-NTPC-UG-2026-RRB-Zone-Wise-Vacancy-Details.pdf",
       "details": "Application Fee For General / OBC / EWS : ₹ 500/- For SC / ST / EBC : ₹ 250/- For All Category female : ₹ 250/- Fee Refund : General / OBC : Rs. 400/- will be refunded and Other candidates : Rs. 250/- will be refunded to the bank account after appearing in Stage I Exam. Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
       "rushScore": 130,
+      "active": true
+    },
+    {
+      "id": "af6d56665746",
+      "title": "RRB NTPC UG Recruitment 2026: Last Date Extended to November 15, Apply Online for 1688 Vacancies at rrbapply.gov.in",
+      "sub": "Last Date Extended",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB NTPC UG Recruitment 2026: Last Date Extended to November 15, Apply Online for 1688 Vacancies at rrbapply.gov.in. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 125,
       "active": true
     },
     {
@@ -49,24 +67,6 @@
       "url": "https://mpsconline.gov.in/",
       "details": "The Maharashtra Public Service Commission (MPSC) has issued important updates regarding the MPSC Group C Recruitment 2026 , covering a total of 16,717 vacancies across various departments of the Maharashtra Government. The recruitment includes posts such as Clerk-Typist, Tax Assistant, Technical Assistant, Assistant Motor Vehicle Inspector, Industry Inspector and several other Group C positions.",
       "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "a3926a039f4a",
-      "title": "RRB ALP CBT 1 Answer Key 2026",
-      "sub": "Closing Soon",
-      "url": "https://rrb.digialm.com/EForms/configuredHtml/33244/102956/cOPXnjiLXCY5nEw5Vt/login.html",
-      "details": "The Railway Recruitment Boards will allow candidates to challenge the provisional answer key if they find errors in the questions, options or answers. The objection window opens on 12 November 2026 at 7:00 PM and closes on 19 November 2026 at 11:59 PM.",
-      "rushScore": 123,
-      "active": true
-    },
-    {
-      "id": "3c8b7825e280",
-      "title": "TELANGANA STATE LEVEL POLICE RECRUITMENT BOARD | 13 November 2026",
-      "sub": "Today Last Date",
-      "url": "https://licindia.in",
-      "details": "Official notification for TELANGANA STATE LEVEL POLICE RECRUITMENT BOARD | 13 November 2026. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
-      "rushScore": 122,
       "active": true
     }
   ],
