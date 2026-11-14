@@ -303,6 +303,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Delhi Police Constable Vacancy 2026 | DSSSB Constable Vacancy Update | Full Information | Alok Sir",
+      "description": "<p>Official notification for Delhi Police Constable Vacancy 2026 | DSSSB Constable Vacancy Update | Full Information | Alok Sir. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "d7fe776be6a4"
+      },
+      "datePosted": "2026-11-13",
+      "validThrough": "2026-12-14T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Delhi Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Delhi",
+          "addressRegion": "Delhi",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "EXIM Bank Recruitment | Complete Syllabus Explained | Exam Preparation Strategy | CMA Sapna Ma'am",
       "description": "<p>Official notification for EXIM Bank Recruitment | Complete Syllabus Explained | Exam Preparation Strategy | CMA Sapna Ma'am. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2288,36 +2318,6 @@
         "@type": "Organization",
         "name": "Common Recruitment Board",
         "sameAs": "https://indianrailways.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "J&K Bank PO & Clerk Vacancy 2026 🔥 | तैयारी कैसे करें? | Best Mock Test कौन सा है? | Saurav Sir",
-      "description": "<p>Official notification for J&amp;K Bank PO &amp; Clerk Vacancy 2026 🔥 | तैयारी कैसे करें? | Best Mock Test कौन सा है? | Saurav Sir. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "51dcccddb147"
-      },
-      "datePosted": "2026-11-11",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "J&K Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
       },
       "jobLocation": {
         "@type": "Place",
