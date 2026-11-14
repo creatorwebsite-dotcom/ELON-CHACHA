@@ -93,6 +93,66 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "All India Institute of Medical Sciences (AIIMS) Guwahati Assam Recruitment 2026 | Assam Job Vacancy . . . . . .",
+      "description": "<p>Official notification for All India Institute of Medical Sciences (AIIMS) Guwahati Assam Recruitment 2026 | Assam Job Vacancy . . . . . .. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "ea961b1dc67e"
+      },
+      "datePosted": "2026-11-14",
+      "validThrough": "2026-12-14T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "All Recruitment Board",
+        "sameAs": "https://aiimsexams.ac.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Assam",
+          "addressRegion": "Assam",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Professor Dental vacancy at AIIMS Bathinda #dentalstudents #dentacme #dentistry #neetmdscoaching #aiimsbathinda",
+      "description": "<p>Official notification for Professor Dental vacancy at AIIMS Bathinda #dentalstudents #dentacme #dentistry #neetmdscoaching #aiimsbathinda. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "29f0fb804863"
+      },
+      "datePosted": "2026-11-14",
+      "validThrough": "2026-12-14T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Professor Recruitment Board",
+        "sameAs": "https://neet.nta.nic.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "WBPDCL Technician Apprentice Online Form 2026 (60 Vacancy)",
       "description": "<p>WBPDCL has announced the online application schedule for both Graduate and Diploma Engineering Apprentice categories.</p>",
       "identifier": {
@@ -2270,67 +2330,6 @@
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
       "totalJobOpenings": 1260
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "BSF LDCE SI Online Form 2026 (1167 Vacancy)",
-      "description": "<p>Directorate General Border Security Force (BSF), New Delhi, Delhi, has invited applications for 1167 posts in 4 roles under Advt No. A.2/SI (LDCE)/CAPFs Exam-2026/Pers(Rectt)/BSF/2026. The posts include Sub Inspector (GD) - BSF, Sub Inspector (GD) - CRPF, Sub Inspector (GD) - SSB, Sub Inspector (GD) - ITBP. The online application is open from 12 November 2026 to 31 December 2026.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "5cd990777757"
-      },
-      "datePosted": "2026-11-12",
-      "validThrough": "2026-12-31T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "BSF LDCE SI",
-        "sameAs": "https://bsf.mha.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 1167
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Indian Army TES 57th Online Form 2026 – Last Date Today",
-      "description": "<p>Important Dates Apply Online Start Date : 14 October 2026 Apply Online Last Date : 12 November 2026 Last Date For Fee Payment : 12 November 2026 SSB Interview : Will Be Updated Here Soon Candidates are advised to confirm from the Indian Army 10+2 TES 57th official website. Application Fee No application fee is required for any candidate.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "c52b2fc82595"
-      },
-      "datePosted": "2026-11-12",
-      "validThrough": "2026-11-12T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Indian Army TES 57th",
-        "sameAs": "http://joinindianarmy.nic.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
     }
   ]
 }
