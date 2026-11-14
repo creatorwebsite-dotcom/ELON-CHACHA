@@ -336,6 +336,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "NTA NIFTEE Online Form 2027 – Date Extended",
+      "description": "<p>Application Fee For Gen / OBC / EWS (Single Programme) : ₹ 2000/- For Gen / OBC / EWS (For Two Programme) : ₹ 3000/- For SC / ST / PH (Single Programme) : ₹ 500/- For SC / ST / PH (For Two Programme) : ₹ 750/- For Late Fee : ₹ 5000/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "5d3db2e1c84c"
+      },
+      "datePosted": "2026-11-14",
+      "validThrough": "2026-12-14T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "NTA NIFTEE",
+        "sameAs": "https://exams.nta.nic.in/niftee/"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "ESIC MCH Bihta Various Posts Recruitment 2026 (59 Vacancy)",
       "description": "<p>Employees' State Insurance Corporation - ESIC Medical College &amp; Hospital, Bihta, Patna (ESIC MCH Bihta), Bihar, has invited applications for 59 posts in 3 roles under Advt No. 15 of 2026. The posts include Professor, Associate Professor, Assistant Professor. Applications go by email to [email protected] and must be sent by 18 November 2026.</p>",
       "identifier": {
@@ -2297,36 +2327,6 @@
           "@type": "PostalAddress",
           "addressLocality": "All India / Central",
           "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "DSSSB MTS & JE Online Form 2026 – Start",
-      "description": "<p>Application Fee For General, OBC, EWS : ₹ 100/- For SC / ST, PH, Women : ₹ 00/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "dd962ecfa9a1"
-      },
-      "datePosted": "2026-11-12",
-      "validThrough": "2026-12-11T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "DSSSB MTS & JE",
-        "sameAs": "https://dsssb.delhi.gov.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Delhi",
-          "addressRegion": "Delhi",
           "addressCountry": "IN"
         }
       },
