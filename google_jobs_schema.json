@@ -62,6 +62,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Odisha Police Constable Recruitment 2026 Last Date Extended",
+      "description": "<p>Official notification for Odisha Police Constable Recruitment 2026 Last Date Extended. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "1e9cb6cbc2cc"
+      },
+      "datePosted": "2026-11-14",
+      "validThrough": "2026-12-14T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Odisha Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Odisha",
+          "addressRegion": "Odisha",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "ESIC MCH Bihta Various Posts Recruitment 2026 (59 Vacancy)",
       "description": "<p>Employees' State Insurance Corporation - ESIC Medical College &amp; Hospital, Bihta, Patna (ESIC MCH Bihta), Bihar, has invited applications for 59 posts in 3 roles under Advt No. 15 of 2026. The posts include Professor, Associate Professor, Assistant Professor. Applications go by email to [email protected] and must be sent by 18 November 2026.</p>",
       "identifier": {
@@ -2299,36 +2329,6 @@
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
       "totalJobOpenings": 2026
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Common Recruitment Process for RRBs (CRP-RRBs-XV) for Recruitment of Group \"A\"",
-      "description": "<p>Official notification for Common Recruitment Process for RRBs (CRP-RRBs-XV) for Recruitment of Group \"A\". Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "2aa3fc81fa7c"
-      },
-      "datePosted": "2026-11-11",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Common Recruitment Board",
-        "sameAs": "https://indianrailways.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
     }
   ]
 }
