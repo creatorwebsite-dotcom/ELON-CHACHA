@@ -1,24 +1,24 @@
 {
   "portal_brand": "SARKARI NAUKAR BANEGA",
-  "updated_at": "14 Nov 2026, 11:36:28 PM IST",
-  "last_2hr_sync_ist": "14 Nov 2026, 11:36:28 PM IST",
-  "last_2hr_sync_iso": "2026-11-14T23:36:17+05:30",
+  "updated_at": "15 Nov 2026, 01:34:49 AM IST",
+  "last_2hr_sync_ist": "15 Nov 2026, 01:34:49 AM IST",
+  "last_2hr_sync_iso": "2026-11-15T01:34:40+05:30",
   "window_days": 15,
-  "pruned_posts_last_run": 2,
-  "unseen_auto_published_count": 524,
+  "pruned_posts_last_run": 8,
+  "unseen_auto_published_count": 523,
   "category_counts": {
     "latest_jobs": 128,
-    "results": 89,
+    "results": 87,
     "admit_cards": 130,
     "answer_keys": 99,
-    "syllabus": 30,
+    "syllabus": 31,
     "admissions": 48
   },
   "trending_top_6": [
     {
       "id": "3a99fe53e116",
       "title": "RRB 1,688 NTPC UG Online Form 2026",
-      "sub": "Today Last Date",
+      "sub": "Last Date Extended",
       "url": "https://www.rrbapply.gov.in/assets/forms/corrigendum1_07_2026_NTPC_UG.pdf",
       "details": "Total Vacancies 1,688 Posts Ticket Clerk, Accounts Clerk, Junior Clerk, Trains Clerk Qualification 12th Pass Age Limit 18–30 Years Application Opens 15 Oct 2026 Last Date 15 Nov 2026, 11:59 PM Initial Salary ₹19,900–21,700 Application Fee ₹500 / ₹250 Selection Process CBT 1, CBT 2, Typing Test (if applicable), DV, Medical Apply Mode Online Only",
       "rushScore": 147,

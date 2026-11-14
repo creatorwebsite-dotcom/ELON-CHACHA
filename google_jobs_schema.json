@@ -123,6 +123,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Sunil Sharma Questions Dachhan Security Lapses, Demands SOG Post, Police Deployment & Local Recruitment in Kiyar",
+      "description": "<p>Official notification for Sunil Sharma Questions Dachhan Security Lapses, Demands SOG Post, Police Deployment &amp; Local Recruitment in Kiyar. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "a3b8052cafa6"
+      },
+      "datePosted": "2026-11-14",
+      "validThrough": "2026-12-15T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Sunil Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Professor Dental vacancy at AIIMS Bathinda #dentalstudents #dentacme #dentistry #neetmdscoaching #aiimsbathinda",
       "description": "<p>Official notification for Professor Dental vacancy at AIIMS Bathinda #dentalstudents #dentacme #dentistry #neetmdscoaching #aiimsbathinda. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -616,6 +646,36 @@
       },
       "datePosted": "2026-11-13",
       "validThrough": "2026-12-13T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "EXIM Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "EXIM Bank Law Officer Notification 2026 Out | Vacancy, Eligibility, Salary, Syllabus & Exam Pattern",
+      "description": "<p>Official notification for EXIM Bank Law Officer Notification 2026 Out | Vacancy, Eligibility, Salary, Syllabus &amp; Exam Pattern. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "b512dbf072d8"
+      },
+      "datePosted": "2026-11-13",
+      "validThrough": "2026-12-15T23:59:59+05:30",
       "employmentType": "FULL_TIME",
       "directApply": true,
       "hiringOrganization": {
@@ -2269,67 +2329,6 @@
         }
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Railway RRC NWR Apprentice Online Form 2026",
-      "description": "<p>Application Fee For General/ OBC/ EWS : ₹ 100/- For SC/ ST/ PH : ₹ 00/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "a6cdaf8cd69a"
-      },
-      "datePosted": "2026-11-12",
-      "validThrough": "2026-11-22T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Railway RRC NWR Apprentice",
-        "sameAs": "https://www.rrcjaipur.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "DSSSB 1260 JE, MTS Online Form 2026",
-      "description": "<p>Important: Junior Engineer qualifications and experience requirements vary by department. A diploma holder needs two years of relevant experience for certain departments, while other JE vacancies do not require previous experience. The MTS Aaya vacancies are specifically notified for female candidates. Applicants must satisfy the individual department's eligibility conditions as on 11 December 2026.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "3eae462183fc"
-      },
-      "datePosted": "2026-11-12",
-      "validThrough": "2026-12-11T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "DSSSB 1260 JE, MTS",
-        "sameAs": "https://dsssb.delhi.gov.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Delhi",
-          "addressRegion": "Delhi",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 1260
     }
   ]
 }
