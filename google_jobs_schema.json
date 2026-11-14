@@ -93,6 +93,128 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "WBPDCL Technician Apprentice Online Form 2026 (60 Vacancy)",
+      "description": "<p>WBPDCL has announced the online application schedule for both Graduate and Diploma Engineering Apprentice categories.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "0d14bc25c0ec"
+      },
+      "datePosted": "2026-11-14",
+      "validThrough": "2026-12-10T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "WBPDCL Technician Apprentice",
+        "sameAs": "https://www.wbpdcl.co.in/"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "West Bengal",
+          "addressRegion": "West Bengal",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 60
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "SJVN Apprentice Online Form 2026 (100 Vacancy)",
+      "description": "<p>The SJVN Apprenticeship Training 2026 is open only to candidates who are domiciles of Himachal Pradesh. There are 40 Graduate Apprentice seats, 25 Technician (Diploma) Apprentice seats and 35 Technician (ITI) Apprentice seats. The training duration is one year under the Apprentices Act, 1961, as amended. Candidates should read the detailed advertisement and application instructions available on SJVN's Careers page before applying.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "4e10eeea788f"
+      },
+      "datePosted": "2026-11-14",
+      "validThrough": "2026-12-17T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "SJVN Apprentice",
+        "sameAs": "https://www.sjvn.nic.in/"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 100
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Police recruitment applications climb 11pc as force readies AI tool rollout",
+      "description": "<p>Official notification for Police recruitment applications climb 11pc as force readies AI tool rollout. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "13d285485ab1"
+      },
+      "datePosted": "2026-11-14",
+      "validThrough": "2026-12-14T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Police Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "SBI PO Interview Admit Card 2026 Out, Interview Dates Announced, Call Letter Link Soon",
+      "description": "<p>Official notification for SBI PO Interview Admit Card 2026 Out, Interview Dates Announced, Call Letter Link Soon. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "5ae9163c842b"
+      },
+      "datePosted": "2026-11-14",
+      "validThrough": "2026-12-14T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "SBI Recruitment Board",
+        "sameAs": "https://sbi.co.in/web/careers"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "ADVERTISEMENT NO. 13/2026 UNION PUBLIC SERVICE COMMISSION INVITES ONLINE RECRUITMENT APPLICATIONS FOR RECRUITMENT BY SELECTION T",
       "description": "<p>Official notification for ADVERTISEMENT NO. 13/2026 UNION PUBLIC SERVICE COMMISSION INVITES ONLINE RECRUITMENT APPLICATIONS FOR RECRUITMENT BY SELECTION T. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2205,127 +2327,6 @@
           "@type": "PostalAddress",
           "addressLocality": "Delhi",
           "addressRegion": "Delhi",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "UKPSC Lower PCS Online Form 2026",
-      "description": "<p>Application Fee For General / OBC / EWS : ₹ 166.36/- For SC / ST :₹ 76.36/- For PH : ₹ 76.36/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "213c33655430"
-      },
-      "datePosted": "2026-11-12",
-      "validThrough": "2026-11-26T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "UKPSC Lower PCS",
-        "sameAs": "https://www.psc.uk.gov.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Karnataka",
-          "addressRegion": "Karnataka",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "UPSDMA Internship Program Recruitment 2026 (27 Vacancy)",
-      "description": "<p>The official notification does not specify the age limit, the application fee or the selection process.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "70871aa860e4"
-      },
-      "datePosted": "2026-11-12",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "UPSDMA Internship Program",
-        "sameAs": "https://sdma.up.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 27
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "DSSSB MTS & JE Online Form 2026",
-      "description": "<p>Application Fee For General, OBC, EWS : ₹ 100/- For SC / ST, PH, Women : ₹ 00/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "4cac46a70529"
-      },
-      "datePosted": "2026-11-12",
-      "validThrough": "2026-12-11T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "DSSSB MTS & JE",
-        "sameAs": "https://dsssb.delhi.gov.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Delhi",
-          "addressRegion": "Delhi",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "EXIM Bank Recruitment 2026 Out | Who Can Apply? Eligibility, Age Limit & Qualification",
-      "description": "<p>Official notification for EXIM Bank Recruitment 2026 Out | Who Can Apply? Eligibility, Age Limit &amp; Qualification. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "3302f2e42fba"
-      },
-      "datePosted": "2026-11-11",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "EXIM Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
           "addressCountry": "IN"
         }
       },
