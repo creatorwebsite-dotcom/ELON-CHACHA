@@ -1,8 +1,8 @@
 {
   "portal_brand": "SARKARI NAUKAR BANEGA",
-  "updated_at": "16 Nov 2026, 01:09:38 AM IST",
-  "last_2hr_sync_ist": "16 Nov 2026, 01:09:38 AM IST",
-  "last_2hr_sync_iso": "2026-11-16T01:09:28+05:30",
+  "updated_at": "16 Nov 2026, 01:36:28 AM IST",
+  "last_2hr_sync_ist": "16 Nov 2026, 01:36:28 AM IST",
+  "last_2hr_sync_iso": "2026-11-16T01:36:14+05:30",
   "window_days": 15,
   "pruned_posts_last_run": 6,
   "unseen_auto_published_count": 619,
@@ -85,5 +85,5 @@
     "facebook": ""
   },
   "new_custom_boxes": [],
-  "last_trigger_source": "schedule"
+  "last_trigger_source": "repository_dispatch"
 }
