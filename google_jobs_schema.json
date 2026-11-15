@@ -1667,6 +1667,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "RRB JE Vacancy 2026 | RRB JE Expected Cut Off, RRB JE CUT OFF 2026 | RRB JE Zone Wise Total Form!",
+      "description": "<p>Official notification for RRB JE Vacancy 2026 | RRB JE Expected Cut Off, RRB JE CUT OFF 2026 | RRB JE Zone Wise Total Form!. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "6bf1a8d5d26f"
+      },
+      "datePosted": "2026-11-12",
+      "validThrough": "2026-12-15T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "RRB Recruitment Board",
+        "sameAs": "https://indianrailways.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "KCCI Urges Jammu Kashmir Bank to Raise Recruitment Age Limit to 40 Years",
       "description": "<p>Official notification for KCCI Urges Jammu Kashmir Bank to Raise Recruitment Age Limit to 40 Years. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2295,36 +2325,6 @@
           "@type": "PostalAddress",
           "addressLocality": "Uttar Pradesh",
           "addressRegion": "Uttar Pradesh",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Railway RRB Station Master Online Form 2026",
-      "description": "<p>Railway Recruitment Board RRB , has released a Notification on its official website for the Recruitment of Railway Station Master Posts. This recruitment is for 1265 positions. RRB Application Form has started on 27 October 2026 &amp; the candidates can apply until 25 November 2026 . Candidates must check the complete details for Railway RRB Station Master Recruitment 2026. Link are given below. ( Advt. No. CEN 08/2026 )</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "778e6ac21a06"
-      },
-      "datePosted": "2026-11-12",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Railway RRB Station Master",
-        "sameAs": "https://rrb.indianrailways.gov.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
           "addressCountry": "IN"
         }
       },
