@@ -1,17 +1,17 @@
 {
   "portal_brand": "SARKARI NAUKAR BANEGA",
-  "updated_at": "15 Nov 2026, 03:35:01 PM IST",
-  "last_2hr_sync_ist": "15 Nov 2026, 03:35:01 PM IST",
-  "last_2hr_sync_iso": "2026-11-15T15:34:48+05:30",
+  "updated_at": "15 Nov 2026, 05:34:20 PM IST",
+  "last_2hr_sync_ist": "15 Nov 2026, 05:34:20 PM IST",
+  "last_2hr_sync_iso": "2026-11-15T17:34:08+05:30",
   "window_days": 15,
   "pruned_posts_last_run": 6,
-  "unseen_auto_published_count": 560,
+  "unseen_auto_published_count": 573,
   "category_counts": {
-    "latest_jobs": 139,
+    "latest_jobs": 143,
     "results": 89,
-    "admit_cards": 143,
-    "answer_keys": 102,
-    "syllabus": 34,
+    "admit_cards": 147,
+    "answer_keys": 103,
+    "syllabus": 38,
     "admissions": 53
   },
   "trending_top_6": [

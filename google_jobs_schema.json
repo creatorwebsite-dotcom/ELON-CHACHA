@@ -93,6 +93,96 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Running with Pride, Chasing a Dream, Islamabad Police Recruitment Phase-II. #WeRIslamabadPolice",
+      "description": "<p>Official notification for Running with Pride, Chasing a Dream, Islamabad Police Recruitment Phase-II. #WeRIslamabadPolice. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "57015e6cbc10"
+      },
+      "datePosted": "2026-11-15",
+      "validThrough": "2026-12-15T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Running Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Islamabad Police. Junoon · Jazba-E-Junoon. Running with Pride, Chasing a Dream, Islamabad Police Recruitment Phase-II. #WeRIslamabadPolice",
+      "description": "<p>Official notification for Islamabad Police. Junoon · Jazba-E-Junoon. Running with Pride, Chasing a Dream, Islamabad Police Recruitment Phase-II. #WeRIslamabadPolice. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "bb3eedecdf4c"
+      },
+      "datePosted": "2026-11-15",
+      "validThrough": "2026-12-15T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Islamabad Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "SBI Permanent Job Vacancy: किस पद पर निकली 40 साल वालों की परमानेंट जॉब?",
+      "description": "<p>Official notification for SBI Permanent Job Vacancy: किस पद पर निकली 40 साल वालों की परमानेंट जॉब?. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "dd3b1d93705f"
+      },
+      "datePosted": "2026-11-15",
+      "validThrough": "2026-12-15T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "SBI Recruitment Board",
+        "sameAs": "https://sbi.co.in/web/careers"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Assam Rifles Recruitment Apply Online 2026. Application Link Active For 354 Technical and Tradesman Vacancies",
       "description": "<p>Official notification for Assam Rifles Recruitment Apply Online 2026. Application Link Active For 354 Technical and Tradesman Vacancies. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -115,6 +205,36 @@
           "@type": "PostalAddress",
           "addressLocality": "Assam",
           "addressRegion": "Assam",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "India Exim Bank Tech Recruitment 2026 🔥 Management Trainee | Salary, Eligibility | Notification Out",
+      "description": "<p>Official notification for India Exim Bank Tech Recruitment 2026 🔥 Management Trainee | Salary, Eligibility | Notification Out. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "b158d0bf7f55"
+      },
+      "datePosted": "2026-11-15",
+      "validThrough": "2026-12-15T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "India Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
           "addressCountry": "IN"
         }
       },
@@ -2193,126 +2313,6 @@
       "hiringOrganization": {
         "@type": "Organization",
         "name": "RECRUITMENT Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "📌 RRB NTPC RECRUITMENT 2026 (REMINDER)🔥🔥📝💯💯 ➡️ Eligibility: 12th Pass ➡️ Age Limit: 18",
-      "description": "<p>Official notification for 📌 RRB NTPC RECRUITMENT 2026 (REMINDER)🔥🔥📝💯💯 ➡️ Eligibility: 12th Pass ➡️ Age Limit: 18. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "303b51040a51"
-      },
-      "datePosted": "2026-11-12",
-      "validThrough": "2026-12-14T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "📌 Recruitment Board",
-        "sameAs": "https://indianrailways.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "UP Police Constable Vacancy 2026-27 | नई भर्ती कब आएगी? पद कम होंगे? | UP Police New Vacancy Update",
-      "description": "<p>Official notification for UP Police Constable Vacancy 2026-27 | नई भर्ती कब आएगी? पद कम होंगे? | UP Police New Vacancy Update. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "76eec88725b9"
-      },
-      "datePosted": "2026-11-12",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "UP Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Uttar Pradesh",
-          "addressRegion": "Uttar Pradesh",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "J&K Bank Recruitment: JKCSF Chairman demands 10-year age relaxation",
-      "description": "<p>Official notification for J&amp;K Bank Recruitment: JKCSF Chairman demands 10-year age relaxation. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "db89b5ed71fc"
-      },
-      "datePosted": "2026-11-12",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "J&K Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Aspirants seek 10-yr age relaxation for recruitment in J&K Bank",
-      "description": "<p>Official notification for Aspirants seek 10-yr age relaxation for recruitment in J&amp;K Bank. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "37b0e95e945a"
-      },
-      "datePosted": "2026-11-12",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aspirants Recruitment Board",
         "sameAs": "https://ssc.gov.in"
       },
       "jobLocation": {
