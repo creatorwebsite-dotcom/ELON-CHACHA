@@ -62,6 +62,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Recruitment Status: State Police Sergeant",
+      "description": "<p>Official notification for Recruitment Status: State Police Sergeant. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "71d3fe6682b7"
+      },
+      "datePosted": "2026-11-16",
+      "validThrough": "2026-12-16T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Recruitment Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Odisha Police Recruitment 2026: Last date to apply for 7,268 vacancy tomorrow",
       "description": "<p>Official notification for Odisha Police Recruitment 2026: Last date to apply for 7,268 vacancy tomorrow. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -137,6 +167,36 @@
       "hiringOrganization": {
         "@type": "Organization",
         "name": "Police Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Devon and Cornwall Police chief constable recruitment moved up",
+      "description": "<p>Official notification for Devon and Cornwall Police chief constable recruitment moved up. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "e39583c76008"
+      },
+      "datePosted": "2026-11-16",
+      "validThrough": "2026-12-16T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Devon Recruitment Board",
         "sameAs": "https://licindia.in"
       },
       "jobLocation": {
@@ -2246,66 +2306,6 @@
         "@type": "PropertyValue",
         "name": "SARKARI NAUKAR BANEGA",
         "value": "86989f7e1f0d"
-      },
-      "datePosted": "2026-11-13",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "EXIM Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "EXIM Bank Law Officer Recruitment 2026 Notification Out | Vacancy, Eligibility, Salary & Syllabus",
-      "description": "<p>Official notification for EXIM Bank Law Officer Recruitment 2026 Notification Out | Vacancy, Eligibility, Salary &amp; Syllabus. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "ed2cdd7082d6"
-      },
-      "datePosted": "2026-11-13",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "EXIM Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "EXIM Bank Legal Officer Recruitment 2026 | Full Details & Syllabus",
-      "description": "<p>Official notification for EXIM Bank Legal Officer Recruitment 2026 | Full Details &amp; Syllabus. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "f34465ec5e6e"
       },
       "datePosted": "2026-11-13",
       "validThrough": "2026-12-13T23:59:59+05:30",
