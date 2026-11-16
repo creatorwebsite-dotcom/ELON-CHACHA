@@ -62,6 +62,66 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Chief Constable recruitment brought forward following challenge",
+      "description": "<p>Official notification for Chief Constable recruitment brought forward following challenge. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "195f5d4adbc2"
+      },
+      "datePosted": "2026-11-16",
+      "validThrough": "2026-12-16T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Chief Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "AIIMS Jammu Recruitment 2026: 76 Faculty Jobs, Salary Up to Rs.2.20 Lakh",
+      "description": "<p>Official notification for AIIMS Jammu Recruitment 2026: 76 Faculty Jobs, Salary Up to Rs.2.20 Lakh. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "043f7017e8e0"
+      },
+      "datePosted": "2026-11-16",
+      "validThrough": "2026-12-16T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "AIIMS Recruitment Board",
+        "sameAs": "https://aiimsexams.ac.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "UPSC Recruitment Rules 2026: Protocol Officer Eligibility, Qualification and Selection Process",
       "description": "<p>Official notification for UPSC Recruitment Rules 2026: Protocol Officer Eligibility, Qualification and Selection Process. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2261,66 +2321,6 @@
           "@type": "PostalAddress",
           "addressLocality": "Delhi",
           "addressRegion": "Delhi",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "EXIM Bank Recruitment | Complete Syllabus Explained | Exam Preparation Strategy | CMA Sapna Ma'am",
-      "description": "<p>Official notification for EXIM Bank Recruitment | Complete Syllabus Explained | Exam Preparation Strategy | CMA Sapna Ma'am. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "b826c230fb49"
-      },
-      "datePosted": "2026-11-13",
-      "validThrough": "2026-12-14T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "EXIM Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Tag: RRB Station Master Vacancy 2026",
-      "description": "<p>Official notification for Tag: RRB Station Master Vacancy 2026. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "5c9e0beb5b3c"
-      },
-      "datePosted": "2026-11-13",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Tag: Recruitment Board",
-        "sameAs": "https://indianrailways.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
           "addressCountry": "IN"
         }
       },

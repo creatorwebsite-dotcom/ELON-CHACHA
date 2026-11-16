@@ -1,18 +1,18 @@
 {
   "portal_brand": "SARKARI NAUKAR BANEGA",
-  "updated_at": "16 Nov 2026, 05:37:03 PM IST",
-  "last_2hr_sync_ist": "16 Nov 2026, 05:37:03 PM IST",
-  "last_2hr_sync_iso": "2026-11-16T17:36:53+05:30",
+  "updated_at": "16 Nov 2026, 07:37:12 PM IST",
+  "last_2hr_sync_ist": "16 Nov 2026, 07:37:12 PM IST",
+  "last_2hr_sync_iso": "2026-11-16T19:36:58+05:30",
   "window_days": 15,
-  "pruned_posts_last_run": 6,
-  "unseen_auto_published_count": 740,
+  "pruned_posts_last_run": 5,
+  "unseen_auto_published_count": 755,
   "category_counts": {
-    "latest_jobs": 193,
-    "results": 116,
-    "admit_cards": 191,
+    "latest_jobs": 195,
+    "results": 119,
+    "admit_cards": 197,
     "answer_keys": 117,
-    "syllabus": 50,
-    "admissions": 73
+    "syllabus": 52,
+    "admissions": 75
   },
   "trending_top_6": [
     {
@@ -43,6 +43,15 @@
       "active": true
     },
     {
+      "id": "a925c7d639be",
+      "title": "UP Police Constable Score Card 2026 Out",
+      "sub": "Result",
+      "url": "https://upcons2025.com/conmailrequest/loginpage.aspx",
+      "details": "The UP Police Constable Normalized Marks 2026 represent candidates' written examination scores after application of the Board's normalization procedure.",
+      "rushScore": 125,
+      "active": true
+    },
+    {
       "id": "af6d56665746",
       "title": "RRB NTPC UG Recruitment 2026: Last Date Extended to November 15, Apply Online for 1688 Vacancies at rrbapply.gov.in",
       "sub": "Last Date Extended",
@@ -57,15 +66,6 @@
       "sub": "Admit Card",
       "url": "https://ssccr.gov.in/admit-card/696529dfde07fd2f63e510d9",
       "details": "The Staff Selection Commission (SSC) has released the SSC GD PET PST Admit Card 2026 on 12 November 2026. Candidates who qualified in the Computer-Based Examination can download their admit cards for the Physical Efficiency Test (PET) and Physical Standard Test (PST) from the official website. Candidates must log in using their registration number/roll number and date of birth or password to access the call letter.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "91abdf16502f",
-      "title": "RRB Group D Result 2026: Zone-wise PET shortlist released for 22,195 vacancies, check cut-off marks",
-      "sub": "Result",
-      "url": "https://indianrailways.gov.in",
-      "details": "Official notification for RRB Group D Result 2026: Zone-wise PET shortlist released for 22,195 vacancies, check cut-off marks. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
       "rushScore": 125,
       "active": true
     }
