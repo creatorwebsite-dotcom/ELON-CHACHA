@@ -1,18 +1,18 @@
 {
   "portal_brand": "SARKARI NAUKAR BANEGA",
-  "updated_at": "16 Nov 2026, 03:35:37 PM IST",
-  "last_2hr_sync_ist": "16 Nov 2026, 03:35:37 PM IST",
-  "last_2hr_sync_iso": "2026-11-16T15:35:22+05:30",
+  "updated_at": "16 Nov 2026, 05:37:03 PM IST",
+  "last_2hr_sync_ist": "16 Nov 2026, 05:37:03 PM IST",
+  "last_2hr_sync_iso": "2026-11-16T17:36:53+05:30",
   "window_days": 15,
   "pruned_posts_last_run": 6,
-  "unseen_auto_published_count": 714,
+  "unseen_auto_published_count": 740,
   "category_counts": {
-    "latest_jobs": 186,
-    "results": 109,
-    "admit_cards": 187,
-    "answer_keys": 112,
-    "syllabus": 49,
-    "admissions": 71
+    "latest_jobs": 193,
+    "results": 116,
+    "admit_cards": 191,
+    "answer_keys": 117,
+    "syllabus": 50,
+    "admissions": 73
   },
   "trending_top_6": [
     {
@@ -31,6 +31,15 @@
       "url": "http://sarkariresult.com.cm/wp-content/uploads/2026/10/RRB-NTPC-UG-2026-RRB-Zone-Wise-Vacancy-Details.pdf",
       "details": "Application Fee For General / OBC / EWS : ₹ 500/- For SC / ST / EBC : ₹ 250/- For All Category female : ₹ 250/- Fee Refund : General / OBC : Rs. 400/- will be refunded and Other candidates : Rs. 250/- will be refunded to the bank account after appearing in Stage I Exam. Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
       "rushScore": 130,
+      "active": true
+    },
+    {
+      "id": "50d0d0afa13f",
+      "title": "RRB Group D Score Card 2026",
+      "sub": "Result",
+      "url": "https://rrb.digialm.com/EForms/configuredHtml/33128/101714/login.html",
+      "details": "The CEN 09/2025 notification covers 22,195 vacancies in Level-1 (Group D) posts. The basic eligibility details are given below.",
+      "rushScore": 125,
       "active": true
     },
     {
@@ -57,15 +66,6 @@
       "sub": "Result",
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB Group D Result 2026: Zone-wise PET shortlist released for 22,195 vacancies, check cut-off marks. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "4362c7b5edf8",
-      "title": "MPSC 16,797 Group C Online Form 2026",
-      "sub": "Latest Jobs",
-      "url": "https://mpsconline.gov.in/",
-      "details": "The Maharashtra Public Service Commission (MPSC) has issued important updates regarding the MPSC Group C Recruitment 2026 , covering a total of 16,717 vacancies across various departments of the Maharashtra Government. The recruitment includes posts such as Clerk-Typist, Tax Assistant, Technical Assistant, Assistant Motor Vehicle Inspector, Industry Inspector and several other Group C positions.",
       "rushScore": 125,
       "active": true
     }
