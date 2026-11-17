@@ -62,6 +62,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "BANK RECRUITMENT GUIDE OF BANGLADESH 2022",
+      "description": "<p>Official notification for BANK RECRUITMENT GUIDE OF BANGLADESH 2022. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "a6bafe8273e4"
+      },
+      "datePosted": "2026-11-17",
+      "validThrough": "2026-12-17T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "BANK Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "UPSC Holds Workshop With State PSCs To Discuss Recruitment Reforms",
       "description": "<p>Official notification for UPSC Holds Workshop With State PSCs To Discuss Recruitment Reforms. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -77,6 +107,36 @@
         "@type": "Organization",
         "name": "UPSC Recruitment Board",
         "sameAs": "https://upsc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "BHEL Artisan Various Trade Post Online Form 2026",
+      "description": "<p>Bharat Heavy Electrical Limited BHEL , has released a Notification on its official website for the Recruitment of Artisan Grade-IV Various Posts. This recruitment is for 660 positions. BHEL Application Form has started on 21 October 2026 &amp; the candidates can apply until 18 November 2026 . Candidates must check the complete details for BHEL Artisan Various Trade Post Recruitment 2026. Link are given below. ( Advt. No. 01/2026 )</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "bb158f7178a3"
+      },
+      "datePosted": "2026-11-17",
+      "validThrough": "2026-12-17T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "BHEL Artisan Various Trade Post",
+        "sameAs": "https://careers.bhel.in/index.jsp"
       },
       "jobLocation": {
         "@type": "Place",
@@ -741,6 +801,36 @@
         "@type": "Organization",
         "name": "Indian Recruitment Board",
         "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "RRB Station Master Vacancy 2026🔥| RRB Station Master Science Class 2026| RRB Station Master Science",
+      "description": "<p>Official notification for RRB Station Master Vacancy 2026🔥| RRB Station Master Science Class 2026| RRB Station Master Science. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "54ce6c6ac48f"
+      },
+      "datePosted": "2026-11-16",
+      "validThrough": "2026-12-17T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "RRB Recruitment Board",
+        "sameAs": "https://indianrailways.gov.in"
       },
       "jobLocation": {
         "@type": "Place",
@@ -2234,97 +2324,6 @@
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
       "totalJobOpenings": 2026
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "RRB JE Vacancy 2026 Zone Wise, 4,487 Revised Vacancies, Download Official Notice PDF",
-      "description": "<p>Official notification for RRB JE Vacancy 2026 Zone Wise, 4,487 Revised Vacancies, Download Official Notice PDF. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "3718fbaae444"
-      },
-      "datePosted": "2026-11-13",
-      "validThrough": "2026-12-16T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "RRB Recruitment Board",
-        "sameAs": "https://indianrailways.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "RRB GROUP D 2026 | RRB GROUP D 10TH PASS VACANCY 2026 | RAILWAY GROUP D FORM DATE 2026",
-      "description": "<p>Official notification for RRB GROUP D 2026 | RRB GROUP D 10TH PASS VACANCY 2026 | RAILWAY GROUP D FORM DATE 2026. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "85720caccb06"
-      },
-      "datePosted": "2026-11-13",
-      "validThrough": "2026-12-15T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "RRB Recruitment Board",
-        "sameAs": "https://indianrailways.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "ESIC MCH Bihta Various Posts Recruitment 2026 (59 Vacancy)",
-      "description": "<p>Employees' State Insurance Corporation - ESIC Medical College &amp; Hospital, Bihta, Patna (ESIC MCH Bihta), Bihar, has invited applications for 59 posts in 3 roles under Advt No. 15 of 2026. The posts include Professor, Associate Professor, Assistant Professor. Applications go by email to [email protected] and must be sent by 18 November 2026.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "53f2ee5d6954"
-      },
-      "datePosted": "2026-11-13",
-      "validThrough": "2026-11-18T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "ESIC MCH Bihta Various Posts",
-        "sameAs": "https://www.mcpatna.esic.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 59
     }
   ]
 }
