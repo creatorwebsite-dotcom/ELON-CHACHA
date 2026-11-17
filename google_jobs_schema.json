@@ -62,6 +62,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Tiruppur DHS Staff Nurse Selection List 2026",
+      "description": "<p>Candidates can download the Tiruppur DHS Staff Nurse Selection list from the recruitment section of the Tiruppur district website by following these steps.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "84390f43ee6e"
+      },
+      "datePosted": "2026-11-17",
+      "validThrough": "2026-12-17T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Tiruppur DHS Staff Nurse Selection List",
+        "sameAs": "https://tiruppur.tn.nic.in/"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "BANK RECRUITMENT GUIDE OF BANGLADESH 2022",
       "description": "<p>Official notification for BANK RECRUITMENT GUIDE OF BANGLADESH 2022. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -118,6 +148,37 @@
         }
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "WCL Clerk, Jr DEO & More Online Form 2026 (514 Vacancy)",
+      "description": "<p>Western Coalfields Limited (WCL), Nagpur, Maharashtra, has invited applications for 514 posts in 3 roles under Advt No. WCL/IR/MP/SELECTION/2026-27/2971. The posts include Clerk, Grade III, Store Issue Clerk, Grade III, Jr. Data Entry Operator, T&amp;S Gr. E. The online application is open from 17 November 2026 to 1 December 2026.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "a0060c14048c"
+      },
+      "datePosted": "2026-11-17",
+      "validThrough": "2026-12-01T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "WCL Clerk, Jr DEO & More",
+        "sameAs": "https://www.westerncoal.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 514
     },
     {
       "@context": "https://schema.org/",
@@ -2263,67 +2324,6 @@
         }
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "RRB NTPC Undergraduate Vacancy 2026 Zone Wise Out, Download Vacancies PDF (CEN 07/2026)",
-      "description": "<p>Official notification for RRB NTPC Undergraduate Vacancy 2026 Zone Wise Out, Download Vacancies PDF (CEN 07/2026). Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "b586a0c40028"
-      },
-      "datePosted": "2026-11-13",
-      "validThrough": "2026-12-16T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "RRB Recruitment Board",
-        "sameAs": "https://indianrailways.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "RRB JE Notification 2026 Vacancy Out, 4487 Revised Vacancy (Zone Wise), CBT 1 New Exam Dates",
-      "description": "<p>Official notification for RRB JE Notification 2026 Vacancy Out, 4487 Revised Vacancy (Zone Wise), CBT 1 New Exam Dates. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "15c32c33e9c9"
-      },
-      "datePosted": "2026-11-13",
-      "validThrough": "2026-12-16T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "RRB Recruitment Board",
-        "sameAs": "https://indianrailways.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 2026
     }
   ]
 }
