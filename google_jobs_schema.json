@@ -62,6 +62,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "UPSC Holds Workshop With State PSCs To Discuss Recruitment Reforms",
+      "description": "<p>Official notification for UPSC Holds Workshop With State PSCs To Discuss Recruitment Reforms. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "c2b618a031ed"
+      },
+      "datePosted": "2026-11-17",
+      "validThrough": "2026-12-17T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "UPSC Recruitment Board",
+        "sameAs": "https://upsc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Recruitment Status: State Police Sergeant",
       "description": "<p>Official notification for Recruitment Status: State Police Sergeant. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -1390,6 +1420,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "SBI Recruitment 2026 Out! 🔥 Assistant Manager Engineer Fire Jobs | Apply Online",
+      "description": "<p>Official notification for SBI Recruitment 2026 Out! 🔥 Assistant Manager Engineer Fire Jobs | Apply Online. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "67c5dcad1643"
+      },
+      "datePosted": "2026-11-15",
+      "validThrough": "2026-12-17T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "SBI Recruitment Board",
+        "sameAs": "https://sbi.co.in/web/careers"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "RRB Station Master Notification 2026-27 PDF Out, 1265 Vacancy (CEN 08/2026), Exam Dates, Online Form",
       "description": "<p>Official notification for RRB Station Master Notification 2026-27 PDF Out, 1265 Vacancy (CEN 08/2026), Exam Dates, Online Form. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2265,66 +2325,6 @@
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
       "totalJobOpenings": 59
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Gud News For Students VACANCY INCREASE RRB ALP 2026 #vacancyannouncement #increaserevenue #vacancyannouncement😁😁",
-      "description": "<p>Official notification for Gud News For Students VACANCY INCREASE RRB ALP 2026 #vacancyannouncement #increaserevenue #vacancyannouncement😁😁. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "4772353a8158"
-      },
-      "datePosted": "2026-11-13",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Gud Recruitment Board",
-        "sameAs": "https://indianrailways.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "CSB IAS ACADEMY FACULTY RECRUITMENT #csbiasacademy #balalathamadam #upsc",
-      "description": "<p>Official notification for CSB IAS ACADEMY FACULTY RECRUITMENT #csbiasacademy #balalathamadam #upsc. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "2354d74e63b7"
-      },
-      "datePosted": "2026-11-13",
-      "validThrough": "2026-12-13T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "CSB Recruitment Board",
-        "sameAs": "https://sbi.co.in/web/careers"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
     }
   ]
 }
