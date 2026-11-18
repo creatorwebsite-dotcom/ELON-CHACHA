@@ -666,6 +666,37 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "SSC MTS Notification 2026 Kab Aayega? | SSC New Exam Mode! 🚨| SSC MTS 2026 Vacancy Update | Testbook",
+      "description": "<p>Official notification for SSC MTS Notification 2026 Kab Aayega? | SSC New Exam Mode! 🚨| SSC MTS 2026 Vacancy Update | Testbook. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "273dacd4f7d5"
+      },
+      "datePosted": "2026-11-16",
+      "validThrough": "2026-12-18T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "SSC Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 2026
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Recruitment Status: State Police Sergeant",
       "description": "<p>Official notification for Recruitment Status: State Police Sergeant. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -1480,6 +1511,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Recruitment Notice",
+      "description": "<p>Official notification for Recruitment Notice. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "ef38fb3a88cc"
+      },
+      "datePosted": "2026-11-16",
+      "validThrough": "2026-12-18T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Recruitment Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Agniveer: Is India rethinking its short-term military recruitment scheme?",
       "description": "<p>Official notification for Agniveer: Is India rethinking its short-term military recruitment scheme?. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2252,66 +2313,6 @@
         "@type": "Organization",
         "name": "Supreme Court SCI Court Master",
         "sameAs": "https://www.sci.gov.in/recruitments/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "SBI Bank Vacancy 2026: 12,000 Clerks, PO, SO, Apprentice and Other Posts Recruitment, 250 New Branches",
-      "description": "<p>Official notification for SBI Bank Vacancy 2026: 12,000 Clerks, PO, SO, Apprentice and Other Posts Recruitment, 250 New Branches. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "4e69b9e384bf"
-      },
-      "datePosted": "2026-11-14",
-      "validThrough": "2026-12-16T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "SBI Recruitment Board",
-        "sameAs": "https://sbi.co.in/web/careers"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "UPSC Dental Surgeon Vacancy #dentalstudents #dentacme #dentistry #neetmdscoaching #upsc2026",
-      "description": "<p>Official notification for UPSC Dental Surgeon Vacancy #dentalstudents #dentacme #dentistry #neetmdscoaching #upsc2026. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "8cd5a2ea3dfa"
-      },
-      "datePosted": "2026-11-14",
-      "validThrough": "2026-12-16T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "UPSC Recruitment Board",
-        "sameAs": "https://upsc.gov.in"
       },
       "jobLocation": {
         "@type": "Place",
