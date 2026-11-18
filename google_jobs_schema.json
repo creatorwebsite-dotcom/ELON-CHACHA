@@ -62,6 +62,67 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "MbPA Graduate Apprentice Offline Form 2026 (48 Vacancy)",
+      "description": "<p>The official notification does not specify an advertisement number or an application start date.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "e9f88b34c946"
+      },
+      "datePosted": "2026-11-18",
+      "validThrough": "2026-12-18T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "MbPA Graduate Apprentice Offline Form",
+        "sameAs": "https://www.mumbaiport.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 48
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "SBI Clerk Mains Admit Card 2026 Out @sbi.bank.in, Phase II Call Letter Direct Link Active",
+      "description": "<p>Official notification for SBI Clerk Mains Admit Card 2026 Out @sbi.bank.in, Phase II Call Letter Direct Link Active. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "b0d7c68d55cd"
+      },
+      "datePosted": "2026-11-18",
+      "validThrough": "2026-12-18T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "SBI Recruitment Board",
+        "sameAs": "https://sbi.co.in/web/careers"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Public Security Minister announces phased recruitment of 20,000 police personnel Full story on Newswire. Link in the comments.",
       "description": "<p>Official notification for Public Security Minister announces phased recruitment of 20,000 police personnel Full story on Newswire. Link in the comments.. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -543,6 +604,37 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "District Programme Officer (ICDS), Ghazipur Anganwadi Worker Online Form 2026 (174 Vacancy)",
+      "description": "<p>Office of the District Programme Officer (ICDS), Ghazipur, Uttar Pradesh, has invited applications for 174 posts of Anganwadi Worker under Advt No. जि0का0अधि0/भर्ती/विज्ञप्ति/2026-27. Applications are accepted online until 9 December 2026.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "edfa079c1bbe"
+      },
+      "datePosted": "2026-11-18",
+      "validThrough": "2026-12-09T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "District Programme Officer (ICDS), Ghazipur Anganwadi Worker",
+        "sameAs": "http://upanganwadibharti.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 174
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "KEA Industrial Expansion Officer Online Form 2026 (35 Vacancy)",
       "description": "<p>Karnataka Examinations Authority, Bengaluru (KEA) has invited applications for 35 posts of Industrial Expansion Officer under Advt No. ಇಡಿ/ಕೆಇಎ/30/ನೇ.ವಿ/2026 (RPC). The online application is open from 18 November 2026 to 15 December 2026.</p>",
       "identifier": {
@@ -570,6 +662,37 @@
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
       "totalJobOpenings": 35
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "AIIMS Mangalagiri Various Posts Online Form 2026 (26 Vacancy)",
+      "description": "<p>The notice says that no applications were received for these posts under Advertisement No. AIIMS/MG/Admin/Recruitment/03/Faculty/2026/01 dated 11.08.2026, so they have been re-advertised. Applications are invited from Indian / other citizens as permissible under the applicable Act / Rules.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "7103a3f49e34"
+      },
+      "datePosted": "2026-11-18",
+      "validThrough": "2026-12-31T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "AIIMS Mangalagiri Various Posts",
+        "sameAs": "https://www.aiimsmangalagiri.edu.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 26
     },
     {
       "@context": "https://schema.org/",
@@ -2201,127 +2324,6 @@
         }
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Recruitment Notice",
-      "description": "<p>Official notification for Recruitment Notice. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "ef38fb3a88cc"
-      },
-      "datePosted": "2026-11-16",
-      "validThrough": "2026-12-18T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Recruitment Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Agniveer: Is India rethinking its short-term military recruitment scheme?",
-      "description": "<p>Official notification for Agniveer: Is India rethinking its short-term military recruitment scheme?. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "5d07f0b4a736"
-      },
-      "datePosted": "2026-11-16",
-      "validThrough": "2026-12-16T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Agniveer: Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "👉 Full Details: https://jobkola.com/13215 🔥AIIMS Madurai Recruitment 2026",
-      "description": "<p>Official notification for 👉 Full Details: https://jobkola.com/13215 🔥AIIMS Madurai Recruitment 2026. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "f1b9e4d5169f"
-      },
-      "datePosted": "2026-11-16",
-      "validThrough": "2026-12-16T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "👉 Recruitment Board",
-        "sameAs": "https://aiimsexams.ac.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "RRB 1,688 NTPC UG Online Form 2026",
-      "description": "<p>Total Vacancies 1,688 Posts Ticket Clerk, Accounts Clerk, Junior Clerk, Trains Clerk Qualification 12th Pass Age Limit 18–30 Years Application Opens 15 Oct 2026 Last Date 15 Nov 2026, 11:59 PM Initial Salary ₹19,900–21,700 Application Fee ₹500 / ₹250 Selection Process CBT 1, CBT 2, Typing Test (if applicable), DV, Medical Apply Mode Online Only</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "3a99fe53e116"
-      },
-      "datePosted": "2026-11-16",
-      "validThrough": "2026-11-14T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "RRB 1,688 NTPC UG",
-        "sameAs": "https://rrb.indianrailways.gov.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 1688
     }
   ]
 }
