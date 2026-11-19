@@ -1,18 +1,18 @@
 {
   "portal_brand": "SARKARI NAUKAR BANEGA",
-  "updated_at": "20 Nov 2026, 12:26:10 AM IST",
-  "last_2hr_sync_ist": "20 Nov 2026, 12:26:10 AM IST",
-  "last_2hr_sync_iso": "2026-11-20T00:25:56+05:30",
+  "updated_at": "20 Nov 2026, 01:35:56 AM IST",
+  "last_2hr_sync_ist": "20 Nov 2026, 01:35:56 AM IST",
+  "last_2hr_sync_iso": "2026-11-20T01:35:43+05:30",
   "window_days": 15,
-  "pruned_posts_last_run": 16,
-  "unseen_auto_published_count": 1105,
+  "pruned_posts_last_run": 7,
+  "unseen_auto_published_count": 1120,
   "category_counts": {
-    "latest_jobs": 286,
-    "results": 172,
-    "admit_cards": 297,
+    "latest_jobs": 287,
+    "results": 182,
+    "admit_cards": 299,
     "answer_keys": 147,
-    "syllabus": 68,
-    "admissions": 135
+    "syllabus": 69,
+    "admissions": 136
   },
   "trending_top_6": [
     {
@@ -85,5 +85,5 @@
     "facebook": ""
   },
   "new_custom_boxes": [],
-  "last_trigger_source": "schedule"
+  "last_trigger_source": "repository_dispatch"
 }
