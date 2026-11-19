@@ -62,6 +62,67 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "SBI SO Recruitment 2026 Notification Out @sbi.bank.in, Apply Online For 60 Vacancies",
+      "description": "<p>Official notification for SBI SO Recruitment 2026 Notification Out @sbi.bank.in, Apply Online For 60 Vacancies. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "8342373f6690"
+      },
+      "datePosted": "2026-11-19",
+      "validThrough": "2026-12-19T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "SBI Recruitment Board",
+        "sameAs": "https://sbi.co.in/web/careers"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 60
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Police1’s top recruitment video of 2026 contest: Call for entries",
+      "description": "<p>Official notification for Police1’s top recruitment video of 2026 contest: Call for entries. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "3496b378590c"
+      },
+      "datePosted": "2026-11-19",
+      "validThrough": "2026-12-19T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Police1’s Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "🏦J&K BANK RECRUITMENT 2026",
       "description": "<p>Official notification for 🏦J&amp;K BANK RECRUITMENT 2026. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2253,67 +2314,6 @@
         "@type": "Organization",
         "name": "BHEL Artisan Various Trade Post",
         "sameAs": "https://careers.bhel.in/index.jsp"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "SSC MTS Notification 2026 Kab Aayega? | SSC New Exam Mode! 🚨| SSC MTS 2026 Vacancy Update | Testbook",
-      "description": "<p>Official notification for SSC MTS Notification 2026 Kab Aayega? | SSC New Exam Mode! 🚨| SSC MTS 2026 Vacancy Update | Testbook. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "273dacd4f7d5"
-      },
-      "datePosted": "2026-11-16",
-      "validThrough": "2026-12-18T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "SSC Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 2026
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Recruitment Status: State Police Sergeant",
-      "description": "<p>Official notification for Recruitment Status: State Police Sergeant. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "71d3fe6682b7"
-      },
-      "datePosted": "2026-11-16",
-      "validThrough": "2026-12-16T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Recruitment Recruitment Board",
-        "sameAs": "https://licindia.in"
       },
       "jobLocation": {
         "@type": "Place",
