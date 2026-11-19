@@ -62,6 +62,66 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Meghalaya Cabinet approves 6th Pay Commission, revises police recruitment rule",
+      "description": "<p>Official notification for Meghalaya Cabinet approves 6th Pay Commission, revises police recruitment rule. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "ddb5e0ca6357"
+      },
+      "datePosted": "2026-11-19",
+      "validThrough": "2026-12-19T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Meghalaya Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Vacancies in UPSC",
+      "description": "<p>Official notification for Vacancies in UPSC. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "82ffa507f12d"
+      },
+      "datePosted": "2026-11-19",
+      "validThrough": "2026-12-19T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Vacancies Recruitment Board",
+        "sameAs": "https://upsc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "SBI SO Recruitment 2026 Notification Out @sbi.bank.in, Apply Online For 60 Vacancies",
       "description": "<p>Official notification for SBI SO Recruitment 2026 Notification Out @sbi.bank.in, Apply Online For 60 Vacancies. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2253,67 +2313,6 @@
         "@type": "Organization",
         "name": "UP Anganwadi Bharti",
         "sameAs": "http://upanganwadibharti.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "WCL Clerk, Jr DEO & More Online Form 2026 (514 Vacancy)",
-      "description": "<p>Western Coalfields Limited (WCL), Nagpur, Maharashtra, has invited applications for 514 posts in 3 roles under Advt No. WCL/IR/MP/SELECTION/2026-27/2971. The posts include Clerk, Grade III, Store Issue Clerk, Grade III, Jr. Data Entry Operator, T&amp;S Gr. E. The online application is open from 17 November 2026 to 1 December 2026.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "a0060c14048c"
-      },
-      "datePosted": "2026-11-17",
-      "validThrough": "2026-12-01T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "WCL Clerk, Jr DEO & More",
-        "sameAs": "https://www.westerncoal.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 514
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "BHEL Artisan Various Trade Post Online Form 2026",
-      "description": "<p>Bharat Heavy Electrical Limited BHEL , has released a Notification on its official website for the Recruitment of Artisan Grade-IV Various Posts. This recruitment is for 660 positions. BHEL Application Form has started on 21 October 2026 &amp; the candidates can apply until 18 November 2026 . Candidates must check the complete details for BHEL Artisan Various Trade Post Recruitment 2026. Link are given below. ( Advt. No. 01/2026 )</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "bb158f7178a3"
-      },
-      "datePosted": "2026-11-17",
-      "validThrough": "2026-12-17T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "BHEL Artisan Various Trade Post",
-        "sameAs": "https://careers.bhel.in/index.jsp"
       },
       "jobLocation": {
         "@type": "Place",
