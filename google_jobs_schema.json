@@ -213,6 +213,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Local terrorist recruitment brought down to almost zero in last 2 yrs: DGP",
+      "description": "<p>Official notification for Local terrorist recruitment brought down to almost zero in last 2 yrs: DGP. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "f70a5d891425"
+      },
+      "datePosted": "2026-11-19",
+      "validThrough": "2026-12-19T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Local Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Shocking details will emerge after PSC recruitment probe, says Chief Minister",
       "description": "<p>Official notification for Shocking details will emerge after PSC recruitment probe, says Chief Minister. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -361,6 +391,37 @@
         }
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "J&K Bank Recruitment 2026: 1053 Posts, Apply Online by 26 Nov",
+      "description": "<p>Official notification for J&amp;K Bank Recruitment 2026: 1053 Posts, Apply Online by 26 Nov. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "74207c4fd3a4"
+      },
+      "datePosted": "2026-11-18",
+      "validThrough": "2026-12-19T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "J&K Recruitment Board",
+        "sameAs": "https://indiapostgdsonline.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 1053
     },
     {
       "@context": "https://schema.org/",
@@ -530,6 +591,36 @@
         "@type": "Organization",
         "name": "‘Local Recruitment Board",
         "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "STATION MASTER VACANCY 2026 | RRB STATION MASTER के लिए 3 बड़ी खुशखबरी 🎉| RAILWAY STATION MASTER",
+      "description": "<p>Official notification for STATION MASTER VACANCY 2026 | RRB STATION MASTER के लिए 3 बड़ी खुशखबरी 🎉| RAILWAY STATION MASTER. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "90a5a0a6cd3d"
+      },
+      "datePosted": "2026-11-18",
+      "validThrough": "2026-12-19T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "STATION Recruitment Board",
+        "sameAs": "https://indianrailways.gov.in"
       },
       "jobLocation": {
         "@type": "Place",
@@ -2229,96 +2320,6 @@
           "@type": "PostalAddress",
           "addressLocality": "Delhi",
           "addressRegion": "Delhi",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Indian Bank Apprentice Recruitment",
-      "description": "<p>Official notification for Indian Bank Apprentice Recruitment. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "c73f714469ef"
-      },
-      "datePosted": "2026-11-16",
-      "validThrough": "2026-12-16T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Indian Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Common Recruitment Process (CRP) for Recruitment of Probationary Officers / Management Trainees in Participating Banks (CRP PO/MT-XV)",
-      "description": "<p>Official notification for Common Recruitment Process (CRP) for Recruitment of Probationary Officers / Management Trainees in Participating Banks (CRP PO/MT-XV). Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "bdcd456760a3"
-      },
-      "datePosted": "2026-11-16",
-      "validThrough": "2026-12-17T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Common Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "India Exim Bank Recruitment 2026: Apply for 120 Manager & Management Trainee posts at eximbankindia.in | Hindustan Times",
-      "description": "<p>Official notification for India Exim Bank Recruitment 2026: Apply for 120 Manager &amp; Management Trainee posts at eximbankindia.in | Hindustan Times. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "60ccf2048e81"
-      },
-      "datePosted": "2026-11-16",
-      "validThrough": "2026-12-16T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "India Recruitment Board",
-        "sameAs": "https://indiapostgdsonline.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
           "addressCountry": "IN"
         }
       },
