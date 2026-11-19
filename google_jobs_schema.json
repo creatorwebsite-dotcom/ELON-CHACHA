@@ -182,6 +182,37 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "PNB BIG RECRUITMENT 2026 🚨 | 4,847 Posts Approved | PO, LBO & Clerk Vacancy Update",
+      "description": "<p>Official notification for PNB BIG RECRUITMENT 2026 🚨 | 4,847 Posts Approved | PO, LBO &amp; Clerk Vacancy Update. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "a2d351346e59"
+      },
+      "datePosted": "2026-11-19",
+      "validThrough": "2026-12-19T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "PNB Recruitment Board",
+        "sameAs": "https://indiapostgdsonline.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 4847
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Railway new vacancy 2026 | RRB NTPC & Station Master | Last 40 Days Roadmap | Gagan Pratap Maths",
       "description": "<p>Official notification for Railway new vacancy 2026 | RRB NTPC &amp; Station Master | Last 40 Days Roadmap | Gagan Pratap Maths. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -468,6 +499,36 @@
         "@type": "Organization",
         "name": "Police Recruitment Board",
         "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "TS High Court Provisional Selection List 2026",
+      "description": "<p>Event Date Recruitment Notification Nos. 2/2026, 4/2026 and 5/2026 19-1-2026 Provisional Selection List - Junior Assistants (R.O.C. No. 2/2026) 19-11-2026 Provisional Selection List - Field Assistants (R.O.C. No. 4/2026) 19-11-2026 Provisional Selection List - Examiners (R.O.C. No. 5/2026) 19-11-2026</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "8ef5cec6312e"
+      },
+      "datePosted": "2026-11-19",
+      "validThrough": "2026-12-19T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "TS High Court Provisional Selection List",
+        "sameAs": "https://tshc.gov.in"
       },
       "jobLocation": {
         "@type": "Place",
@@ -1724,6 +1785,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "J&K Bank Recruitment 2026-27 | Complete Syllabus & Exam Pattern Explained | by Sumit Sir",
+      "description": "<p>Official notification for J&amp;K Bank Recruitment 2026-27 | Complete Syllabus &amp; Exam Pattern Explained | by Sumit Sir. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "e9db388146cf"
+      },
+      "datePosted": "2026-11-17",
+      "validThrough": "2026-12-19T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "J&K Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Railway RRB Station Master Recruitment 2026",
       "description": "<p>Official notification for Railway RRB Station Master Recruitment 2026. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2223,96 +2314,6 @@
         "@type": "Organization",
         "name": "Recruitment Recruitment Board",
         "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "SSB Odisha Junior Assistant Exam City Intimation 2026 Out @ssbodisha.ac.in, City Slip Direct Download Link",
-      "description": "<p>Official notification for SSB Odisha Junior Assistant Exam City Intimation 2026 Out @ssbodisha.ac.in, City Slip Direct Download Link. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "e7d34a818ae4"
-      },
-      "datePosted": "2026-11-16",
-      "validThrough": "2026-12-16T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "SSB Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Odisha",
-          "addressRegion": "Odisha",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "AIIMS Delhi Project Technical Support-III Vacancy: ₹28,000 + 30% HRA for PG Degree Holders",
-      "description": "<p>Official notification for AIIMS Delhi Project Technical Support-III Vacancy: ₹28,000 + 30% HRA for PG Degree Holders. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "ddab71ad445a"
-      },
-      "datePosted": "2026-11-16",
-      "validThrough": "2026-12-17T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "AIIMS Recruitment Board",
-        "sameAs": "https://aiimsexams.ac.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "🚨 AIIMS DELHI JOB VACANCY! comment “JOB”for details ICMR-Funded Project 📍 Department of Pediatrics",
-      "description": "<p>Official notification for 🚨 AIIMS DELHI JOB VACANCY! comment “JOB”for details ICMR-Funded Project 📍 Department of Pediatrics. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "bf78165538c4"
-      },
-      "datePosted": "2026-11-16",
-      "validThrough": "2026-12-18T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "🚨 Recruitment Board",
-        "sameAs": "https://aiimsexams.ac.in"
       },
       "jobLocation": {
         "@type": "Place",
