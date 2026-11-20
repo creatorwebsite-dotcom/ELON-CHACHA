@@ -62,6 +62,97 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "SBI Various Posts Online Form 2026 (20 Vacancy)",
+      "description": "<p>State Bank of India is a public sector bank. This recruitment is conducted by its Central Recruitment &amp; Promotion Department at the Corporate Centre, Mumbai. The Data Scientist posts work on the Bank's AI platform, covering AI architecture, Generative and , MLOps and LLMOps, AI security, quality testing, front-end and integration work for enterprise banking.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "f07bb162d79d"
+      },
+      "datePosted": "2026-11-20",
+      "validThrough": "2026-12-10T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "SBI Various Posts",
+        "sameAs": "https://sbi.bank.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 20
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "NPS announces December 10 recruitment of police constables across 423 centres https://t.co/3FRGH9t2VO",
+      "description": "<p>Official notification for NPS announces December 10 recruitment of police constables across 423 centres https://t.co/3FRGH9t2VO. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "0b53a93ced71"
+      },
+      "datePosted": "2026-11-20",
+      "validThrough": "2026-12-20T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "NPS Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "NPS announces nationwide police constable recruitment on December 10",
+      "description": "<p>Official notification for NPS announces nationwide police constable recruitment on December 10. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "e306a85cbc1d"
+      },
+      "datePosted": "2026-11-20",
+      "validThrough": "2026-12-20T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "NPS Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "UPDATE: National Police Service announces the recruitment of 10,000 police officers on Thursday, 10 December 2026.",
       "description": "<p>Official notification for UPDATE: National Police Service announces the recruitment of 10,000 police officers on Thursday, 10 December 2026.. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2236,97 +2327,6 @@
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
       "totalJobOpenings": 1284
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "UKSSSC Constable and Other Post Online Form 2026",
-      "description": "<p>Post Title: UKSSSC Constable and Other Post Online Form 2026\nOrganization / Board: UKSSSC Constable and Other Post (Uttarakhand)\nCategory: Latest Jobs | Sector: Govt\nTotal Vacancy: Various Posts\nRelease Date: 17 Nov 2026 | Apply Start Date: 17 Nov 2026\nLast Date to Apply: As per Official Notice | Exam Date: Notify Soon\nApplication Fee (Gen/OBC/EWS): Refer Official Notification PDF\nApplication Fee (SC/ST/PH): SC / ST / PwBD / Ex-SM: As per Rules\nAge Limit: Minimum 18 Years | Maximum Age &amp; Relaxation as per Recruitment Rules\nQualification Summary: 10th / 12th / ITI / Diploma / Bachelor Degree in relevant discipline from a recognized Board or University (Refer Official Notification PDF).</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "6984cab89766"
-      },
-      "datePosted": "2026-11-17",
-      "validThrough": "2026-12-17T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "UKSSSC Constable and Other Post",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Uttarakhand",
-          "addressRegion": "Uttarakhand",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "UKSSSC Police Constable Recruitment 2026: Notification Out for 1694 Vacancies, Check Eligibility and Apply Online",
-      "description": "<p>Official notification for UKSSSC Police Constable Recruitment 2026: Notification Out for 1694 Vacancies, Check Eligibility and Apply Online. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "9ecf5fddfb36"
-      },
-      "datePosted": "2026-11-17",
-      "validThrough": "2026-12-17T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "UKSSSC Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Uttarakhand",
-          "addressRegion": "Uttarakhand",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 1694
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Indian Bank Recruitment 2026: Notification Released for 5 Specialist Officer Vacancies in AI & Cyber Security",
-      "description": "<p>Official notification for Indian Bank Recruitment 2026: Notification Released for 5 Specialist Officer Vacancies in AI &amp; Cyber Security. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "e2a6abacd289"
-      },
-      "datePosted": "2026-11-17",
-      "validThrough": "2026-12-17T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Indian Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
     }
   ]
 }
