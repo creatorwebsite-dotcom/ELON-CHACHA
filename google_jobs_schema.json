@@ -62,6 +62,66 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "State Bank of India SCO Recruitment",
+      "description": "<p>Official notification for State Bank of India SCO Recruitment. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "98a94ea1bdbd"
+      },
+      "datePosted": "2026-11-20",
+      "validThrough": "2026-12-20T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "State Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "European Investment Bank Vacancy: (Senior) Valuation Officer, Luxembourg",
+      "description": "<p>Official notification for European Investment Bank Vacancy: (Senior) Valuation Officer, Luxembourg. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "1ec79d097c51"
+      },
+      "datePosted": "2026-11-20",
+      "validThrough": "2026-12-20T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "European Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "European Investment Bank Vacancy: Associate Provisioning and Valuations (PROVAL) Officer",
       "description": "<p>Official notification for European Investment Bank Vacancy: Associate Provisioning and Valuations (PROVAL) Officer. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -863,6 +923,36 @@
         "@type": "Organization",
         "name": "UPSC Recruitment Board",
         "sameAs": "https://upsc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Superintendents criticise lack of consultation over fast-track police recruitment plan",
+      "description": "<p>Official notification for Superintendents criticise lack of consultation over fast-track police recruitment plan. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "93b31ffca877"
+      },
+      "datePosted": "2026-11-19",
+      "validThrough": "2026-12-20T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Superintendents Recruitment Board",
+        "sameAs": "https://licindia.in"
       },
       "jobLocation": {
         "@type": "Place",
@@ -2225,96 +2315,6 @@
         "@type": "Organization",
         "name": "Recruitment Recruitment Board",
         "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "West Bengal police vacancy upcoming 🙏🙏👍👍",
-      "description": "<p>Official notification for West Bengal police vacancy upcoming 🙏🙏👍👍. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "b4300e836caf"
-      },
-      "datePosted": "2026-11-17",
-      "validThrough": "2026-12-17T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "West Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "West Bengal",
-          "addressRegion": "West Bengal",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "J&K Bank Recruitment 2026-27 | Complete Syllabus & Exam Pattern Explained | by Sumit Sir",
-      "description": "<p>Official notification for J&amp;K Bank Recruitment 2026-27 | Complete Syllabus &amp; Exam Pattern Explained | by Sumit Sir. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "e9db388146cf"
-      },
-      "datePosted": "2026-11-17",
-      "validThrough": "2026-12-19T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "J&K Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Railway RRB Station Master Recruitment 2026",
-      "description": "<p>Official notification for Railway RRB Station Master Recruitment 2026. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "636d2149375e"
-      },
-      "datePosted": "2026-11-17",
-      "validThrough": "2026-12-18T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Railway Recruitment Board",
-        "sameAs": "https://indianrailways.gov.in"
       },
       "jobLocation": {
         "@type": "Place",
