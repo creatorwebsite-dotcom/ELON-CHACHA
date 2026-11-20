@@ -274,6 +274,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Bank of Maharashtra Recruitment Case: From High Court to Supreme Court",
+      "description": "<p>Official notification for Bank of Maharashtra Recruitment Case: From High Court to Supreme Court. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "9ed43ab11dab"
+      },
+      "datePosted": "2026-11-19",
+      "validThrough": "2026-12-20T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Bank Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Maharashtra",
+          "addressRegion": "Maharashtra",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Recruitment Advertisements",
       "description": "<p>Official notification for Recruitment Advertisements. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -300,6 +330,37 @@
         }
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Uttarakhand Police New Vacancy 2026 | @UttarakhandDevbhoomiRWA UK Police 1694 Posts, Form Fill Up",
+      "description": "<p>Official notification for Uttarakhand Police New Vacancy 2026 | @UttarakhandDevbhoomiRWA UK Police 1694 Posts, Form Fill Up. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "b6966bdacc3b"
+      },
+      "datePosted": "2026-11-19",
+      "validThrough": "2026-12-20T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Uttarakhand Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Uttarakhand",
+          "addressRegion": "Uttarakhand",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 1694
     },
     {
       "@context": "https://schema.org/",
@@ -2253,66 +2314,6 @@
         "@type": "Organization",
         "name": "Tiruppur DHS Staff Nurse Selection List",
         "sameAs": "https://tiruppur.tn.nic.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "BANK RECRUITMENT GUIDE OF BANGLADESH 2022",
-      "description": "<p>Official notification for BANK RECRUITMENT GUIDE OF BANGLADESH 2022. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "a6bafe8273e4"
-      },
-      "datePosted": "2026-11-17",
-      "validThrough": "2026-12-17T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "BANK Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "C.M.P. Degree College Recruitment Portal | CMP Degree College",
-      "description": "<p>Official notification for C.M.P. Degree College Recruitment Portal | CMP Degree College. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "b116c469810a"
-      },
-      "datePosted": "2026-11-17",
-      "validThrough": "2026-12-17T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "C.M.P. Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
       },
       "jobLocation": {
         "@type": "Place",
