@@ -153,6 +153,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Two Biggest Vacancies Announced Today Update | #recruitment #uppolice #upteacher #teacher #buxar",
+      "description": "<p>Official notification for Two Biggest Vacancies Announced Today Update | #recruitment #uppolice #upteacher #teacher #buxar. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "38bb6af24656"
+      },
+      "datePosted": "2026-11-21",
+      "validThrough": "2026-12-21T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Two Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Kanniyakumari District Health Society Staff Nurse Offline Form 2026 (29 Vacancy)",
       "description": "<p>The District Health Society, Kanniyakumari District (National Health Mission - Tamil Nadu) invites applications for 29 Staff Nurse posts on a purely temporary contract basis at CEmONC centres, including SNCU and PICU. Completed applications go to the Executive Secretary at the District Health Office, Krishnankovil, Nagercoil, and must reach by 5 PM on 4 December 2026. The pay is Rs. 21,000 per month.</p>",
       "identifier": {
@@ -272,6 +302,36 @@
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
       "totalJobOpenings": 21
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "RRB SSE Recruitment 2026 | Railway Senior Section Engineer Vacancy, New Rules & Notification Update",
+      "description": "<p>Official notification for RRB SSE Recruitment 2026 | Railway Senior Section Engineer Vacancy, New Rules &amp; Notification Update. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "c63db4b0531d"
+      },
+      "datePosted": "2026-11-20",
+      "validThrough": "2026-12-21T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "RRB Recruitment Board",
+        "sameAs": "https://indianrailways.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
     },
     {
       "@context": "https://schema.org/",
@@ -2259,66 +2319,6 @@
         "@type": "Organization",
         "name": "Superintendents Recruitment Board",
         "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Local terrorist recruitment brought down to almost zero in last 2 yrs: DGP",
-      "description": "<p>Official notification for Local terrorist recruitment brought down to almost zero in last 2 yrs: DGP. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "f70a5d891425"
-      },
-      "datePosted": "2026-11-19",
-      "validThrough": "2026-12-19T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Local Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Shocking details will emerge after PSC recruitment probe, says Chief Minister",
-      "description": "<p>Official notification for Shocking details will emerge after PSC recruitment probe, says Chief Minister. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "2de4a896be42"
-      },
-      "datePosted": "2026-11-19",
-      "validThrough": "2026-12-19T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Shocking Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
       },
       "jobLocation": {
         "@type": "Place",
