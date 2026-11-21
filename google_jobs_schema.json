@@ -62,6 +62,99 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Goa Police Police Constable Offline Form 2026 (52 Vacancy)",
+      "description": "<p>The official notification also specifies the application submission location, seniority-based absorption process and mandatory basic training after appointment. Interested candidates should read the notification carefully before submitting their applications.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "60a578755fea"
+      },
+      "datePosted": "2026-11-23",
+      "validThrough": "2026-12-21T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Goa Police Police Constable Offline Form",
+        "sameAs": "https://citizen.goapolice.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Goa",
+          "addressRegion": "Goa",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 52
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "DHS Tiruvallur Staff Nurse Offline Form 2026 (26 Vacancy)",
+      "description": "<p>The official notification does not specify the application fee or the selection process.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "5b2644d33876"
+      },
+      "datePosted": "2026-11-21",
+      "validThrough": "2026-12-04T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "DHS Tiruvallur Staff Nurse Offline Form",
+        "sameAs": "https://tiruvallur.nic.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 26
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "DHS Thoothukudi Staff Nurse Offline Form 2026 (21 Vacancy)",
+      "description": "<p>The District Health Society, Thoothukudi (National Health Mission – Tamil Nadu, Health and Family Welfare Department) invites applications for 21 Staff Nurse posts on contract basis. Filled applications with photocopies of the relevant documents must reach the District Health Officer/Executive Secretary, District Health Office, Mappillaiurani PHC Campus, Mappillaiurami, Thoothukudi – 628 002 on or before 04 December 2026, 5:00 PM.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "72e438ba2e26"
+      },
+      "datePosted": "2026-11-21",
+      "validThrough": "2026-12-04T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "DHS Thoothukudi Staff Nurse Offline Form",
+        "sameAs": "https://nhm.tn.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 21
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Tirupathur District Health Society Staff Nurse Offline Form 2026 (54 Vacancy)",
       "description": "<p>The District Collector, Tirupathur, announced this contract Staff Nurse recruitment in a press release issued with the District Health Officer, Tirupathur district. The posts are newly created for the CEmONC centres of Government Hospitals in the district.</p>",
       "identifier": {
@@ -1581,6 +1674,37 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "DHS Mayiladuthurai Staff Nurse Offline Form 2026 (56 Vacancy)",
+      "description": "<p>The Mayiladuthurai DHS Staff Nurse recruitment 2026 fills 56 contract/temporary Staff Nurse posts in the CEmONC centres of Mayiladuthurai district under the District Health Society.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "ee93c1d77a46"
+      },
+      "datePosted": "2026-11-20",
+      "validThrough": "2026-12-04T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "DHS Mayiladuthurai Staff Nurse Offline Form",
+        "sameAs": "https://mayiladuthurai.nic.in/notice_Category/recruitment/"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 56
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Meghalaya+police+recruitment",
       "description": "<p>Official notification for Meghalaya+police+recruitment. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2208,126 +2332,6 @@
           "@type": "PostalAddress",
           "addressLocality": "All India / Central",
           "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Railway new vacancy 2026 | RRB NTPC & Station Master | Last 40 Days Roadmap | Gagan Pratap Maths",
-      "description": "<p>Official notification for Railway new vacancy 2026 | RRB NTPC &amp; Station Master | Last 40 Days Roadmap | Gagan Pratap Maths. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "9bb17d5638bb"
-      },
-      "datePosted": "2026-11-19",
-      "validThrough": "2026-12-19T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Railway Recruitment Board",
-        "sameAs": "https://indianrailways.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Federal Bank Recruitment 2026! 🏦",
-      "description": "<p>Official notification for Federal Bank Recruitment 2026! 🏦. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "a98b4f23aab5"
-      },
-      "datePosted": "2026-11-19",
-      "validThrough": "2026-12-20T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Federal Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Additional General Manager (Human Resources) And Deputy Manager (Legal) Vacancy At Goa Shipyard Limited",
-      "description": "<p>Official notification for Additional General Manager (Human Resources) And Deputy Manager (Legal) Vacancy At Goa Shipyard Limited. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "856c5f79c73e"
-      },
-      "datePosted": "2026-11-19",
-      "validThrough": "2026-12-19T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Additional Recruitment Board",
-        "sameAs": "https://goashipyard.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Goa",
-          "addressRegion": "Goa",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "AIIMS Bhopal Health Economist Recruitment 2026 – Apply Online — All India Institute of Medical Sciences Bhopal",
-      "description": "<p>Official notification for AIIMS Bhopal Health Economist Recruitment 2026 – Apply Online — All India Institute of Medical Sciences Bhopal. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "9c663b7e4ff4"
-      },
-      "datePosted": "2026-11-19",
-      "validThrough": "2026-12-21T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "AIIMS Recruitment Board",
-        "sameAs": "https://aiimsexams.ac.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Madhya Pradesh",
-          "addressRegion": "Madhya Pradesh",
           "addressCountry": "IN"
         }
       },
