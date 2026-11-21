@@ -93,6 +93,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Finally SSC JE Vacancies 2026 Answer Key Cut-off Out Today Hurry Up | #recruitment #ssc #sscje #govtjobs #buxar",
+      "description": "<p>Official notification for Finally SSC JE Vacancies 2026 Answer Key Cut-off Out Today Hurry Up | #recruitment #ssc #sscje #govtjobs #buxar. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "adb823fab2b7"
+      },
+      "datePosted": "2026-11-21",
+      "validThrough": "2026-12-21T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Finally Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "AIIMS New Vacancy: हर महीने ₹1.68 लाख वेतन और उम्र में खास छूट | Govt Jobs",
       "description": "<p>Official notification for AIIMS New Vacancy: हर महीने ₹1.68 लाख वेतन और उम्र में खास छूट | Govt Jobs. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2296,36 +2326,6 @@
       "hiringOrganization": {
         "@type": "Organization",
         "name": "Recruitment Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "PNB New Recruitment 2026 2027 | No Exam |Govt Jobs Nov 2026|Bank Vacancy 2027|Govt Jobs in Dec 2026",
-      "description": "<p>Official notification for PNB New Recruitment 2026 2027 | No Exam |Govt Jobs Nov 2026|Bank Vacancy 2027|Govt Jobs in Dec 2026. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "f15231817d1d"
-      },
-      "datePosted": "2026-11-19",
-      "validThrough": "2026-12-20T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "PNB Recruitment Board",
         "sameAs": "https://ssc.gov.in"
       },
       "jobLocation": {
