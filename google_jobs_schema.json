@@ -62,6 +62,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "City Hall: Part-time police approved, school board vacancy a...",
+      "description": "<p>Official notification for City Hall: Part-time police approved, school board vacancy a.... Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "70179dd6bb0e"
+      },
+      "datePosted": "2026-11-21",
+      "validThrough": "2026-12-21T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "City Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Dharmapuri District Health Society Staff Nurse Offline Form 2026 (57 Vacancy)",
       "description": "<p>This recruitment is for Contract / Temporary Staff Nurse posts at the maternity and newborn care centres of the Government Medical College Hospital and government hospitals in Dharmapuri district, filled through the District Health Society.</p>",
       "identifier": {
@@ -1277,6 +1307,37 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "SBI SCO Various Manager Post Online Form 2026",
+      "description": "<p>SBI Specialist Cadre Officers SCO Recruitment 2026. Those candidates who are interested in this SBI Specialist Cadre Officers SCO Deputy Manager, Manager, Chief Manager Examination can apply online from 20 November 2026 to 10 December 2026 . Read the notification for recruitment eligibility, post information, selection procedure, age limit, pay scale and all other information.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "714f71b29c34"
+      },
+      "datePosted": "2026-11-20",
+      "validThrough": "2026-12-21T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "SBI SCO Various Manager Post",
+        "sameAs": "https://sbi.bank.in/web/careers/current-openings"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 20
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Meghalaya+police+recruitment",
       "description": "<p>Official notification for Meghalaya+police+recruitment. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2258,66 +2319,6 @@
         "@type": "Organization",
         "name": "Shocking Recruitment Board",
         "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "NDLI: Jammu & Kashmir PSC: Veterenary Assistant Surgeon Recruitment Exam Question Paper (Paper II) 2019",
-      "description": "<p>Official notification for NDLI: Jammu &amp; Kashmir PSC: Veterenary Assistant Surgeon Recruitment Exam Question Paper (Paper II) 2019. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "3bef26a1cd07"
-      },
-      "datePosted": "2026-11-19",
-      "validThrough": "2026-12-21T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "NDLI: Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Police say a rise in attrition is to blame for their unmet recruitment target.",
-      "description": "<p>Official notification for Police say a rise in attrition is to blame for their unmet recruitment target.. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "4226577faa4f"
-      },
-      "datePosted": "2026-11-19",
-      "validThrough": "2026-12-19T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Police Recruitment Board",
-        "sameAs": "https://licindia.in"
       },
       "jobLocation": {
         "@type": "Place",
