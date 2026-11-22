@@ -93,6 +93,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "POLICE RECRUITMENT... \"Kuri na ujukania bwa borisi, kenda Kenya yumba kwithirwa iri na abisaa ba kung'ana ba gutungatira mwingi\"",
+      "description": "<p>Official notification for POLICE RECRUITMENT... \"Kuri na ujukania bwa borisi, kenda Kenya yumba kwithirwa iri na abisaa ba kung'ana ba gutungatira mwingi\". Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "813035110cd7"
+      },
+      "datePosted": "2026-11-22",
+      "validThrough": "2026-12-22T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "POLICE Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Police recruitment will be free and fair, special considerarion will be given to minority communities.",
       "description": "<p>Official notification for Police recruitment will be free and fair, special considerarion will be given to minority communities.. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -482,6 +512,36 @@
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
       "totalJobOpenings": 59
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "SBI Recruitment 2026",
+      "description": "<p>Official notification for SBI Recruitment 2026. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "9a040359ae16"
+      },
+      "datePosted": "2026-11-21",
+      "validThrough": "2026-12-22T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "SBI Recruitment Board",
+        "sameAs": "https://sbi.co.in/web/careers"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
     },
     {
       "@context": "https://schema.org/",
@@ -2274,68 +2334,6 @@
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
       "totalJobOpenings": 301
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "DHS Mayiladuthurai Staff Nurse Offline Form 2026 (56 Vacancy)",
-      "description": "<p>The Mayiladuthurai DHS Staff Nurse recruitment 2026 fills 56 contract/temporary Staff Nurse posts in the CEmONC centres of Mayiladuthurai district under the District Health Society.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "ee93c1d77a46"
-      },
-      "datePosted": "2026-11-20",
-      "validThrough": "2026-12-04T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "DHS Mayiladuthurai Staff Nurse Offline Form",
-        "sameAs": "https://mayiladuthurai.nic.in/notice_Category/recruitment/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 56
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "DHS Madurai Contractual / Temporary Staff Nurse Offline Form 2026 (62 Vacancy)",
-      "description": "<p>District Health Society - Madurai (DHS Madurai), Tamil Nadu, has invited applications for 62 posts of Contractual / Temporary Staff Nurse. Applications are to be sent offline and must reach the organisation by 4 December 2026.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "c51882427e0a"
-      },
-      "datePosted": "2026-11-20",
-      "validThrough": "2026-12-04T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "DHS Madurai Contractual / Temporary Staff Nurse Offline Form",
-        "sameAs": "https://madurai.nic.in/notice_category/recruitment/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 62
     }
   ]
 }
