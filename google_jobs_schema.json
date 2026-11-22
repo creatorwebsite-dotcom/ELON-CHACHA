@@ -488,6 +488,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "AIIMS JAMMU VIJAYPUR #RECRUITMENT",
+      "description": "<p>Official notification for AIIMS JAMMU VIJAYPUR #RECRUITMENT. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "c1fd94c948de"
+      },
+      "datePosted": "2026-11-21",
+      "validThrough": "2026-12-22T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "AIIMS Recruitment Board",
+        "sameAs": "https://aiimsexams.ac.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Recruitment fo Faculty posts of various disciplines on Regular Basis for AIIMS, New Delhi & AIIMS- CAPFIMS (IIIrd Phase Interview Schedule)",
       "description": "<p>Official notification for Recruitment fo Faculty posts of various disciplines on Regular Basis for AIIMS, New Delhi &amp; AIIMS- CAPFIMS (IIIrd Phase Interview Schedule). Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2306,37 +2336,6 @@
         }
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "SBI SO Recruitment 2026 Notification Out @sbi.bank.in, Apply Online For 60 Vacancies",
-      "description": "<p>Official notification for SBI SO Recruitment 2026 Notification Out @sbi.bank.in, Apply Online For 60 Vacancies. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "8342373f6690"
-      },
-      "datePosted": "2026-11-19",
-      "validThrough": "2026-12-19T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "SBI Recruitment Board",
-        "sameAs": "https://sbi.co.in/web/careers"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 60
     }
   ]
 }
