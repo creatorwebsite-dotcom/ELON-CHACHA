@@ -62,6 +62,99 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "BHEL 415 Engineer and Supervisor Trainee Online Form 2026",
+      "description": "<p>Bharat Heavy Electricals Limited has published a recruitment notice for Engineer/Executive Trainee and Supervisor Trainee positions for 2027. The recruitment covers Mechanical, Electrical, Electronics, Civil, HR, Finance and IT/CS disciplines for Engineer/Executive Trainees, along with Mechanical, Electrical, Electronics, Civil, HR and Finance disciplines for Supervisor Trainees.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "b4a31ea3c90a"
+      },
+      "datePosted": "2026-11-25",
+      "validThrough": "2026-12-28T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "BHEL 415 Engineer and Supervisor Trainee",
+        "sameAs": "http://careers.bhel.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 415
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "BHEL Recruitment 2026-27 (Engineer & Supervisor Trainee), 415 Vacancies, Notification PDF Out, Exam Dates",
+      "description": "<p>Official notification for BHEL Recruitment 2026-27 (Engineer &amp; Supervisor Trainee), 415 Vacancies, Notification PDF Out, Exam Dates. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "bf1b8ea4b00c"
+      },
+      "datePosted": "2026-11-23",
+      "validThrough": "2026-12-23T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "BHEL Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 415
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Gujarat Police Recruitment 2026: Apply Online for 3000 Posts From November 26",
+      "description": "<p>Official notification for Gujarat Police Recruitment 2026: Apply Online for 3000 Posts From November 26. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "e0556c1a14d2"
+      },
+      "datePosted": "2026-11-23",
+      "validThrough": "2026-12-23T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Gujarat Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Gujarat",
+          "addressRegion": "Gujarat",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 3000
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Apply Online for RRB Station Master Recruitment. Link available on JobAssam.in",
       "description": "<p>Official notification for Apply Online for RRB Station Master Recruitment. Link available on JobAssam.in. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -529,6 +622,36 @@
         "@type": "Organization",
         "name": "Interior Recruitment Board",
         "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "SR DENTAL VACANCY AT AIIMS DELHI #dentistry #dentacme #neetmdscoaching",
+      "description": "<p>Official notification for SR DENTAL VACANCY AT AIIMS DELHI #dentistry #dentacme #neetmdscoaching. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "a2e2472ed4c3"
+      },
+      "datePosted": "2026-11-22",
+      "validThrough": "2026-12-23T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "SR Recruitment Board",
+        "sameAs": "https://neet.nta.nic.in"
       },
       "jobLocation": {
         "@type": "Place",
@@ -2199,126 +2322,6 @@
       "hiringOrganization": {
         "@type": "Organization",
         "name": "Police Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "HDFC Bank Recruitment 2026 2027 |HDFC Job Vacancy 2027|Bank Recruitment 2027|New Bank Vacancies 2027",
-      "description": "<p>Official notification for HDFC Bank Recruitment 2026 2027 |HDFC Job Vacancy 2027|Bank Recruitment 2027|New Bank Vacancies 2027. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "e494b8060f87"
-      },
-      "datePosted": "2026-11-20",
-      "validThrough": "2026-12-23T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "HDFC Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "NPS announces nationwide police constable recruitment on December 10",
-      "description": "<p>Official notification for NPS announces nationwide police constable recruitment on December 10. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "e306a85cbc1d"
-      },
-      "datePosted": "2026-11-20",
-      "validThrough": "2026-12-20T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "NPS Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "UPDATE: National Police Service announces the recruitment of 10,000 police officers on Thursday, 10 December 2026.",
-      "description": "<p>Official notification for UPDATE: National Police Service announces the recruitment of 10,000 police officers on Thursday, 10 December 2026.. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "a4786e32a9b1"
-      },
-      "datePosted": "2026-11-20",
-      "validThrough": "2026-12-10T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "UPDATE: Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "ADVERTISEMENT FOR RECRUITMENT OF POLICE CONSTABLES INTO THE NATIONAL POLICE SERVICE",
-      "description": "<p>Official notification for ADVERTISEMENT FOR RECRUITMENT OF POLICE CONSTABLES INTO THE NATIONAL POLICE SERVICE. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "c6e3a2f566ab"
-      },
-      "datePosted": "2026-11-20",
-      "validThrough": "2026-12-20T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "ADVERTISEMENT Recruitment Board",
         "sameAs": "https://licindia.in"
       },
       "jobLocation": {
