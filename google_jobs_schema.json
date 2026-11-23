@@ -124,6 +124,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Akola Janata Commercial Co-Operative Bank Recruitment 2026 – Apply Offline for 9 CA, Banking Law Officer and More Posts",
+      "description": "<p>Official notification for Akola Janata Commercial Co-Operative Bank Recruitment 2026 – Apply Offline for 9 CA, Banking Law Officer and More Posts. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "87782f8a61ac"
+      },
+      "datePosted": "2026-11-23",
+      "validThrough": "2026-12-24T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Akola Recruitment Board",
+        "sameAs": "https://indiapostgdsonline.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Karnataka Fire Fighter Recruitment 2026 Notification Out, Apply Online For 460 Vacancies (Link Active)",
       "description": "<p>Official notification for Karnataka Fire Fighter Recruitment 2026 Notification Out, Apply Online For 460 Vacancies (Link Active). Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -170,6 +200,36 @@
         "@type": "Organization",
         "name": "Indian Army Havildar and Naib Subedar (Sports Quota) Offline Form",
         "sameAs": "https://joinindianarmy.nic.in/"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "BIS amends recruitment rules, can hire successful candidates from UPSC, SSC exams",
+      "description": "<p>Official notification for BIS amends recruitment rules, can hire successful candidates from UPSC, SSC exams. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "0784d9b0e420"
+      },
+      "datePosted": "2026-11-23",
+      "validThrough": "2026-12-24T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "BIS Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
       },
       "jobLocation": {
         "@type": "Place",
@@ -328,6 +388,36 @@
           "@type": "PostalAddress",
           "addressLocality": "Madhya Pradesh",
           "addressRegion": "Madhya Pradesh",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "SBI New Recruitment 2026 புதிய வேலைவாய்ப்பு அறிவிப்பு | SBI Bank Vacancy 2026 |Eligibility & Details",
+      "description": "<p>Official notification for SBI New Recruitment 2026 புதிய வேலைவாய்ப்பு அறிவிப்பு | SBI Bank Vacancy 2026 |Eligibility &amp; Details. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "86e7b1dcfdd4"
+      },
+      "datePosted": "2026-11-23",
+      "validThrough": "2026-12-24T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "SBI Recruitment Board",
+        "sameAs": "https://sbi.co.in/web/careers"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
           "addressCountry": "IN"
         }
       },
@@ -2240,99 +2330,6 @@
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
       "totalJobOpenings": 56
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "DHS Krishnagiri Staff Nurse Offline Form 2026 (73 Vacancy)",
-      "description": "<p>The official notification does not specify the application fee or the selection process.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "0c9dd2603e4d"
-      },
-      "datePosted": "2026-11-20",
-      "validThrough": "2026-12-04T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "DHS Krishnagiri Staff Nurse Offline Form",
-        "sameAs": "https://krishnagiri.nic.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 73
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "NHM Theni Staff Nurse Offline Form 2026 (33 Vacancy)",
-      "description": "<p>The official notification does not specify the pay or the application fee.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "40897b01f909"
-      },
-      "datePosted": "2026-11-20",
-      "validThrough": "2026-12-04T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "NHM Theni Staff Nurse Offline Form",
-        "sameAs": "https://theni.nic.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 33
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Thanjavur District Health Society Staff Nurse Offline Form 2026 (127 Vacancy)",
-      "description": "<p>The official notification does not specify the application fee, the application start date or the full selection procedure.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "cfddb17102c7"
-      },
-      "datePosted": "2026-11-20",
-      "validThrough": "2026-12-04T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Thanjavur District Health Society Staff Nurse Offline Form",
-        "sameAs": "https://thanjavur.nic.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 127
     }
   ]
 }
