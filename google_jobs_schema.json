@@ -276,6 +276,37 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "AIIMS Deoghar Senior Resident Offline Form 2026 (159 Vacancy)",
+      "description": "<p>All India Institute of Medical Sciences Deoghar is an Institution of National Importance under the Ministry of Health &amp; Family Welfare, Government of India. The notice is signed by the Registrar, AIIMS Deoghar, and the application is addressed to the Registrar Office at AIIMS, Devipur (Academic Block), Deoghar, Jharkhand.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "79bdc38077ba"
+      },
+      "datePosted": "2026-11-23",
+      "validThrough": "2026-04-01T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "AIIMS Deoghar Senior Resident Offline Form",
+        "sameAs": "https://www.aiimsdeoghar.edu.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 159
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Supreme Court SCI Court Assistant Online Form 2026",
       "description": "<p>Application Fee For General/Unreserved : ₹ 1500/- For SC, ST, OBC – NCL, PwBD Candidates : ₹ 750/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet</p>",
       "identifier": {
@@ -2300,36 +2331,6 @@
           "@type": "PostalAddress",
           "addressLocality": "West Bengal",
           "addressRegion": "West Bengal",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Police Recruitment Forms",
-      "description": "<p>Official notification for Police Recruitment Forms. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "3539097dbb20"
-      },
-      "datePosted": "2026-11-20",
-      "validThrough": "2026-12-21T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Police Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
           "addressCountry": "IN"
         }
       },
