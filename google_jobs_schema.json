@@ -274,6 +274,96 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Murkomen promises corruption-free police recruitment ahead of December 10 exercise",
+      "description": "<p>Official notification for Murkomen promises corruption-free police recruitment ahead of December 10 exercise. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "f2af9b8ba71d"
+      },
+      "datePosted": "2026-11-22",
+      "validThrough": "2026-12-23T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Murkomen Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "RRB NTPC Notification 2026-27 PDF Out, 3548 Graduate Vacancy, Exam Dates (CEN 06/2026)",
+      "description": "<p>Official notification for RRB NTPC Notification 2026-27 PDF Out, 3548 Graduate Vacancy, Exam Dates (CEN 06/2026). Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "af780f493ef8"
+      },
+      "datePosted": "2026-11-22",
+      "validThrough": "2026-12-23T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "RRB Recruitment Board",
+        "sameAs": "https://indianrailways.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "[rrbapply.gov.in] RRB Station Master Apply Online 2026, CEN 08/2026 Link Active, Last Date",
+      "description": "<p>Official notification for [rrbapply.gov.in] RRB Station Master Apply Online 2026, CEN 08/2026 Link Active, Last Date. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "d72ccab91626"
+      },
+      "datePosted": "2026-11-22",
+      "validThrough": "2026-12-23T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "[rrbapply.gov.in] Recruitment Board",
+        "sameAs": "https://indianrailways.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Interior CS Onesimus Kipchumba Murkomen assures Kenyans that the upcoming police recruitment exercise will be free, fair and transparent.",
       "description": "<p>Official notification for Interior CS Onesimus Kipchumba Murkomen assures Kenyans that the upcoming police recruitment exercise will be free, fair and transparent.. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -469,6 +559,36 @@
         "@type": "Organization",
         "name": "AIIMS Recruitment Board",
         "sameAs": "https://aiimsexams.ac.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "8.3K views · 124 reactions | J&K Bank Recruitment 2026: 1,397 PO & Clerk Vacancies, Apply by 26 Nov | Manav Gupta",
+      "description": "<p>Official notification for 8.3K views · 124 reactions | J&amp;K Bank Recruitment 2026: 1,397 PO &amp; Clerk Vacancies, Apply by 26 Nov | Manav Gupta. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "ef945a9ff8a7"
+      },
+      "datePosted": "2026-11-21",
+      "validThrough": "2026-12-23T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "8.3K Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
       },
       "jobLocation": {
         "@type": "Place",
@@ -1945,6 +2065,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "HDFC Bank Recruitment 2026 2027 |HDFC Job Vacancy 2027|Bank Recruitment 2027|New Bank Vacancies 2027",
+      "description": "<p>Official notification for HDFC Bank Recruitment 2026 2027 |HDFC Job Vacancy 2027|Bank Recruitment 2027|New Bank Vacancies 2027. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "e494b8060f87"
+      },
+      "datePosted": "2026-11-20",
+      "validThrough": "2026-12-23T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "HDFC Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "NPS announces nationwide police constable recruitment on December 10",
       "description": "<p>Official notification for NPS announces nationwide police constable recruitment on December 10. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2170,158 +2320,6 @@
         "@type": "Organization",
         "name": "European Recruitment Board",
         "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "European Investment Bank Vacancy: Associate Provisioning and Valuations (PROVAL) Officer",
-      "description": "<p>Official notification for European Investment Bank Vacancy: Associate Provisioning and Valuations (PROVAL) Officer. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "29f433e9fd2d"
-      },
-      "datePosted": "2026-11-20",
-      "validThrough": "2026-12-20T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "European Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "HC scraps six sports quota entries in police recruitment",
-      "description": "<p>Official notification for HC scraps six sports quota entries in police recruitment. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "f14262124a02"
-      },
-      "datePosted": "2026-11-20",
-      "validThrough": "2026-12-20T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "HC Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Railway RRC CR Apprentice Online Form 2026 (2861 Posts)",
-      "description": "<p>Railway Recruitment Cell (RRC-CR) , has released a notification on the official website for the recruitment of RRC CR Apprentice Posts. This recruitment is for 2861 positions. RRC Application Form has started on 03 November 2026 &amp; the candidates can apply until 02 December 2026 . Candidates must check the complete details for RRC CR Apprentice Recruitment 2026. which has given below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "a7a3217deb40"
-      },
-      "datePosted": "2026-11-20",
-      "validThrough": "2026-12-02T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Railway RRC CR Apprentice",
-        "sameAs": "https://rrccr.com/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 2861
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "UPPSC Civil Judge PCS J Online Form 2026",
-      "description": "<p>Uttar Pradesh Public Service Commission (UPPSC) has released the abridged advertisement for the U.P. Judicial Service Civil Judge (Junior Division) Examination 2026. A total of 365 Civil Judge vacancies have been announced under Advertisement No. A-6/E-1/2026. The online application process starts on 20 November 2026, and the last date to apply online and pay the examination fee is 21 December 2026.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "c8638db345e3"
-      },
-      "datePosted": "2026-11-20",
-      "validThrough": "2026-12-21T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "UPPSC Civil Judge PCS J",
-        "sameAs": "https://uppsc.up.nic.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Uttar Pradesh",
-          "addressRegion": "Uttar Pradesh",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 365
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "ONGC Apprentice Online Form 2026 – Last Date Today",
-      "description": "<p>Important Dates Online Apply Start Date : 29 October 2026 Online Apply Last Date : 20 November 2026 Last Date For Fee Payment : 20 November 2026 Merit List : 15 December 2026 Candidates are advised to confirm from the ONGC official website. Application Fee No Fee For All Candidates : ₹ 00/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "3f3addc69bc1"
-      },
-      "datePosted": "2026-11-20",
-      "validThrough": "2026-11-20T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "ONGC Apprentice",
-        "sameAs": "https://ongcindia.com/web/eng"
       },
       "jobLocation": {
         "@type": "Place",
