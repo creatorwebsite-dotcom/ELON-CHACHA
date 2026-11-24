@@ -1,15 +1,15 @@
 {
   "portal_brand": "SARKARI NAUKAR BANEGA",
-  "updated_at": "24 Nov 2026, 05:36:39 AM IST",
-  "last_2hr_sync_ist": "24 Nov 2026, 05:36:39 AM IST",
-  "last_2hr_sync_iso": "2026-11-24T05:36:21+05:30",
+  "updated_at": "24 Nov 2026, 07:34:04 AM IST",
+  "last_2hr_sync_ist": "24 Nov 2026, 07:34:04 AM IST",
+  "last_2hr_sync_iso": "2026-11-24T07:33:48+05:30",
   "window_days": 15,
-  "pruned_posts_last_run": 6,
-  "unseen_auto_published_count": 1583,
+  "pruned_posts_last_run": 13,
+  "unseen_auto_published_count": 1592,
   "category_counts": {
-    "latest_jobs": 408,
-    "results": 262,
-    "admit_cards": 430,
+    "latest_jobs": 414,
+    "results": 263,
+    "admit_cards": 432,
     "answer_keys": 184,
     "syllabus": 118,
     "admissions": 181
@@ -31,6 +31,15 @@
       "url": "http://sarkariresult.com.cm/wp-content/uploads/2026/10/RRB-NTPC-UG-2026-RRB-Zone-Wise-Vacancy-Details.pdf",
       "details": "Application Fee For General / OBC / EWS : ₹ 500/- For SC / ST / EBC : ₹ 250/- For All Category female : ₹ 250/- Fee Refund : General / OBC : Rs. 400/- will be refunded and Other candidates : Rs. 250/- will be refunded to the bank account after appearing in Stage I Exam. Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
       "rushScore": 130,
+      "active": true
+    },
+    {
+      "id": "f4b3aded0bc9",
+      "title": "Odisha Police Vacancy | Over 26,000 Posts Remain Vacant, Recruitment Begins",
+      "sub": "Latest Jobs",
+      "url": "https://licindia.in",
+      "details": "Official notification for Odisha Police Vacancy | Over 26,000 Posts Remain Vacant, Recruitment Begins. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 125,
       "active": true
     },
     {
@@ -57,15 +66,6 @@
       "sub": "Result",
       "url": "https://upcons2025.com/conmailrequest/loginpage.aspx",
       "details": "The UP Police Constable Normalized Marks 2026 represent candidates' written examination scores after application of the Board's normalization procedure.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "af6d56665746",
-      "title": "RRB NTPC UG Recruitment 2026: Last Date Extended to November 15, Apply Online for 1688 Vacancies at rrbapply.gov.in",
-      "sub": "Last Date Extended",
-      "url": "https://indianrailways.gov.in",
-      "details": "Official notification for RRB NTPC UG Recruitment 2026: Last Date Extended to November 15, Apply Online for 1688 Vacancies at rrbapply.gov.in. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
       "rushScore": 125,
       "active": true
     }
