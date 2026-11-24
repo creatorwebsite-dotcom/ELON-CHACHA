@@ -1,18 +1,18 @@
 {
   "portal_brand": "SARKARI NAUKAR BANEGA",
-  "updated_at": "24 Nov 2026, 11:36:00 PM IST",
-  "last_2hr_sync_ist": "24 Nov 2026, 11:36:00 PM IST",
-  "last_2hr_sync_iso": "2026-11-24T23:35:43+05:30",
+  "updated_at": "25 Nov 2026, 01:36:50 AM IST",
+  "last_2hr_sync_ist": "25 Nov 2026, 01:36:50 AM IST",
+  "last_2hr_sync_iso": "2026-11-25T01:36:34+05:30",
   "window_days": 15,
-  "pruned_posts_last_run": 7,
-  "unseen_auto_published_count": 1720,
+  "pruned_posts_last_run": 164,
+  "unseen_auto_published_count": 1567,
   "category_counts": {
-    "latest_jobs": 452,
-    "results": 273,
-    "admit_cards": 464,
-    "answer_keys": 197,
-    "syllabus": 140,
-    "admissions": 194
+    "latest_jobs": 414,
+    "results": 246,
+    "admit_cards": 437,
+    "answer_keys": 161,
+    "syllabus": 126,
+    "admissions": 183
   },
   "trending_top_6": [
     {
@@ -22,15 +22,6 @@
       "url": "https://www.rrbapply.gov.in/assets/forms/corrigendum1_07_2026_NTPC_UG.pdf",
       "details": "Total Vacancies 1,688 Posts Ticket Clerk, Accounts Clerk, Junior Clerk, Trains Clerk Qualification 12th Pass Age Limit 18–30 Years Application Opens 15 Oct 2026 Last Date 15 Nov 2026, 11:59 PM Initial Salary ₹19,900–21,700 Application Fee ₹500 / ₹250 Selection Process CBT 1, CBT 2, Typing Test (if applicable), DV, Medical Apply Mode Online Only",
       "rushScore": 147,
-      "active": true
-    },
-    {
-      "id": "3aa07d62f68f",
-      "title": "RRB NTPC 10+2 UG Online Form 2026 (1688 Posts)",
-      "sub": "Today Last Date",
-      "url": "http://sarkariresult.com.cm/wp-content/uploads/2026/10/RRB-NTPC-UG-2026-RRB-Zone-Wise-Vacancy-Details.pdf",
-      "details": "Application Fee For General / OBC / EWS : ₹ 500/- For SC / ST / EBC : ₹ 250/- For All Category female : ₹ 250/- Fee Refund : General / OBC : Rs. 400/- will be refunded and Other candidates : Rs. 250/- will be refunded to the bank account after appearing in Stage I Exam. Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
-      "rushScore": 130,
       "active": true
     },
     {
@@ -66,6 +57,15 @@
       "sub": "Syllabus",
       "url": "https://ssc.gov.in",
       "details": "Official notification for TNUSRB Constable and SI Notification 2026-27 Out Soon For 34000 Vacancies, Check Details. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "50d0d0afa13f",
+      "title": "RRB Group D Score Card 2026",
+      "sub": "Result",
+      "url": "https://rrb.digialm.com/EForms/configuredHtml/33128/101714/login.html",
+      "details": "The CEN 09/2025 notification covers 22,195 vacancies in Level-1 (Group D) posts. The basic eligibility details are given below.",
       "rushScore": 125,
       "active": true
     }
