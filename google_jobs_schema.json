@@ -123,6 +123,97 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Gujarat Police Recruitment 2026: Lokrakshak Vacancies Increased to 12,752; 241 PSI Posts Announced",
+      "description": "<p>Official notification for Gujarat Police Recruitment 2026: Lokrakshak Vacancies Increased to 12,752; 241 PSI Posts Announced. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "aeaf84335c3d"
+      },
+      "datePosted": "2026-11-24",
+      "validThrough": "2026-12-24T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Gujarat Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Gujarat",
+          "addressRegion": "Gujarat",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Police recruitment tests should not mean death for some | Hindustan Times",
+      "description": "<p>Official notification for Police recruitment tests should not mean death for some | Hindustan Times. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "0f64263f795c"
+      },
+      "datePosted": "2026-11-24",
+      "validThrough": "2026-12-24T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Police Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Gujarat Police LRD Recruitment 2026: Posts Increased to 12752, PSI 241 Posts Added, Total 13152 Vacancies",
+      "description": "<p>Official notification for Gujarat Police LRD Recruitment 2026: Posts Increased to 12752, PSI 241 Posts Added, Total 13152 Vacancies. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "7088d43d6d3d"
+      },
+      "datePosted": "2026-11-24",
+      "validThrough": "2026-12-24T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Gujarat Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Gujarat",
+          "addressRegion": "Gujarat",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 241
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Gujarat Police Recruitment 2026: Vacancies increased to 13,152, applications begin November 26",
       "description": "<p>Official notification for Gujarat Police Recruitment 2026: Vacancies increased to 13,152, applications begin November 26. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -228,6 +319,36 @@
       "hiringOrganization": {
         "@type": "Organization",
         "name": "Gujarat Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Gujarat",
+          "addressRegion": "Gujarat",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "આનંદો.. આનંદો! પોલીસ ભરતીમાં જગ્યાઓ વધી? | PSI અને Constable ભરતી 2026 | Gujarat Police Bharti 2026",
+      "description": "<p>Official notification for આનંદો.. આનંદો! પોલીસ ભરતીમાં જગ્યાઓ વધી? | PSI અને Constable ભરતી 2026 | Gujarat Police Bharti 2026. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "d33589bdf833"
+      },
+      "datePosted": "2026-11-24",
+      "validThrough": "2026-12-24T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "આનંદો.. Recruitment Board",
         "sameAs": "https://licindia.in"
       },
       "jobLocation": {
@@ -682,6 +803,36 @@
       "hiringOrganization": {
         "@type": "Organization",
         "name": "ITBP Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "AAI JE Recruitment 2027 | Eligibility, Exam Pattern & Vacancies | Notification Out",
+      "description": "<p>Official notification for AAI JE Recruitment 2027 | Eligibility, Exam Pattern &amp; Vacancies | Notification Out. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "946de25c5929"
+      },
+      "datePosted": "2026-11-23",
+      "validThrough": "2026-12-24T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "AAI Recruitment Board",
         "sameAs": "https://ssc.gov.in"
       },
       "jobLocation": {
@@ -2172,158 +2323,6 @@
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
       "totalJobOpenings": 60
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "District Health Society, Thiruvarur Staff Nurse Offline Form 2026 (59 Vacancy)",
-      "description": "<p>The District Health Society, Thiruvarur is filling Staff Nurse posts on a contractual, temporary basis under the NHM scheme in Thiruvarur district. The notice carries an application form for the post on its later pages.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "e9b04d1bee1b"
-      },
-      "datePosted": "2026-11-21",
-      "validThrough": "2026-12-04T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "District Health Society, Thiruvarur Staff Nurse Offline Form",
-        "sameAs": "https://tiruvarur.nic.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 59
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Recruitment of Specialists on Contract",
-      "description": "<p>Official notification for Recruitment of Specialists on Contract. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "825aa4c0da13"
-      },
-      "datePosted": "2026-11-21",
-      "validThrough": "2026-12-24T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Recruitment Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "SBI Recruitment 2026",
-      "description": "<p>Official notification for SBI Recruitment 2026. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "9a040359ae16"
-      },
-      "datePosted": "2026-11-21",
-      "validThrough": "2026-12-22T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "SBI Recruitment Board",
-        "sameAs": "https://sbi.co.in/web/careers"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "NSIC Recruitment 2026, 83 vacancies (Assistant Manager, Deputy Manager, GM), Salary",
-      "description": "<p>Official notification for NSIC Recruitment 2026, 83 vacancies (Assistant Manager, Deputy Manager, GM), Salary. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "7473853a521c"
-      },
-      "datePosted": "2026-11-21",
-      "validThrough": "2026-12-21T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "NSIC Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 83
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Recruitment of Probationary Officers ADVERTISEMENT NO: CRPD/PO/2026-27/09",
-      "description": "<p>Official notification for Recruitment of Probationary Officers ADVERTISEMENT NO: CRPD/PO/2026-27/09. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "011945746fb3"
-      },
-      "datePosted": "2026-11-21",
-      "validThrough": "2026-12-22T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Recruitment Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
     }
   ]
 }
