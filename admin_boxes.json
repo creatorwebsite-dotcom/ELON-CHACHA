@@ -1,17 +1,17 @@
 {
   "portal_brand": "SARKARI NAUKAR BANEGA",
-  "updated_at": "24 Nov 2026, 09:36:18 AM IST",
-  "last_2hr_sync_ist": "24 Nov 2026, 09:36:18 AM IST",
-  "last_2hr_sync_iso": "2026-11-24T09:36:04+05:30",
+  "updated_at": "24 Nov 2026, 11:36:15 AM IST",
+  "last_2hr_sync_ist": "24 Nov 2026, 11:36:15 AM IST",
+  "last_2hr_sync_iso": "2026-11-24T11:36:03+05:30",
   "window_days": 15,
-  "pruned_posts_last_run": 13,
-  "unseen_auto_published_count": 1600,
+  "pruned_posts_last_run": 6,
+  "unseen_auto_published_count": 1615,
   "category_counts": {
-    "latest_jobs": 415,
+    "latest_jobs": 420,
     "results": 264,
-    "admit_cards": 437,
+    "admit_cards": 445,
     "answer_keys": 184,
-    "syllabus": 119,
+    "syllabus": 121,
     "admissions": 181
   },
   "trending_top_6": [
@@ -31,6 +31,15 @@
       "url": "http://sarkariresult.com.cm/wp-content/uploads/2026/10/RRB-NTPC-UG-2026-RRB-Zone-Wise-Vacancy-Details.pdf",
       "details": "Application Fee For General / OBC / EWS : ₹ 500/- For SC / ST / EBC : ₹ 250/- For All Category female : ₹ 250/- Fee Refund : General / OBC : Rs. 400/- will be refunded and Other candidates : Rs. 250/- will be refunded to the bank account after appearing in Stage I Exam. Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
       "rushScore": 130,
+      "active": true
+    },
+    {
+      "id": "f551dfb8eb2e",
+      "title": "Gujarat Police Recruitment: 12752 Vacancies Announced, Harsh Sanghavi Urges Youth to Start Preparing",
+      "sub": "Latest Jobs",
+      "url": "https://licindia.in",
+      "details": "Official notification for Gujarat Police Recruitment: 12752 Vacancies Announced, Harsh Sanghavi Urges Youth to Start Preparing. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 125,
       "active": true
     },
     {
@@ -57,15 +66,6 @@
       "sub": "Result",
       "url": "https://rrb.digialm.com/EForms/configuredHtml/33128/101714/login.html",
       "details": "The CEN 09/2025 notification covers 22,195 vacancies in Level-1 (Group D) posts. The basic eligibility details are given below.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "a925c7d639be",
-      "title": "UP Police Constable Score Card 2026 Out",
-      "sub": "Result",
-      "url": "https://upcons2025.com/conmailrequest/loginpage.aspx",
-      "details": "The UP Police Constable Normalized Marks 2026 represent candidates' written examination scores after application of the Board's normalization procedure.",
       "rushScore": 125,
       "active": true
     }
