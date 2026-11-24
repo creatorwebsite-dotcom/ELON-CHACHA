@@ -273,6 +273,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Common Recruitment Process for RRBs (CRP-RRBs-XV) for Recruitment of Group “A”",
+      "description": "<p>Official notification for Common Recruitment Process for RRBs (CRP-RRBs-XV) for Recruitment of Group “A”. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "fc2e865984af"
+      },
+      "datePosted": "2026-11-24",
+      "validThrough": "2026-12-24T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Common Recruitment Board",
+        "sameAs": "https://indianrailways.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Gujarat Police Recruitment 2026: Lokrakshak Vacancies Increased to 12,752; 241 PSI Posts Announced",
       "description": "<p>Official notification for Gujarat Police Recruitment 2026: Lokrakshak Vacancies Increased to 12,752; 241 PSI Posts Announced. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -923,6 +953,36 @@
       "hiringOrganization": {
         "@type": "Organization",
         "name": "PNB Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Recruitment of 500 Assistants",
+      "description": "<p>Official notification for Recruitment of 500 Assistants. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "535449d5fd3f"
+      },
+      "datePosted": "2026-11-23",
+      "validThrough": "2026-12-24T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Recruitment Recruitment Board",
         "sameAs": "https://ssc.gov.in"
       },
       "jobLocation": {
@@ -2253,66 +2313,6 @@
         "@type": "Organization",
         "name": "[rrbapply.gov.in] Recruitment Board",
         "sameAs": "https://indianrailways.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "The Recruitment & Retention Unit at the Magnificent Mile Lights Festival.🎄",
-      "description": "<p>Official notification for The Recruitment &amp; Retention Unit at the Magnificent Mile Lights Festival.🎄. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "62dfa4c92576"
-      },
-      "datePosted": "2026-11-22",
-      "validThrough": "2026-12-23T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "The Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Interior CS Onesimus Kipchumba Murkomen assures Kenyans that the upcoming police recruitment exercise will be free, fair and transparent.",
-      "description": "<p>Official notification for Interior CS Onesimus Kipchumba Murkomen assures Kenyans that the upcoming police recruitment exercise will be free, fair and transparent.. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "95a6fc0a6724"
-      },
-      "datePosted": "2026-11-22",
-      "validThrough": "2026-12-22T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Interior Recruitment Board",
-        "sameAs": "https://licindia.in"
       },
       "jobLocation": {
         "@type": "Place",
