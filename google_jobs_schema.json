@@ -154,6 +154,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "MP Police Constable Exam Date : पुलिस आरक्षक भर्ती की परीक्षा तारीख घोषित | ESB ने जारी किया शेड्यूल",
+      "description": "<p>Official notification for MP Police Constable Exam Date : पुलिस आरक्षक भर्ती की परीक्षा तारीख घोषित | ESB ने जारी किया शेड्यूल. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "f70a96297e21"
+      },
+      "datePosted": "2026-11-23",
+      "validThrough": "2026-12-24T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "MP Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Madhya Pradesh",
+          "addressRegion": "Madhya Pradesh",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "SR NO Police Department APPLICATION NO. Recruitment District Police constable recruitment Year Date Time 1 110**********88 CP",
       "description": "<p>Official notification for SR NO Police Department APPLICATION NO. Recruitment District Police constable recruitment Year Date Time 1 110**********88 CP. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2279,36 +2309,6 @@
         "@type": "PropertyValue",
         "name": "SARKARI NAUKAR BANEGA",
         "value": "0b3f192fc9b9"
-      },
-      "datePosted": "2026-11-20",
-      "validThrough": "2026-12-21T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "RRB Recruitment Board",
-        "sameAs": "https://indianrailways.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "RRB SSE Recruitment 2026 | Railway Senior Section Engineer Vacancy, New Rules & Notification Update",
-      "description": "<p>Official notification for RRB SSE Recruitment 2026 | Railway Senior Section Engineer Vacancy, New Rules &amp; Notification Update. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "c63db4b0531d"
       },
       "datePosted": "2026-11-20",
       "validThrough": "2026-12-21T23:59:59+05:30",
