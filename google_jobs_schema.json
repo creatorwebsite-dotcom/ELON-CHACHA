@@ -92,6 +92,126 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "National Police Service opens recruitment of graduate officers, seeks C plus candidates",
+      "description": "<p>Official notification for National Police Service opens recruitment of graduate officers, seeks C plus candidates. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "7b02676e68eb"
+      },
+      "datePosted": "2026-11-25",
+      "validThrough": "2026-12-25T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "National Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Keralam to raise women's share in police force to 30% via phased recruitment",
+      "description": "<p>Official notification for Keralam to raise women's share in police force to 30% via phased recruitment. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "8f356374cd7e"
+      },
+      "datePosted": "2026-11-25",
+      "validThrough": "2026-12-25T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Keralam Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Keralam plans 30% women in police force, introduces merit-based Crime Branch recruitment",
+      "description": "<p>Official notification for Keralam plans 30% women in police force, introduces merit-based Crime Branch recruitment. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "acd3f3e02680"
+      },
+      "datePosted": "2026-11-25",
+      "validThrough": "2026-12-25T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Keralam Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Indonesia foils recruitment of 21 citizens as Russian mercenaries",
+      "description": "<p>Official notification for Indonesia foils recruitment of 21 citizens as Russian mercenaries. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "789b3397553a"
+      },
+      "datePosted": "2026-11-25",
+      "validThrough": "2026-12-25T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Indonesia Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "SBI Recruitment ⚡️ Last Date to Apply🔥",
       "description": "<p>Official notification for SBI Recruitment ⚡️ Last Date to Apply🔥. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -197,6 +317,36 @@
         "@type": "Organization",
         "name": "Police Recruitment Board",
         "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Indian Bank Apprentice Online Form 2026 – Last Date Today",
+      "description": "<p>Application Fee For General/ OBC/ EWS : ₹ 800/- For SC/ ST : ₹ 175/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "56ae341c696e"
+      },
+      "datePosted": "2026-11-25",
+      "validThrough": "2026-11-25T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Indian Bank Apprentice",
+        "sameAs": "https://www.indianbank.in/career/"
       },
       "jobLocation": {
         "@type": "Place",
@@ -2162,158 +2312,6 @@
         "@type": "Organization",
         "name": "SBI Recruitment Board",
         "sameAs": "https://sbi.co.in/web/careers"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "SBI Vacancy News. #recruitment #SBIJobs",
-      "description": "<p>Official notification for SBI Vacancy News. #recruitment #SBIJobs. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "7b669e598278"
-      },
-      "datePosted": "2026-11-23",
-      "validThrough": "2026-12-23T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "SBI Recruitment Board",
-        "sameAs": "https://sbi.co.in/web/careers"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "MP Police Recruitment 2026: आरक्षक भर्ती की लिखित परीक्षा स्थगित! ESB ने आगे बढ़ाई तारीख",
-      "description": "<p>Official notification for MP Police Recruitment 2026: आरक्षक भर्ती की लिखित परीक्षा स्थगित! ESB ने आगे बढ़ाई तारीख. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "43842cedeb56"
-      },
-      "datePosted": "2026-11-23",
-      "validThrough": "2026-12-23T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "MP Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Madhya Pradesh",
-          "addressRegion": "Madhya Pradesh",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Goa Police Police Constable Offline Form 2026 (52 Vacancy)",
-      "description": "<p>The official notification also specifies the application submission location, seniority-based absorption process and mandatory basic training after appointment. Interested candidates should read the notification carefully before submitting their applications.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "60a578755fea"
-      },
-      "datePosted": "2026-11-23",
-      "validThrough": "2026-12-21T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Goa Police Police Constable Offline Form",
-        "sameAs": "https://citizen.goapolice.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Goa",
-          "addressRegion": "Goa",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 52
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "BHEL FTA Grade III Online Form 2026 (64 Vacancy)",
-      "description": "<p>Bharat Heavy Electricals Limited, Electronics Division, Bengaluru, has issued Advertisement No. FTA 02/2026 for 64 fixed-tenure Project Engineer, Project Supervisor and Hindi Translator positions. The notification provides complete details of post-wise vacancies, qualifications, relevant experience, age limits, reservation, remuneration, application fees, selection procedure, postal address and important dates.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "f99ef9ab3e90"
-      },
-      "datePosted": "2026-11-23",
-      "validThrough": "2026-12-10T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "BHEL FTA Grade III",
-        "sameAs": "https://edn.bhel.com"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 64
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "UPSC NDA / NA-I Online Form 2027",
-      "description": "<p>Union Public Service Commission UPSC has released a short notice on its official website for the recruitment of UPSC NDA / NA-I 01/2027 Examination . The UPSC Application Form will start on 02 December 2026 &amp; the candidates can apply until 22 December 2026 . Candidates must check the complete details for UPSC NDA / NA-I Recruitment 2027 which are given below. ( Advt No : 01/2027 )</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "5b2bfd90854a"
-      },
-      "datePosted": "2026-11-23",
-      "validThrough": "2026-12-22T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "UPSC NDA / NA-I",
-        "sameAs": "https://upsc.gov.in/whats-new"
       },
       "jobLocation": {
         "@type": "Place",
