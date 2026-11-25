@@ -62,6 +62,37 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "UPESSC 17735 Assistant Teacher Online Form 2026",
+      "description": "<p>Update: UPESSC has extended the last date for online application and fee payment for Advertisement No. 07/2026 (TGT) to 28 November 2026, and the last date for correction in the online application to 30 November 2026. The written examination dates (23 and 24 December 2026) and all other terms are unchanged.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "72e0bbf94048"
+      },
+      "datePosted": "2026-11-28",
+      "validThrough": "2026-11-28T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "UPESSC 17735 Assistant Teacher",
+        "sameAs": "https://upessc.up.gov.in/"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 17735
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "NHPC Trainee Engineer and Officer Online Form 2026 (47 Vacancy)",
       "description": "<p>NHPC Limited has released the notification for NHPC Trainee Engineer and Officer Recruitment 2026 through GATE 2026, offering 47 vacancies across Electronics and Communication, Environment, Information Technology, Geology and Geophysics disciplines. The recruitment includes 45 vacancies under the main vacancy table and two separately listed PwBD vacancies.</p>",
       "identifier": {
@@ -181,6 +212,37 @@
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
       "totalJobOpenings": 56
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "UKSSSC Uttarakhand Police SI Recruitment Notification 2026 OUT for 200 Vacancies, Check Online Application Dates",
+      "description": "<p>Official notification for UKSSSC Uttarakhand Police SI Recruitment Notification 2026 OUT for 200 Vacancies, Check Online Application Dates. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "5c2f85625bac"
+      },
+      "datePosted": "2026-11-25",
+      "validThrough": "2026-12-26T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "UKSSSC Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Uttarakhand",
+          "addressRegion": "Uttarakhand",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 200
     },
     {
       "@context": "https://schema.org/",
@@ -543,6 +605,36 @@
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
       "totalJobOpenings": 837
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "📢 National Institute of Bank Management (NIBM), Pune Recruitment 2026 – Library Assistant Vacancy | Apply Before 03 December 2026!",
+      "description": "<p>Official notification for 📢 National Institute of Bank Management (NIBM), Pune Recruitment 2026 – Library Assistant Vacancy | Apply Before 03 December 2026!. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "a1f922d3756f"
+      },
+      "datePosted": "2026-11-25",
+      "validThrough": "2026-12-03T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "📢 Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Maharashtra",
+          "addressRegion": "Maharashtra",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
     },
     {
       "@context": "https://schema.org/",
@@ -2236,96 +2328,6 @@
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
       "totalJobOpenings": 460
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Indian Army Havildar and Naib Subedar (Sports Quota) Offline Form 2026",
-      "description": "<p>The Army Sports Control Board has issued a short recruitment advertisement for Direct Entry Havildar and Naib Subedar (Sports), Intake Serial No. 07/2026 .</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "70d34488da76"
-      },
-      "datePosted": "2026-11-23",
-      "validThrough": "2026-12-31T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Indian Army Havildar and Naib Subedar (Sports Quota) Offline Form",
-        "sameAs": "https://joinindianarmy.nic.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "BIS amends recruitment rules, can hire successful candidates from UPSC, SSC exams",
-      "description": "<p>Official notification for BIS amends recruitment rules, can hire successful candidates from UPSC, SSC exams. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "0784d9b0e420"
-      },
-      "datePosted": "2026-11-23",
-      "validThrough": "2026-12-24T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "BIS Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "PNB Recruitment 2027 | PNB New Vacancy 2027 |Govt Jobs Dec 2026|Bank Vacancy 2027|Govt Jobs 2027",
-      "description": "<p>Official notification for PNB Recruitment 2027 | PNB New Vacancy 2027 |Govt Jobs Dec 2026|Bank Vacancy 2027|Govt Jobs 2027. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "77fc29ee3e89"
-      },
-      "datePosted": "2026-11-23",
-      "validThrough": "2026-12-24T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "PNB Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
     }
   ]
 }
