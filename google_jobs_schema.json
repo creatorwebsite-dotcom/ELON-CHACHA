@@ -92,6 +92,96 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Long Beach begins recruitment process for new police chief, invites community views",
+      "description": "<p>Official notification for Long Beach begins recruitment process for new police chief, invites community views. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "16d94837901b"
+      },
+      "datePosted": "2026-11-25",
+      "validThrough": "2026-12-25T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Long Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Annapolis turns to recruitment firm to find city's next police chief",
+      "description": "<p>Official notification for Annapolis turns to recruitment firm to find city's next police chief. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "b59c06fa0f9d"
+      },
+      "datePosted": "2026-11-25",
+      "validThrough": "2026-12-25T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Annapolis Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Police recruitment 2026: How much will police cadet officers earn monthly? Read the whole story here: https://t.co/hwgYyEX7CC",
+      "description": "<p>Official notification for Police recruitment 2026: How much will police cadet officers earn monthly? Read the whole story here: https://t.co/hwgYyEX7CC. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "8b6beebbe06e"
+      },
+      "datePosted": "2026-11-25",
+      "validThrough": "2026-12-25T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Police Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "BHEL 415 Engineer and Supervisor Trainee Online Form 2026",
       "description": "<p>Bharat Heavy Electricals Limited has published a recruitment notice for Engineer/Executive Trainee and Supervisor Trainee positions for 2027. The recruitment covers Mechanical, Electrical, Electronics, Civil, HR, Finance and IT/CS disciplines for Engineer/Executive Trainees, along with Mechanical, Electrical, Electronics, Civil, HR and Finance disciplines for Supervisor Trainees.</p>",
       "identifier": {
@@ -506,6 +596,36 @@
           "@type": "PostalAddress",
           "addressLocality": "Gujarat",
           "addressRegion": "Gujarat",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "UPSC ESIC DD New Recruitment Rules | Will ESIC Deputy Director Exam Notification Come in 2027?",
+      "description": "<p>Official notification for UPSC ESIC DD New Recruitment Rules | Will ESIC Deputy Director Exam Notification Come in 2027?. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "dcd6057f0beb"
+      },
+      "datePosted": "2026-11-24",
+      "validThrough": "2026-12-25T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "UPSC Recruitment Board",
+        "sameAs": "https://upsc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
           "addressCountry": "IN"
         }
       },
@@ -2194,126 +2314,6 @@
         "@type": "Organization",
         "name": "NTA AISSEE 2027",
         "sameAs": "https://exams.nta.nic.in/sainik-school-society/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Website of Railway Recruitment Board, Prayagraj",
-      "description": "<p>Official notification for Website of Railway Recruitment Board, Prayagraj. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "3ac72e6c7745"
-      },
-      "datePosted": "2026-11-22",
-      "validThrough": "2026-12-24T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Website Recruitment Board",
-        "sameAs": "https://indianrailways.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Uttar Pradesh",
-          "addressRegion": "Uttar Pradesh",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Upsc+direct+recruitment",
-      "description": "<p>Official notification for Upsc+direct+recruitment. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "2fde6dc566ba"
-      },
-      "datePosted": "2026-11-22",
-      "validThrough": "2026-12-23T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Upsc+direct+recruitment Recruitment Board",
-        "sameAs": "https://upsc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "AIIMS Mangalagiri Andhra Pradesh Vacancy",
-      "description": "<p>Official notification for AIIMS Mangalagiri Andhra Pradesh Vacancy. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "4bfa44b8ba23"
-      },
-      "datePosted": "2026-11-22",
-      "validThrough": "2026-12-24T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "AIIMS Recruitment Board",
-        "sameAs": "https://aiimsexams.ac.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "POLICE RECRUITMENT... \"Kuri na ujukania bwa borisi, kenda Kenya yumba kwithirwa iri na abisaa ba kung'ana ba gutungatira mwingi\"",
-      "description": "<p>Official notification for POLICE RECRUITMENT... \"Kuri na ujukania bwa borisi, kenda Kenya yumba kwithirwa iri na abisaa ba kung'ana ba gutungatira mwingi\". Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "813035110cd7"
-      },
-      "datePosted": "2026-11-22",
-      "validThrough": "2026-12-22T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "POLICE Recruitment Board",
-        "sameAs": "https://licindia.in"
       },
       "jobLocation": {
         "@type": "Place",
