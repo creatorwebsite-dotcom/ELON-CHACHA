@@ -548,6 +548,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "बिहार पुलिस में निकली LDC की नई बहाली | ऐसे भरे फॉर्म | Bihar Police LDC Vacancy 2026 Form Fill Up",
+      "description": "<p>Official notification for बिहार पुलिस में निकली LDC की नई बहाली | ऐसे भरे फॉर्म | Bihar Police LDC Vacancy 2026 Form Fill Up. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "657d8f64c36c"
+      },
+      "datePosted": "2026-11-25",
+      "validThrough": "2026-12-26T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "बिहार Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Bihar",
+          "addressRegion": "Bihar",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Kerala government to review PSC recruitment system, Chief Secretary-led panel to examine rank lists and v",
       "description": "<p>Official notification for Kerala government to review PSC recruitment system, Chief Secretary-led panel to examine rank lists and v. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2294,36 +2324,6 @@
           "@type": "PostalAddress",
           "addressLocality": "Madhya Pradesh",
           "addressRegion": "Madhya Pradesh",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "SR NO Police Department APPLICATION NO. Recruitment District Police constable recruitment Year Date Time 1 110**********88 CP",
-      "description": "<p>Official notification for SR NO Police Department APPLICATION NO. Recruitment District Police constable recruitment Year Date Time 1 110**********88 CP. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "8d2cc16b2f05"
-      },
-      "datePosted": "2026-11-23",
-      "validThrough": "2026-12-24T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "SR Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
           "addressCountry": "IN"
         }
       },
