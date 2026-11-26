@@ -155,6 +155,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "National Police cadet recruitment 2026: 14 professions with added advantage",
+      "description": "<p>Official notification for National Police cadet recruitment 2026: 14 professions with added advantage. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "e519ee4e2004"
+      },
+      "datePosted": "2026-11-26",
+      "validThrough": "2026-12-26T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "National Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Gujarat Police 13,152 Various Posts Online Form 2026",
       "description": "<p>GPRB Quick Summary 2026 · 13,152 Posts COMPANY NAME Gujarat Police Recruitment Board POST NAME Police Constable, Motor Transport Supervisor and More QUALIFICATION 12TH VACANCY 13,152 Posts LAST DATE 16-12-2026</p>",
       "identifier": {
@@ -212,6 +242,36 @@
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
       "totalJobOpenings": 56
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Women's Development Bank Ghana recruitment 2026",
+      "description": "<p>Official notification for Women's Development Bank Ghana recruitment 2026. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "f33714513861"
+      },
+      "datePosted": "2026-11-25",
+      "validThrough": "2026-12-26T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Women's Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
     },
     {
       "@context": "https://schema.org/",
@@ -428,6 +488,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "ଏହିଦିନ ହେବ SI ପରୀକ୍ଷା | Odisha Police SI Exam Date | Examination Starts December 26",
+      "description": "<p>Official notification for ଏହିଦିନ ହେବ SI ପରୀକ୍ଷା | Odisha Police SI Exam Date | Examination Starts December 26. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "c14683e48c1e"
+      },
+      "datePosted": "2026-11-25",
+      "validThrough": "2026-12-26T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "ଏହିଦିନ Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Odisha",
+          "addressRegion": "Odisha",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Online Biology Tutor, NEET / MCAT / AIIMS Prep at Bamboo Recruitment",
       "description": "<p>Official notification for Online Biology Tutor, NEET / MCAT / AIIMS Prep at Bamboo Recruitment. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -604,6 +694,37 @@
         }
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Telangana Homeguard Recruitment 2026 Notification Out, 2000 Vacancy, Apply Online Link",
+      "description": "<p>Official notification for Telangana Homeguard Recruitment 2026 Notification Out, 2000 Vacancy, Apply Online Link. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "e51a8b6ec3d8"
+      },
+      "datePosted": "2026-11-25",
+      "validThrough": "2026-12-26T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Telangana Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 2000
     },
     {
       "@context": "https://schema.org/",
@@ -1092,6 +1213,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Recruitment Final Results",
+      "description": "<p>Official notification for Recruitment Final Results. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "656396d124b5"
+      },
+      "datePosted": "2026-11-25",
+      "validThrough": "2026-12-26T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Recruitment Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Police recruitment 2026: How much will police cadet officers earn monthly? Read the whole story here: https://t.co/hwgYyEX7CC",
       "description": "<p>Official notification for Police recruitment 2026: How much will police cadet officers earn monthly? Read the whole story here: https://t.co/hwgYyEX7CC. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -1378,6 +1529,36 @@
       "hiringOrganization": {
         "@type": "Organization",
         "name": "Recruitment Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "RECRUITMENT TEST MARK SHEET",
+      "description": "<p>Official notification for RECRUITMENT TEST MARK SHEET. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "3e6596831f06"
+      },
+      "datePosted": "2026-11-24",
+      "validThrough": "2026-12-26T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "RECRUITMENT Recruitment Board",
         "sameAs": "https://ssc.gov.in"
       },
       "jobLocation": {
@@ -2141,189 +2322,6 @@
           "@type": "PostalAddress",
           "addressLocality": "Uttar Pradesh",
           "addressRegion": "Uttar Pradesh",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "UPSSSC Inter (12th) Level Online Form 2026",
-      "description": "<p>Application Fee General, OBC, EWS : ₹ 25/- SC, ST : ₹ 25/- PH Candidates : ₹ 25/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "c8e289f6f344"
-      },
-      "datePosted": "2026-11-24",
-      "validThrough": "2026-12-01T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "UPSSSC Inter (12th) Level",
-        "sameAs": "http://upsssc.gov.in/Default.aspx"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Uttar Pradesh",
-          "addressRegion": "Uttar Pradesh",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "NMDC Various Apprentice Walk-in Form 2026 (247 Vacancy)",
-      "description": "<p>NMDC Limited, Kirandul, Chhattisgarh, has invited applications for 247 posts in 20 roles under Advt No. KC/T &amp; S/ 2026. The posts include Trade Apprentice - Machinist, Trade Apprentice - Fitter, Trade Apprentice - Welder, Trade Apprentice - Mechanic Diesel and 16 more. Selection is through a walk-in interview on 14 December 2026.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "6d0cab830bca"
-      },
-      "datePosted": "2026-11-24",
-      "validThrough": "2026-12-25T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "NMDC Various Apprentice Walk-in Form",
-        "sameAs": "https://www.nmdc.co.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 247
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "BEL Various Posts Online Form 2026 (23 Vacancy)",
-      "description": "<p>The 23 vacancies are spread over three posts and nine roles. The notice says the number of vacancies may be increased or decreased based on the actual requirement at the discretion of the Management.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "531cc4ba266d"
-      },
-      "datePosted": "2026-11-24",
-      "validThrough": "2026-12-09T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "BEL Various Posts",
-        "sameAs": "https://bel-india.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 23
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "NTA CMAT 2027 Online Form",
-      "description": "<p>National Testing Agency (NTA) , has released a Notification for the NTA CMAT Common Management Admission Test Examination 2027 on the official website . The Exam was conducted in 11 February 2027 , The NTA CMMAT application form has started on 23 November 2026, and candidates can apply until 20 December 2026. Candidates must check the complete details for NTA CMAT Admission Form 2027, which are given below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "69eca78d9c0c"
-      },
-      "datePosted": "2026-11-24",
-      "validThrough": "2026-12-24T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "NTA CMAT 2027",
-        "sameAs": "https://cmat.nta.nic.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "MP Police Constable Recruitment Exam 2026 Postponed For 7,500 Posts, Congress Slams BJP Government Over",
-      "description": "<p>Official notification for MP Police Constable Recruitment Exam 2026 Postponed For 7,500 Posts, Congress Slams BJP Government Over. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "f86885ad3ed1"
-      },
-      "datePosted": "2026-11-23",
-      "validThrough": "2026-12-23T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "MP Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Madhya Pradesh",
-          "addressRegion": "Madhya Pradesh",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 7500
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "MP Police Constable Exam Date : पुलिस आरक्षक भर्ती की परीक्षा तारीख घोषित | ESB ने जारी किया शेड्यूल",
-      "description": "<p>Official notification for MP Police Constable Exam Date : पुलिस आरक्षक भर्ती की परीक्षा तारीख घोषित | ESB ने जारी किया शेड्यूल. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "f70a96297e21"
-      },
-      "datePosted": "2026-11-23",
-      "validThrough": "2026-12-24T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "MP Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Madhya Pradesh",
-          "addressRegion": "Madhya Pradesh",
           "addressCountry": "IN"
         }
       },
