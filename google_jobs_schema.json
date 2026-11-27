@@ -124,6 +124,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Hii si mcheso ya town? Ref. No. PRESS STATEMENT MONITOR POLICE RECRUITMENT",
+      "description": "<p>Official notification for Hii si mcheso ya town? Ref. No. PRESS STATEMENT MONITOR POLICE RECRUITMENT. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "e0f54a6484a8"
+      },
+      "datePosted": "2026-11-27",
+      "validThrough": "2026-12-27T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Hii Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "IBPS PO Mains Cut Off 2026 Out @ibps.in, Check Phase 2 Category & Section Wise Marks",
       "description": "<p>Official notification for IBPS PO Mains Cut Off 2026 Out @ibps.in, Check Phase 2 Category &amp; Section Wise Marks. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2296,37 +2326,6 @@
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
       "totalJobOpenings": 156
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "TCIL Various Posts Recruitment 2026 (27 Vacancy)",
-      "description": "<p>The official notification does not specify the number of vacancies, the age limit or the application fee.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "0e6348e7193b"
-      },
-      "datePosted": "2026-11-26",
-      "validThrough": "2026-12-31T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "TCIL Various Posts",
-        "sameAs": "https://tcil.net.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 27
     }
   ]
 }
