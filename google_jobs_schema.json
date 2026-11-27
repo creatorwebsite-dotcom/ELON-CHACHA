@@ -124,6 +124,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Recruitment notice from UPSC, New Delhi.",
+      "description": "<p>Official notification for Recruitment notice from UPSC, New Delhi.. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "70781e6067b2"
+      },
+      "datePosted": "2026-11-27",
+      "validThrough": "2026-12-27T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Recruitment Recruitment Board",
+        "sameAs": "https://upsc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Soudha police seek AG’s opinion on fresh FIR into KPSC recruitment irregularities",
       "description": "<p>Official notification for Soudha police seek AG’s opinion on fresh FIR into KPSC recruitment irregularities. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -848,6 +878,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "SBI Bank Vacancy 2026: 12,000 Clerks, PO, SO, Apprentice and Other Posts Recruitment, 250 New Branches",
+      "description": "<p>Official notification for SBI Bank Vacancy 2026: 12,000 Clerks, PO, SO, Apprentice and Other Posts Recruitment, 250 New Branches. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "4e69b9e384bf"
+      },
+      "datePosted": "2026-11-26",
+      "validThrough": "2026-12-27T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "SBI Recruitment Board",
+        "sameAs": "https://sbi.co.in/web/careers"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "SBI Recruitment: Bank hires 1,540 junior associates, plans to recruit up to 12,000 staff in FY27",
       "description": "<p>Official notification for SBI Recruitment: Bank hires 1,540 junior associates, plans to recruit up to 12,000 staff in FY27. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -863,6 +923,36 @@
         "@type": "Organization",
         "name": "SBI Recruitment Board",
         "sameAs": "https://sbi.co.in/web/careers"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "RRB Station Master Vacancy 2026 Out, Zone Wise and Category Wise Vacancies PDF",
+      "description": "<p>Official notification for RRB Station Master Vacancy 2026 Out, Zone Wise and Category Wise Vacancies PDF. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "a68fc40c3e94"
+      },
+      "datePosted": "2026-11-26",
+      "validThrough": "2026-12-27T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "RRB Recruitment Board",
+        "sameAs": "https://indianrailways.gov.in"
       },
       "jobLocation": {
         "@type": "Place",
@@ -2231,96 +2321,6 @@
           "@type": "PostalAddress",
           "addressLocality": "Karnataka",
           "addressRegion": "Karnataka",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Women’s Development Bank begins recruitment, head office due for handover in December – Gov’t #CitiNewsroom #CitiFM #GhanaNews Read more ⬇️",
-      "description": "<p>Official notification for Women’s Development Bank begins recruitment, head office due for handover in December – Gov’t #CitiNewsroom #CitiFM #GhanaNews Read more ⬇️. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "fd7791e2941e"
-      },
-      "datePosted": "2026-11-25",
-      "validThrough": "2026-12-25T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Women’s Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "National Police Service opens recruitment of graduate officers, seeks C plus candidates",
-      "description": "<p>Official notification for National Police Service opens recruitment of graduate officers, seeks C plus candidates. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "7b02676e68eb"
-      },
-      "datePosted": "2026-11-25",
-      "validThrough": "2026-12-25T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "National Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Keralam to raise women's share in police force to 30% via phased recruitment",
-      "description": "<p>Official notification for Keralam to raise women's share in police force to 30% via phased recruitment. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "8f356374cd7e"
-      },
-      "datePosted": "2026-11-25",
-      "validThrough": "2026-12-25T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Keralam Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
           "addressCountry": "IN"
         }
       },
