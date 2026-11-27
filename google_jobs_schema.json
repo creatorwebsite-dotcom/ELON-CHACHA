@@ -124,6 +124,97 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "DRDO LRDE Apprentice Posts Walk-in 2026 (105 Vacancy)",
+      "description": "<p>The official three-page notification contains category-wise vacancies, essential qualifications, stipends, walk-in dates, selection rules, eligibility restrictions, required documents and training conditions.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "a3e3a12c22f1"
+      },
+      "datePosted": "2026-11-27",
+      "validThrough": "2026-12-01T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "DRDO LRDE Apprentice Posts Walk-in",
+        "sameAs": "https://www.drdo.gov.in/"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 105
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "The National Police Service (NPS) has announced new recruitment centres across six counties. New venues in comments. Photo: NPS/Facebook.",
+      "description": "<p>Official notification for The National Police Service (NPS) has announced new recruitment centres across six counties. New venues in comments. Photo: NPS/Facebook.. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "2effd6bad2a8"
+      },
+      "datePosted": "2026-11-27",
+      "validThrough": "2026-12-27T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "The Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "NPS Announces Changes to December Mass Police Recruitment",
+      "description": "<p>Official notification for NPS Announces Changes to December Mass Police Recruitment. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "0027619c2295"
+      },
+      "datePosted": "2026-11-27",
+      "validThrough": "2026-12-27T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "NPS Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Recruitment notice from UPSC, New Delhi.",
       "description": "<p>Official notification for Recruitment notice from UPSC, New Delhi.. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -180,6 +271,37 @@
         }
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "AP Police Constable Recruitment 2026: Applications open today at slprb.ap.gov.in for 1,156 vacancies",
+      "description": "<p>Official notification for AP Police Constable Recruitment 2026: Applications open today at slprb.ap.gov.in for 1,156 vacancies. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "a091d77a81a4"
+      },
+      "datePosted": "2026-11-27",
+      "validThrough": "2026-12-27T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "AP Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 1156
     },
     {
       "@context": "https://schema.org/",
@@ -570,6 +692,36 @@
           "@type": "PostalAddress",
           "addressLocality": "All India / Central",
           "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "90 PM 90 NEWS | Gujarat Police Recruitment | ગુજરાત પોલીસ ભરતી માટે ઓનલાઈન ફોર્મ ભરવાની શરૂઆત",
+      "description": "<p>Official notification for 90 PM 90 NEWS | Gujarat Police Recruitment | ગુજરાત પોલીસ ભરતી માટે ઓનલાઈન ફોર્મ ભરવાની શરૂઆત. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "1a7a631c6354"
+      },
+      "datePosted": "2026-11-26",
+      "validThrough": "2026-12-27T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "90 Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Gujarat",
+          "addressRegion": "Gujarat",
           "addressCountry": "IN"
         }
       },
@@ -1267,6 +1419,68 @@
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
       "totalJobOpenings": 935
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "BPSC 935 AEDO Online Form 2026",
+      "description": "<p>Event Date Official Notification Release 26 November 2026 Online Application Start Date 1 December 2026 Last Date for Examination Fee Payment 30 December 2026 Last Date to Submit Online Application 31 December 2026 Preliminary Examination Date To Be Announced Main Examination Date To Be Announced Admit Card Release Date To Be Announced Document Verification As Notified by BPSC</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "6af69e799209"
+      },
+      "datePosted": "2026-11-26",
+      "validThrough": "2026-12-31T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "BPSC 935 AEDO",
+        "sameAs": "https://bpsc.bihar.gov.in/"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Bihar",
+          "addressRegion": "Bihar",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 935
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "BPSC 147 Agriculture Department Posts Online Form 2026",
+      "description": "<p>BPSC has announced separate deadlines for online registration, examination fee payment and final application submission.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "fe66fbbd46a7"
+      },
+      "datePosted": "2026-11-26",
+      "validThrough": "2027-01-12T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "BPSC 147 Agriculture Department Posts",
+        "sameAs": "https://bpsc.bihar.gov.in/"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Bihar",
+          "addressRegion": "Bihar",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 147
     },
     {
       "@context": "https://schema.org/",
@@ -2108,219 +2322,6 @@
           "@type": "PostalAddress",
           "addressLocality": "All India / Central",
           "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Bank of Baroda Recruitment 2026: Application Deadline Extended to December 7 for 837 Posts",
-      "description": "<p>Official notification for Bank of Baroda Recruitment 2026: Application Deadline Extended to December 7 for 837 Posts. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "67f3ed82a62e"
-      },
-      "datePosted": "2026-11-25",
-      "validThrough": "2026-12-25T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Bank Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 837
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "📢 National Institute of Bank Management (NIBM), Pune Recruitment 2026 – Library Assistant Vacancy | Apply Before 03 December 2026!",
-      "description": "<p>Official notification for 📢 National Institute of Bank Management (NIBM), Pune Recruitment 2026 – Library Assistant Vacancy | Apply Before 03 December 2026!. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "a1f922d3756f"
-      },
-      "datePosted": "2026-11-25",
-      "validThrough": "2026-12-03T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "📢 Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Maharashtra",
-          "addressRegion": "Maharashtra",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Gujarat Police Recruitment | પોલીસ વિભાગમાં 12,993 જગ્યાઓ પર ભરતી | Police | SRPF | PSI | LRD",
-      "description": "<p>Official notification for Gujarat Police Recruitment | પોલીસ વિભાગમાં 12,993 જગ્યાઓ પર ભરતી | Police | SRPF | PSI | LRD. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "0f1edf9d2743"
-      },
-      "datePosted": "2026-11-25",
-      "validThrough": "2026-12-26T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Gujarat Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Maharashtra",
-          "addressRegion": "Maharashtra",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Karnataka Judiciary Online Recruitment",
-      "description": "<p>Official notification for Karnataka Judiciary Online Recruitment. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "6da887cac925"
-      },
-      "datePosted": "2026-11-25",
-      "validThrough": "2026-12-26T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Karnataka Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Karnataka",
-          "addressRegion": "Karnataka",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Telangana Police Home Guard Vacancy 2026 Out For 2000 Posts, Notification Out On 06 December",
-      "description": "<p>Official notification for Telangana Police Home Guard Vacancy 2026 Out For 2000 Posts, Notification Out On 06 December. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "d6f549a436c6"
-      },
-      "datePosted": "2026-11-25",
-      "validThrough": "2026-12-25T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Telangana Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 2000
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Bank of Baroda Recruitment 2026: Last date extended to December 7 for 837 posts; details here",
-      "description": "<p>Official notification for Bank of Baroda Recruitment 2026: Last date extended to December 7 for 837 posts; details here. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "cd78a5f4e190"
-      },
-      "datePosted": "2026-11-25",
-      "validThrough": "2026-12-25T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Bank Recruitment Board",
-        "sameAs": "https://indiapostgdsonline.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 837
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Karnataka Bank to conduct mass pool campus recruitment drive at SMVITM, Bantakal",
-      "description": "<p>Official notification for Karnataka Bank to conduct mass pool campus recruitment drive at SMVITM, Bantakal. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "53234eef0ac1"
-      },
-      "datePosted": "2026-11-25",
-      "validThrough": "2026-12-25T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Karnataka Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Karnataka",
-          "addressRegion": "Karnataka",
           "addressCountry": "IN"
         }
       },
