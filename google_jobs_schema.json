@@ -62,6 +62,37 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "AP DSC 2721 Teacher Online Form 2026",
+      "description": "<p>Eligible candidates can submit applications at tet2dsc.apcfss.in from 11 to 30 November 2026 . The recruitment examinations are scheduled from 20 December 2026 to 13 January 2027 . Check the notification-wise vacancy breakup, age limits, fee, selection rules, district-wise openings and official syllabus below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "74e1f017f0ce"
+      },
+      "datePosted": "2026-11-30",
+      "validThrough": "2026-12-28T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "AP DSC 2721 Teacher",
+        "sameAs": "https://tet2dsc.apcfss.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 2721
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "ONGC Apprentice Online Form 2026 (3047 Vacancy)",
       "description": "<p>Update: ONGC has extended the last date for submission of applications under NAPS to 29 November 2026 due to technical reasons (Corrigendum No. ONGC/APPR/1/2026/Cor-1 dated 19 November 2026). The last date for applications under NATS is unchanged at 20 November 2026.</p>",
       "identifier": {
@@ -93,6 +124,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Recruitment notice from India Exim Bank.",
+      "description": "<p>Official notification for Recruitment notice from India Exim Bank.. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "fa0cadb2c2ae"
+      },
+      "datePosted": "2026-11-28",
+      "validThrough": "2026-12-28T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Recruitment Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "UPESSC 17735 Assistant Teacher Online Form 2026",
       "description": "<p>Update: UPESSC has extended the last date for online application and fee payment for Advertisement No. 07/2026 (TGT) to 28 November 2026, and the last date for correction in the online application to 30 November 2026. The written examination dates (23 and 24 December 2026) and all other terms are unchanged.</p>",
       "identifier": {
@@ -120,6 +181,36 @@
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
       "totalJobOpenings": 17735
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "HDFC Bank Recruitment 2026 | HDFC Job Vacancy 2026 | Bank Recruitment 2026 | New Bank Vacancies 2026",
+      "description": "<p>Official notification for HDFC Bank Recruitment 2026 | HDFC Job Vacancy 2026 | Bank Recruitment 2026 | New Bank Vacancies 2026. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "26d5a135366f"
+      },
+      "datePosted": "2026-11-27",
+      "validThrough": "2026-12-28T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "HDFC Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
     },
     {
       "@context": "https://schema.org/",
@@ -1814,6 +1905,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "RESEARCH PROJECT RECRUITMENT NOTICE",
+      "description": "<p>Official notification for RESEARCH PROJECT RECRUITMENT NOTICE. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "38619a99cfd7"
+      },
+      "datePosted": "2026-11-26",
+      "validThrough": "2026-12-28T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "RESEARCH Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Walk in interview for contractual vacancy at AIIMS Mangalagiri.",
       "description": "<p>Official notification for Walk in interview for contractual vacancy at AIIMS Mangalagiri.. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2205,127 +2326,6 @@
         }
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "UPSSSC Junior Engineer JE (Electrical) Online Form 2026",
-      "description": "<p>Application Fee General, OBC, EWS : ₹ 25/- SC, ST : ₹ 25/- PH Candidates : ₹ 25/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "57c396eda191"
-      },
-      "datePosted": "2026-11-26",
-      "validThrough": "2026-11-27T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "UPSSSC Junior Engineer JE (Electrical)",
-        "sameAs": "http://upsssc.gov.in/Default.aspx"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Uttar Pradesh",
-          "addressRegion": "Uttar Pradesh",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "RRB NTPC Graduate Level Online Form",
-      "description": "<p>Indian Railway Railway Recruitment Board RRB Non Technical Popular Categories Non Technical Popular Categories Graduate Level Recruitment CEN 06/2026. Those candidates who are Interested in This RRB NTPC CEN 06/2026 Vacancy Can Apply Online from 08/10/2026 to 08/11/2026 eligibility, post information, selection procedure, Details, age limit, pay scale and all other information.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "b9deba5c1b4d"
-      },
-      "datePosted": "2026-11-26",
-      "validThrough": "2026-12-26T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "RRB NTPC Graduate Level",
-        "sameAs": "https://www.rrbapply.gov.in/#/auth/landing"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "BPSC AEDO Online Form 2026",
-      "description": "<p>Important: The application fee payment deadline is 30 December 2026, while the final date for submitting the online application form is 31 December 2026. Candidates should complete both processes within the prescribed dates.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "a1837e1bd937"
-      },
-      "datePosted": "2026-11-26",
-      "validThrough": "2027-01-22T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "BPSC AEDO",
-        "sameAs": "https://bpsc.bihar.gov.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Bihar",
-          "addressRegion": "Bihar",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "VVCMC JE, Clerk and More Posts Online Form 2026 (156 Vacancy)",
-      "description": "<p>Vasai Virar City Municipal Corporation (VVCMC) has released the VVCMC Recruitment 2026 Notification for 156 Group C vacancies across 18 technical and non-technical post categories. The recruitment includes Junior Engineer, Clerk Typist, Electrician, Surveyor, Assistant Law Officer, Leading Fireman and other municipal corporation posts.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "61a506f02926"
-      },
-      "datePosted": "2026-11-26",
-      "validThrough": "2026-12-17T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "VVCMC JE, Clerk and More Posts",
-        "sameAs": "https://www.vvcmc.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 156
     }
   ]
 }
