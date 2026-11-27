@@ -1,29 +1,20 @@
 {
   "portal_brand": "SARKARI NAUKAR BANEGA",
-  "updated_at": "27 Nov 2026, 05:34:22 AM IST",
-  "last_2hr_sync_ist": "27 Nov 2026, 05:34:22 AM IST",
-  "last_2hr_sync_iso": "2026-11-27T05:34:09+05:30",
+  "updated_at": "27 Nov 2026, 07:33:34 AM IST",
+  "last_2hr_sync_ist": "27 Nov 2026, 07:33:34 AM IST",
+  "last_2hr_sync_iso": "2026-11-27T07:33:20+05:30",
   "window_days": 15,
-  "pruned_posts_last_run": 3,
-  "unseen_auto_published_count": 1549,
+  "pruned_posts_last_run": 183,
+  "unseen_auto_published_count": 1375,
   "category_counts": {
-    "latest_jobs": 441,
-    "results": 241,
-    "admit_cards": 438,
-    "answer_keys": 144,
-    "syllabus": 120,
-    "admissions": 165
+    "latest_jobs": 397,
+    "results": 220,
+    "admit_cards": 394,
+    "answer_keys": 130,
+    "syllabus": 93,
+    "admissions": 141
   },
   "trending_top_6": [
-    {
-      "id": "3a99fe53e116",
-      "title": "RRB 1,688 NTPC UG Online Form 2026",
-      "sub": "Last Date Extended",
-      "url": "https://www.rrbapply.gov.in/assets/forms/corrigendum1_07_2026_NTPC_UG.pdf",
-      "details": "Total Vacancies 1,688 Posts Ticket Clerk, Accounts Clerk, Junior Clerk, Trains Clerk Qualification 12th Pass Age Limit 18–30 Years Application Opens 15 Oct 2026 Last Date 15 Nov 2026, 11:59 PM Initial Salary ₹19,900–21,700 Application Fee ₹500 / ₹250 Selection Process CBT 1, CBT 2, Typing Test (if applicable), DV, Medical Apply Mode Online Only",
-      "rushScore": 147,
-      "active": true
-    },
     {
       "id": "72e0bbf94048",
       "title": "UPESSC 17735 Assistant Teacher Online Form 2026",
@@ -67,6 +58,15 @@
       "url": "https://ssc.gov.in",
       "details": "Official notification for TNUSRB Constable and SI Notification 2026-27 Out Soon For 34000 Vacancies, Check Details. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
       "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "3244ea96ab97",
+      "title": "UPPSC RO / ARO Online Form 2026 – Last Date Today",
+      "sub": "Today Last Date",
+      "url": "https://uppsc.up.nic.in/OuterPages/View_Enclosure.aspx?ID=307&flag=H&FID=946",
+      "details": "Application Fee For General / OBC / EWS : ₹ 125/- For SC / ST :₹ 65/- For PH : ₹ 25/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
+      "rushScore": 122,
       "active": true
     }
   ],
