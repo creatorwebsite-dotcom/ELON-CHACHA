@@ -1,18 +1,18 @@
 {
   "portal_brand": "SARKARI NAUKAR BANEGA",
-  "updated_at": "27 Nov 2026, 07:33:34 AM IST",
-  "last_2hr_sync_ist": "27 Nov 2026, 07:33:34 AM IST",
-  "last_2hr_sync_iso": "2026-11-27T07:33:20+05:30",
+  "updated_at": "27 Nov 2026, 09:36:47 AM IST",
+  "last_2hr_sync_ist": "27 Nov 2026, 09:36:47 AM IST",
+  "last_2hr_sync_iso": "2026-11-27T09:36:36+05:30",
   "window_days": 15,
-  "pruned_posts_last_run": 183,
-  "unseen_auto_published_count": 1375,
+  "pruned_posts_last_run": 3,
+  "unseen_auto_published_count": 1400,
   "category_counts": {
-    "latest_jobs": 397,
-    "results": 220,
-    "admit_cards": 394,
-    "answer_keys": 130,
-    "syllabus": 93,
-    "admissions": 141
+    "latest_jobs": 403,
+    "results": 223,
+    "admit_cards": 404,
+    "answer_keys": 131,
+    "syllabus": 97,
+    "admissions": 142
   },
   "trending_top_6": [
     {
@@ -22,6 +22,15 @@
       "url": "https://apply.upessc.org/",
       "details": "Update: UPESSC has extended the last date for online application and fee payment for Advertisement No. 07/2026 (TGT) to 28 November 2026, and the last date for correction in the online application to 30 November 2026. The written examination dates (23 and 24 December 2026) and all other terms are unchanged.",
       "rushScore": 140,
+      "active": true
+    },
+    {
+      "id": "cca56e416689",
+      "title": "GPRB Gujarat Police Constable Recruitment 2026 Out, 13152 Vacancies, Apply Online Link Active",
+      "sub": "Admit Card",
+      "url": "https://licindia.in",
+      "details": "Official notification for GPRB Gujarat Police Constable Recruitment 2026 Out, 13152 Vacancies, Apply Online Link Active. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 125,
       "active": true
     },
     {
@@ -58,15 +67,6 @@
       "url": "https://ssc.gov.in",
       "details": "Official notification for TNUSRB Constable and SI Notification 2026-27 Out Soon For 34000 Vacancies, Check Details. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
       "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "3244ea96ab97",
-      "title": "UPPSC RO / ARO Online Form 2026 – Last Date Today",
-      "sub": "Today Last Date",
-      "url": "https://uppsc.up.nic.in/OuterPages/View_Enclosure.aspx?ID=307&flag=H&FID=946",
-      "details": "Application Fee For General / OBC / EWS : ₹ 125/- For SC / ST :₹ 65/- For PH : ₹ 25/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
-      "rushScore": 122,
       "active": true
     }
   ],
