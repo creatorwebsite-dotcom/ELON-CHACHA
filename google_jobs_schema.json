@@ -124,6 +124,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Goods Train Manager की Vacancy 140% तक बढ़ेगी? DR Quota 25% से 60% | RRB NTPC #RRBNTPC #Railway",
+      "description": "<p>Official notification for Goods Train Manager की Vacancy 140% तक बढ़ेगी? DR Quota 25% से 60% | RRB NTPC #RRBNTPC #Railway. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "c7c8c96de0b5"
+      },
+      "datePosted": "2026-11-28",
+      "validThrough": "2026-12-28T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Goods Recruitment Board",
+        "sameAs": "https://indianrailways.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Delhi police arrest Jaish-e-Mohammed suspect involved in online recruitment and brainwashing",
       "description": "<p>Official notification for Delhi police arrest Jaish-e-Mohammed suspect involved in online recruitment and brainwashing. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2294,36 +2324,6 @@
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
       "totalJobOpenings": 1265
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "UPPSC RO / ARO Online Form 2026 – Last Date Today",
-      "description": "<p>Application Fee For General / OBC / EWS : ₹ 125/- For SC / ST :₹ 65/- For PH : ₹ 25/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "3244ea96ab97"
-      },
-      "datePosted": "2026-11-26",
-      "validThrough": "2026-11-26T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "UPPSC RO / ARO",
-        "sameAs": "https://uppsc.up.nic.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Uttar Pradesh",
-          "addressRegion": "Uttar Pradesh",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
     }
   ]
 }
