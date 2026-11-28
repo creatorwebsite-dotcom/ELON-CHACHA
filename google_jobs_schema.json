@@ -124,6 +124,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "CIVIL EXCISE OFFICER (TRAINEE) -Part I Direct Recruitment",
+      "description": "<p>Official notification for CIVIL EXCISE OFFICER (TRAINEE) -Part I Direct Recruitment. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "84e5606fcbc5"
+      },
+      "datePosted": "2026-11-28",
+      "validThrough": "2026-12-28T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "CIVIL Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Goods Train Manager की Vacancy 140% तक बढ़ेगी? DR Quota 25% से 60% | RRB NTPC #RRBNTPC #Railway",
       "description": "<p>Official notification for Goods Train Manager की Vacancy 140% तक बढ़ेगी? DR Quota 25% से 60% | RRB NTPC #RRBNTPC #Railway. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2293,37 +2323,6 @@
         }
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "RRB Station Master Notification 2026-27 PDF Out, 1265 Vacancy (CEN 08/2026), Exam Dates, Online Form",
-      "description": "<p>Official notification for RRB Station Master Notification 2026-27 PDF Out, 1265 Vacancy (CEN 08/2026), Exam Dates, Online Form. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "dea208fa68d7"
-      },
-      "datePosted": "2026-11-26",
-      "validThrough": "2026-12-27T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "RRB Recruitment Board",
-        "sameAs": "https://indianrailways.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 1265
     }
   ]
 }
